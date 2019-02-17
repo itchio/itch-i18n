@@ -437,7 +437,7 @@
     "grid.empty_state.explanation": "Twoje ustawienia filtrów spowodowały ukrycie wszystkich wyników",
     "grid.item.discard_download": "Anuluj pobieranie",
     "grid.item.not_compatible": "Niedostępne dla tej platformy",
-    "collections.empty": "Aktualnie nie posiadasz żadnych kolekcji",
+    "collections.empty": "Obecnie nie masz żadnych kolekcji",
     "collection.item_count": "{{itemCount}} przedmiotów",
     "collections.empty_sub": "Przeglądaj gry i dodawaj je do nowych kolekcji!",
     "download.ongoing.install": "Instalowanie {{title}}…",
