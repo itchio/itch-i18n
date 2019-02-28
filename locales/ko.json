@@ -236,7 +236,7 @@
     "table.column.published": "배포됨",
     "table.column.installed": "설치됨",
     "table.column.powered_by": "제공",
-    "collection_grid.item.updated_at": "마지막 업데이트 이후 {{{time_ago}}",
+    "collection_grid.item.updated_at": "마지막 업데이트 {{time_ago}}",
     "browser.open_devtools": "개발자 도구 열기",
     "browser.disabled": "itch 웹 브라우저 비활성화됨",
     "browser.reenable": "재활성화",
