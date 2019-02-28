@@ -9,7 +9,7 @@
     "grid.item.installing": "설치 중...",
     "grid.item.launch": "실행",
     "grid.item.not_platform_compatible": "{{platform}}에서는 사용할 수 없습니다.",
-    "grid.item.queued": "대기 중",
+    "grid.item.queued": "대기중",
     "grid.item.running": "실행 중…",
     "login.action.login": "Log in",
     "login.action.register": "가입하기",
