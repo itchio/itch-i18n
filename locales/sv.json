@@ -493,5 +493,5 @@
     "preferences.scan_install_locations": "Sök igenom installationsplatser för spel",
     "preferences.scan_install_locations.confirm_import": "Bekräfta importering",
     "preferences.scan_install_locations.import_items": "Importera {{numItems}} föremål",
-    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} föremål importerades lyckat"
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} föremål lyckades importeras"
 }
