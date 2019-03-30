@@ -446,5 +446,9 @@
     "prompt.uninstall_error.action_permissions": "Ta bort som administratör",
     "prompt.install_error.message": "Installationen misslyckades",
     "collection.item_count": "{{itemCount}} föremål",
-    "docs.how_to_help": "Hur kan jag hjälpa till?"
+    "docs.how_to_help": "Hur kan jag hjälpa till?",
+    "collections.empty_sub": "Bläddra efter några spel och lägg till dem i din samling!",
+    "grid.item.discard_download": "Rensa nedladdning",
+    "grid.item.queueing": "Lägger till i kö...",
+    "table.column.powered_by": "Driven av"
 }
