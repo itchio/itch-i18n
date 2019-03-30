@@ -348,7 +348,7 @@
     "grid.item.update": "Uppdatera",
     "notification.download_installed": "{{title}} har installerats!",
     "notification.download_updated": "{{title}} har uppdaterats!",
-    "notification.download_reverted": "{{title}} har återinstallerats som version {{version}}!",
+    "notification.download_reverted": "{{title}} har bytt till version {{version}}!",
     "preferences.behavior.open_at_login": "Starta itch när datorn startas",
     "preferences.behavior.open_at_login.error": "Autostart-inställningarna kunde inte sparas: {{cause}}",
     "preferences.behavior.open_at_login.causes.no_desktop_file": "Ingen .desktop fil hittades. Detta är normalt om itch inte installerades från ett paket. Se {{linux_install_page}} för mer info.",
