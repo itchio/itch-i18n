@@ -610,5 +610,8 @@
     "send_feedback.send.sending": "Skickar...",
     "send_feedback.final_thanks": "Tack för att du skickade en felrapport, det hjälper alla!",
     "send_feedback.success.intro": "Din felrapport har skickats in!",
-    "send_feedback.success.thanks": "Tack för din feedback"
+    "send_feedback.success.thanks": "Tack för din feedback",
+    "send_feedback.success.view_report": "Visa felrapport",
+    "send_feedback.success.view_report.delete": "(Du kan ta bort den från den här sidan)",
+    "send_feedback.success.promise": "Den kommer att gås igenom så snart vi kan, konverteras till en åtgärdsbar problemformulering, och förhoppningsvis åtgärdas i ett senare släpp."
 }
