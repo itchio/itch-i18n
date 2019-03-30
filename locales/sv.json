@@ -606,5 +606,8 @@
     "send_feedback.send.secret_url.feature_list.view": "Se allting som vi ser om felrapporten",
     "send_feedback.send.secret_url.feature_list.delete": "Ta bort den ifall du väljer att göra så.",
     "send_feedback.send.do_send": "Skicka felrapport",
-    "send_feedback.send.dont_send": "Förresten, ta mig bort härifrån"
+    "send_feedback.send.dont_send": "Förresten, ta mig bort härifrån",
+    "send_feedback.send.sending": "Skickar...",
+    "send_feedback.final_thanks": "Tack för att du skickade en felrapport, det hjälper alla!",
+    "send_feedback.success.intro": "Din felrapport skickades in utan fel!"
 }
