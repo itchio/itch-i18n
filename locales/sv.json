@@ -108,7 +108,7 @@
     "prompt.install_location_not_empty.message": "Installationskataloger kan endast tas bort när allt innehåll har avinstallerats.",
     "prompt.install_location_not_empty.show_contents": "Visa innehåll",
     "prompt.install_location_not_empty.title": "Denna installationskatalog är inte tom",
-    "prompt.install_location_remove.detail": "Alla saker installerade under {{location}} kommer att avinstalleras.",
+    "prompt.install_location_remove.detail": "Alla saker installerade under {{location}} kommer inte längre att hanteras av appen.",
     "prompt.install_location_remove.message": "Är du säker på att du vill ta bort den här installationskatalogen?",
     "prompt.install_location_remove.title": "Tar bort installationskatalog",
     "prompt.last_remaining_install_location.content": "Detta är den sista kvarvarande installationskatalogen, och den kan inte tas bort förrän en annan lagts till först.",
@@ -515,5 +515,9 @@
     "prompt.discard_download.detail": "Du kommer när som helst att kunna installera {{title}} igen, men det kommer att börja om från början.",
     "prompt.discard_download.action.stop_download": "Stoppa nedladdning",
     "prompt.discard_download.action.continue_download": "Fortsätt nedladdning",
-    "prompt.dangerous_discard_download.message": "Att stoppa den här nedladdningen kommer lämna {{title}} i ett ofullständigt tillstånd."
+    "prompt.dangerous_discard_download.message": "Om du stoppar den här nedladdningen kommer det att lämna {{title}} i ett ofullständigt tillstånd.",
+    "prompt.launch.title": "Starta {{title}}",
+    "prompt.sla.title": "Slutanvändaravtal",
+    "prompt.sla.message": "För att använda den här mjukvaran måste du först acceptera slutanvändaravtalet:",
+    "prompt.sla.accept": "Acceptera vilkor"
 }
