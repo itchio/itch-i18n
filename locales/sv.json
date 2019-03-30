@@ -519,5 +519,12 @@
     "prompt.launch.title": "Starta {{title}}",
     "prompt.sla.title": "Slutanvändaravtal",
     "prompt.sla.message": "För att använda den här mjukvaran måste du först acceptera slutanvändaravtalet:",
-    "prompt.sla.accept": "Acceptera vilkor"
+    "prompt.sla.accept": "Acceptera vilkor",
+    "prompt.dangerous_discard_download.detail": "Vi kommer att återställa {{title}} till den senaste versionen nästa gång du försöker använda det.",
+    "prompt.show_error.generic_message": "Någonting gick fel",
+    "prompt.show_error.details_for_nerds": "Detaljinformation för nördar",
+    "prompt.show_error.details_for_nerds.event_log": "Händelselogg",
+    "prompt.show_error.send_report": "Skicka en felrapport för att hjälpa till att lösa det här problemet",
+    "prompt.launch.message": "Vilken vill du öppna?",
+    "prompt.blessing.message": "Administratörprivilegier krävs för att hantera {{title}}"
 }
