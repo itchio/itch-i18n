@@ -615,5 +615,17 @@
     "send_feedback.success.view_report.delete": "(Du kan ta bort den från den här sidan)",
     "send_feedback.success.promise": "Den kommer att gås igenom så snart vi kan, konverteras till en åtgärdsbar problemformulering, och förhoppningsvis åtgärdas vid ett senare släpp.",
     "prompt.show_error.details_for_nerds.stack_trace": "Stack trace",
-    "plan_install.select_install_location": "Till katalog"
+    "plan_install.select_install_location": "Till katalog",
+    "send_feedback.error.intro": "Tyvärr, vi kunde inte skicka din felrapport.",
+    "send_feedback.nav.previous": "Föregående",
+    "send_feedback.nav.next": "Nästa",
+    "send_feedback.nav.close": "Stäng",
+    "send_feedback.steps.your_message": "Ditt meddelande",
+    "send_feedback.steps.system_info": "Systeminformation",
+    "send_feedback.steps.send": "Skicka felrapport",
+    "plan_install.computing_space_requirements": "Beräknar utrymmeskrav",
+    "plan_install.select_upload": "Installera",
+    "plan_install.disk_space_required": "Diskutrymme som krävs",
+    "plan_install.disk_space_available": "Diskutrymme tillgängligt",
+    "empty_state.nothing_to_see_here": "Ingenting att se här"
 }
