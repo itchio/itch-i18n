@@ -577,5 +577,6 @@
     "filter_by.games.classification.books": "Böcker",
     "filter_by.games.status.installed": "Installerade",
     "filter_by.games.paid_status.free": "Gratis",
-    "filter_by.games.paid_status.paid": "Betald"
+    "filter_by.games.paid_status.paid": "Betal",
+    "filter_by.games.visibility.draft": "Utkast"
 }
