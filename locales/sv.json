@@ -316,7 +316,7 @@
     "status.offline_mode.inactive": "Klicka för att aktivera offline-läge",
     "usage_stats.description.assets": "En asset-samling",
     "usage_stats.description.book": "En bok",
-    "usage_stats.description.bought_time_ago": "Köptes {{time_ago}}",
+    "usage_stats.description.bought_time_ago": "Införskaffades {{time_ago}}",
     "usage_stats.description.comic": "Ett seriealbum",
     "usage_stats.description.free_download": "Fri nedladdning",
     "usage_stats.description.game": "Ett spel",
@@ -535,5 +535,7 @@
     "prompt.revert.version": "version {{version}}",
     "prompt.revert.no_other_version": "Ingen annan version är tillgänglig.",
     "prompt.self_update_ready.short": "Ny version tillgänglig",
-    "prompt.uninstall_error.title": "Avinstalleringsfel"
+    "prompt.uninstall_error.title": "Problem under avinstallation",
+    "status.downloads.category.recent_activity": "Senaste aktiviten",
+    "filter_by.games.classification.assets": "Spelresurser"
 }
