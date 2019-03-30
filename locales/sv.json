@@ -529,5 +529,5 @@
     "prompt.blessing.message": "Administratörsprivilegier krävs för att hantera {{title}}",
     "prompt.blessing.detail": "Fortsätt bara ifall du litar på skaparen.",
     "prompt.manage_game.title": "Hantera {{title}}",
-    "prompt.manage_game.installed_uploads": "De följande föremålen är installerade:"
+    "prompt.manage_game.installed_uploads": "Följande föremål är installerade:"
 }
