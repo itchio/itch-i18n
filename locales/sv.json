@@ -581,5 +581,16 @@
     "filter_by.games.visibility.draft": "Utkast",
     "filter_by.games.visibility.published": "Publicerat",
     "log.level.debug": "Debug",
-    "send_feedback.title": "Skicka feedback"
+    "send_feedback.title": "Skicka feedback",
+    "game_stripe.view_all": "Visa alla...",
+    "log.level": "Nivå",
+    "log.level.info": "Info",
+    "log.level.warning": "Varning",
+    "log.level.error": "Fel",
+    "install_locations.manage": "Hantera installationskataloger",
+    "collection.info.updated": "Uppdaterad",
+    "send_feedback.describe_issue": "Var god beskriv vad du försökte göra när felet inträffade:",
+    "send_feedback.reminders.header": "Några påminnelser:",
+    "send_feedback.reminders.we_are_humans": "Vad du än skriver kommer läsas av människor.",
+    "send_feedback.reminders.be_precise": "Var så utförlig som du kan. Vi vill åtgärda problemet lika mycket som du vill!"
 }
