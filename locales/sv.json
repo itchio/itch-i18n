@@ -578,5 +578,6 @@
     "filter_by.games.status.installed": "Installerade",
     "filter_by.games.paid_status.free": "Gratis",
     "filter_by.games.paid_status.paid": "Betal",
-    "filter_by.games.visibility.draft": "Utkast"
+    "filter_by.games.visibility.draft": "Utkast",
+    "filter_by.games.visibility.published": "Publicerad"
 }
