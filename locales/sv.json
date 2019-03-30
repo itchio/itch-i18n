@@ -526,5 +526,8 @@
     "prompt.show_error.details_for_nerds.event_log": "Händelselogg",
     "prompt.show_error.send_report": "Skicka en felrapport för att hjälpa till att lösa det här problemet",
     "prompt.launch.message": "Vilken vill du öppna?",
-    "prompt.blessing.message": "Administratörsprivilegier krävs för att hantera {{title}}"
+    "prompt.blessing.message": "Administratörsprivilegier krävs för att hantera {{title}}",
+    "prompt.blessing.detail": "Fortsätt bara ifall du litar på skaparen.",
+    "prompt.manage_game.title": "Hantera {{title}}",
+    "prompt.manage_game.installed_uploads": "De följande föremålen är installerade:"
 }
