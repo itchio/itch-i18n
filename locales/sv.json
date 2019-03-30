@@ -512,5 +512,8 @@
     "prompt.action.nevermind": "Strunt samma",
     "prompt.action.continue": "Fortsätt",
     "prompt.discard_download.message": "Är du säker på att du vill sluta ladda ned {{title}}?",
-    "prompt.discard_download.detail": "Du kommer när som helst att kunna installera {{title}} igen, men det kommer att börja om från början."
+    "prompt.discard_download.detail": "Du kommer när som helst att kunna installera {{title}} igen, men det kommer att börja om från början.",
+    "prompt.discard_download.action.stop_download": "Stoppa nedladdning",
+    "prompt.discard_download.action.continue_download": "Fortsätt nedladdning",
+    "prompt.dangerous_discard_download.message": "Att stoppa den här nedladdningen kommer lämna {{title}} i ett ofullständigt tillstånd."
 }
