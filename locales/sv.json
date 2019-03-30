@@ -579,5 +579,7 @@
     "filter_by.games.paid_status.free": "Gratis",
     "filter_by.games.paid_status.paid": "Betal",
     "filter_by.games.visibility.draft": "Utkast",
-    "filter_by.games.visibility.published": "Publicerad"
+    "filter_by.games.visibility.published": "Publicerat",
+    "log.level.debug": "Debug",
+    "send_feedback.title": "Skicka feedback"
 }
