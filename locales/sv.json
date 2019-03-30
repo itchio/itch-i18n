@@ -609,5 +609,6 @@
     "send_feedback.send.dont_send": "Förresten, ta mig bort härifrån",
     "send_feedback.send.sending": "Skickar...",
     "send_feedback.final_thanks": "Tack för att du skickade en felrapport, det hjälper alla!",
-    "send_feedback.success.intro": "Din felrapport skickades in utan fel!"
+    "send_feedback.success.intro": "Din felrapport har skickats in!",
+    "send_feedback.success.thanks": "Tack för din feedback"
 }
