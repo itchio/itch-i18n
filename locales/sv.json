@@ -364,7 +364,7 @@
     "notification.download_healed": "{{title}} verifierad och återställd!",
     "preferences.behavior.open_as_hidden": "Öppna itch dolt vid start",
     "pick_update_upload.buttons.just_launch": "Starta oavsett",
-    "download.reason.revert": "att ändra till en annan version",
+    "download.reason.revert": "att byta till en annan version",
     "download.reason.heal": "att verifiera och reparera",
     "grid.item.verify_integrity": "Verifiera integritet",
     "grid.item.revert_to_version": "Byt till en annan version…",
