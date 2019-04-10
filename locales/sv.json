@@ -451,7 +451,7 @@
     "grid.item.discard_download": "Rensa nedladdning",
     "grid.item.queueing": "Lägger till i kö…",
     "table.column.powered_by": "Driven av",
-    "download.ongoing.revert": "Byter till en annan version av {{title}}…",
+    "download.ongoing.revert": "Ändrar {{title}} till en annan version…",
     "dashboard.game_stats.views": "visningar",
     "dashboard.game_stats.downloads": "nedladdningar",
     "dashboard.game_stats.purchases": "köp",
