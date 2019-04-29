@@ -369,5 +369,7 @@
     "prompt.sla.accept": "Прийняти умови",
     "prompt.blessing.message": "Права адміністратора потрібні для керування {{title}}",
     "prompt.blessing.detail": "Продовжуйте, лише якщо довіряєте автору.",
-    "prompt.last_remaining_install_location.title": "Не можу видалити місце встановлення"
+    "prompt.last_remaining_install_location.title": "Не можу видалити місце встановлення",
+    "prompt.logout_action": "Вийти",
+    "prompt.logout_detail": "Незавершені завантаження будуть призупинені, доки ви знову не увійдете до системи."
 }
