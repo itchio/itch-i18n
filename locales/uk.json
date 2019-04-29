@@ -313,5 +313,5 @@
     "pick_update_upload.message": "Який файл ви бажаєте оновити для {{title}}?",
     "pick_update_upload.detail": "Ми питаємо лише тому, що ви обрали файл вручну під час установки.",
     "pick_update_upload.single.title": "Доступна нова версія {{title}}",
-    "pick_update_upload.single.message": "Ви можете обрати оновити зараз чи пізніше."
+    "pick_update_upload.single.message": "Ви можете оновити зараз чи пізніше."
 }
