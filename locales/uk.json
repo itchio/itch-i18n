@@ -379,5 +379,12 @@
     "prompt.revert.title": "Перейти на іншу версію {{title}}",
     "prompt.revert.version": "версія {{version}}",
     "prompt.revert.no_other_version": "Інші версії відсутні.",
-    "prompt.rpm_policy.detail": "itch може встановлювати лише портативні версії застосунків Linux."
+    "prompt.rpm_policy.detail": "itch може встановлювати лише портативні версії застосунків Linux.",
+    "prompt.logout_title": "Вийти",
+    "prompt.no_compatible_version.message": "Ми не знайшли версію {{title}} для {{platform}}.",
+    "prompt.packaging_policy.learn_more": "Дізнатися більше",
+    "prompt.packaging_policy.open_web_page": "Відкрити веб-сторінку {{title}}",
+    "prompt.payments_disabled.detail": "Можливо ви знайдете інший спосіб підтримати їх?",
+    "prompt.payments_disabled.message": "На жаль, розробник не приймає платежі для {{назва}}.",
+    "prompt.rpm_policy.message": "{{title}} використовує формат пакетів .rpm і не може бути інстальовано за допомогою itch доки не буде перепаковано."
 }
