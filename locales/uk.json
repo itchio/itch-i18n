@@ -359,5 +359,6 @@
     "prompt.forget_session.detail": "Ви завжди можете додати пізніше.",
     "prompt.forget_session.message": "Ви впевнені, що бажаєте видалити збережену сесію '{{username}}'?",
     "prompt.forget_session.title": "Видалити сесію",
-    "prompt.install_location_add.title": "Обрати нове розташування для встановлення"
+    "prompt.install_location_add.title": "Обрати нове місце встановлення",
+    "prompt.install_location_remove.detail": "Вміст у {{location}} не буде більше контролюватися застосунком."
 }
