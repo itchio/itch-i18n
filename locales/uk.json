@@ -411,5 +411,7 @@
     "search.results.title": "Результати пошуку для '{{query}}'",
     "search.results.local": "Локальні",
     "search.results.games": "Ігри",
-    "search.results.creators": "Творці"
+    "search.results.creators": "Творці",
+    "search.empty.no_results": "Нічого не знайдено",
+    "search.open_as_tab": "Відкрити як вкладку"
 }
