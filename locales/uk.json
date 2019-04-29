@@ -361,5 +361,12 @@
     "prompt.forget_session.title": "Видалити сесію",
     "prompt.install_location_add.title": "Обрати нове місце встановлення",
     "prompt.install_location_remove.detail": "Вміст у {{location}} не буде більше контролюватися застосунком.",
-    "prompt.install_location_remove.message": "Ви впевнені, що хочете видалити цю теку?"
+    "prompt.install_location_remove.message": "Ви впевнені, що хочете видалити це місце?",
+    "prompt.launch.title": "Запустити {{title}}",
+    "prompt.launch.message": "Що ви хочете відкрити?",
+    "prompt.sla.title": "Ліцензійна угода",
+    "prompt.sla.message": "Щоб використовувати цей софт, ви маєте прийняти умови цієї ліцензійної угоди:",
+    "prompt.sla.accept": "Прийняти умови",
+    "prompt.blessing.message": "Права адміністратора потрібні для керування {{title}}",
+    "prompt.blessing.detail": "Продовжуйте, лише якщо довіряєте автору."
 }
