@@ -345,5 +345,6 @@
     "prompt.additional_purchase.message": "У вас вже є копія {{title}}.",
     "prompt.clear_browsing_data.clear": "Очистити дані",
     "prompt.clear_browsing_data.category.cache": "Кешовані зображення та файли",
-    "prompt.clear_browsing_data.retrieving_cache_size": "Дізнаюсь обсяг кешу..."
+    "prompt.clear_browsing_data.retrieving_cache_size": "Дізнаюсь обсяг кешу...",
+    "prompt.clear_browsing_data.cache_size_used": "Кеш використовує {{size}} дискового простору"
 }
