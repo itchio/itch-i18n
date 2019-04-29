@@ -360,5 +360,6 @@
     "prompt.forget_session.message": "Ви впевнені, що бажаєте видалити збережену сесію '{{username}}'?",
     "prompt.forget_session.title": "Видалити сесію",
     "prompt.install_location_add.title": "Обрати нове місце встановлення",
-    "prompt.install_location_remove.detail": "Вміст у {{location}} не буде більше контролюватися застосунком."
+    "prompt.install_location_remove.detail": "Вміст у {{location}} не буде більше контролюватися застосунком.",
+    "prompt.install_location_remove.message": "Ви впевнені, що хочете видалити цю теку?"
 }
