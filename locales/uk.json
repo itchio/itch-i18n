@@ -344,5 +344,6 @@
     "prompt.action.force_close": "Примусово закрити",
     "prompt.additional_purchase.message": "У вас вже є копія {{title}}.",
     "prompt.clear_browsing_data.clear": "Очистити дані",
-    "prompt.clear_browsing_data.category.cache": "Кеш зображень та файлів"
+    "prompt.clear_browsing_data.category.cache": "Кешовані зображення та файли",
+    "prompt.clear_browsing_data.retrieving_cache_size": "Дізнаюсь обсяг кешу..."
 }
