@@ -350,5 +350,7 @@
     "prompt.clear_browsing_data.category.cookies": "Куки",
     "prompt.clear_browsing_data.cookies_info": "Це розлогінить вас на всіх сайтах, в які ви увійшли з застосунку itch.",
     "prompt.clear_browsing_data.notification": "Дані веб перегляду видалені!",
-    "prompt.crash_reporter.open_crash_log": "Відкрити журнал збою"
+    "prompt.crash_reporter.open_crash_log": "Відкрити журнал збою",
+    "prompt.crash_reporter.report_issue": "Надіслати відгук",
+    "prompt.deb_policy.detail": "itch може встановити тільки портативні версії додатків Linux."
 }
