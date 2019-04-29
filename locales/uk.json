@@ -390,5 +390,6 @@
     "prompt.rpm_policy.title": "Пакети YUM не підтримуються",
     "prompt.self_update.action.download": "Завантажити",
     "prompt.self_update.action.view": "Відкрити в браузері",
-    "prompt.self_update.detail": "{{notes}}\n\n:date: Опубліковано {{pubDate}}."
+    "prompt.self_update.detail": "{{notes}}\n\n:date: Опубліковано {{pubDate}}.",
+    "prompt.self_update.message.osx": "Оберіть 'Завантажити зараз' щоб встановити автоматично, або перейдіть на сайт для подальших інструкцій."
 }
