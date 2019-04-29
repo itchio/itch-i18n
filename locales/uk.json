@@ -392,5 +392,9 @@
     "prompt.self_update.action.view": "Відкрити в браузері",
     "prompt.self_update.detail": "{{notes}}\n\n:date: Опубліковано {{pubDate}}.",
     "prompt.self_update.message.osx": "Оберіть 'Завантажити' щоб встановити автоматично, або перейдіть на сайт для подальших інструкцій.",
-    "prompt.self_update.message.windows": "Оберіть 'Завантажити' щоб встановити автоматично, або перейдіть на сайт для подальших інструкцій."
+    "prompt.self_update.message.windows": "Оберіть 'Завантажити' щоб встановити автоматично, або перейдіть на сайт для подальших інструкцій.",
+    "prompt.self_update.title": "itch v{{version}} доступна для завантаження",
+    "prompt.self_update_ready.action.restart": "Перезавантажити зараз",
+    "prompt.self_update_ready.action.snooze": "Відкласти",
+    "prompt.self_update_ready.detail": "{{notes}}\n\n:date: Опубліковано на {{pubDate}}."
 }
