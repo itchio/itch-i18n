@@ -402,5 +402,6 @@
     "prompt.self_update_ready.title": "Оновлення завантажене і встановлене",
     "prompt.uninstall_error.title": "Помилка видалення",
     "prompt.uninstall_error.action_permissions": "Видалити від імені адміністратора",
-    "prompt.uninstall.cancel": "Скасувати"
+    "prompt.uninstall.cancel": "Скасувати",
+    "prompt.uninstall.message": "Ви впевнені, що хочете видалити {{title}}?"
 }
