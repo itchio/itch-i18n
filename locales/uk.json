@@ -371,5 +371,13 @@
     "prompt.blessing.detail": "Продовжуйте, лише якщо довіряєте автору.",
     "prompt.last_remaining_install_location.title": "Не можу видалити місце встановлення",
     "prompt.logout_action": "Вийти",
-    "prompt.logout_detail": "Незавершені завантаження будуть призупинені, доки ви знову не увійдете до системи."
+    "prompt.logout_detail": "Незавершені завантаження будуть призупинені, доки ви знову не увійдете в застосунок.",
+    "prompt.manage_game.title": "Керування {{title}}",
+    "prompt.manage_game.installed_uploads": "Встановлено наступне:",
+    "prompt.manage_game.available_uploads": "Також доступно:",
+    "prompt.install_error.title": "При встановленні сталася помилка",
+    "prompt.revert.title": "Перейти на іншу версію {{title}}",
+    "prompt.revert.version": "версія {{version}}",
+    "prompt.revert.no_other_version": "Інші версії відсутні.",
+    "prompt.rpm_policy.detail": "itch може встановлювати лише портативні версії застосунків Linux."
 }
