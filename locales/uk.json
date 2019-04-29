@@ -388,5 +388,7 @@
     "prompt.payments_disabled.message": "На жаль, розробник не приймає платежі для {{назва}}.",
     "prompt.rpm_policy.message": "{{title}} використовує формат пакетів .rpm і не може бути інстальовано за допомогою itch доки не буде перепаковано.",
     "prompt.rpm_policy.title": "Пакети YUM не підтримуються",
-    "prompt.self_update.action.download": "Завантажити"
+    "prompt.self_update.action.download": "Завантажити",
+    "prompt.self_update.action.view": "Відкрити в браузері",
+    "prompt.self_update.detail": "{{notes}}\n\n:date: Опубліковано на {{pubDate}}."
 }
