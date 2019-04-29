@@ -318,5 +318,9 @@
     "pick_update_upload.buttons.skip_update": "Пропустити оновлення",
     "prompt.confirm_quit.title": "Ви дійсно бажаєте вийти?",
     "prompt.confirm_quit.message": "Усі запущені ігри та застосунки будуть закриті.",
-    "prompt.action.quit_and_close_all": "Вийти та закрити все"
+    "prompt.action.quit_and_close_all": "Вийти та закрити все",
+    "pick_update_upload.buttons.update": "Оновити зараз",
+    "pick_update_upload.buttons.just_launch": "Лише запустити",
+    "pick_update_upload.tags.demo": "демо",
+    "prompt.action.cancel": "Відміна"
 }
