@@ -396,5 +396,6 @@
     "prompt.self_update.title": "itch v{{version}} доступна для завантаження",
     "prompt.self_update_ready.action.restart": "Перезавантажити зараз",
     "prompt.self_update_ready.action.snooze": "Відкласти",
-    "prompt.self_update_ready.detail": "{{notes}}\n\n:date: Опубліковано {{pubDate}}."
+    "prompt.self_update_ready.detail": "{{notes}}\n\n:date: Опубліковано {{pubDate}}.",
+    "prompt.self_update_ready.message": "Оберіть '{{restart}}' щоб негайно застосувати оновлення.\n\nВ іншому випадку, оновлення активується, коли додаток перезавантажиться."
 }
