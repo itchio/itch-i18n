@@ -399,5 +399,7 @@
     "prompt.self_update_ready.detail": "{{notes}}\n\n:date: Опубліковано {{pubDate}}.",
     "prompt.self_update_ready.message": "Оберіть '{{restart}}' щоб негайно застосувати оновлення.\n\nВ іншому випадку, оновлення активується при наступному запуску застосунка.",
     "prompt.self_update_ready.short": "Доступна нова версія",
-    "prompt.self_update_ready.title": "Оновлення було завантажене і встановлено"
+    "prompt.self_update_ready.title": "Оновлення завантажене і встановлене",
+    "prompt.uninstall_error.title": "Помилка видалення",
+    "prompt.uninstall_error.action_permissions": "Видалити від імені адміністратора"
 }
