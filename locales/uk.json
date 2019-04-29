@@ -368,5 +368,6 @@
     "prompt.sla.message": "Щоб використовувати цей софт, ви маєте прийняти умови цієї ліцензійної угоди:",
     "prompt.sla.accept": "Прийняти умови",
     "prompt.blessing.message": "Права адміністратора потрібні для керування {{title}}",
-    "prompt.blessing.detail": "Продовжуйте, лише якщо довіряєте автору."
+    "prompt.blessing.detail": "Продовжуйте, лише якщо довіряєте автору.",
+    "prompt.last_remaining_install_location.title": "Дане розташування не можливо видалити"
 }
