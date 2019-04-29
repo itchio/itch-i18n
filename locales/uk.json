@@ -369,5 +369,5 @@
     "prompt.sla.accept": "Прийняти умови",
     "prompt.blessing.message": "Права адміністратора потрібні для керування {{title}}",
     "prompt.blessing.detail": "Продовжуйте, лише якщо довіряєте автору.",
-    "prompt.last_remaining_install_location.title": "Дане розташування не можливо видалити"
+    "prompt.last_remaining_install_location.title": "Не можу видалити місце встановлення"
 }
