@@ -403,5 +403,6 @@
     "prompt.uninstall_error.title": "Помилка видалення",
     "prompt.uninstall_error.action_permissions": "Видалити від імені адміністратора",
     "prompt.uninstall.cancel": "Скасувати",
-    "prompt.uninstall.message": "Ви впевнені, що хочете видалити {{title}}?"
+    "prompt.uninstall.message": "Впевнені, що бажаєте видалити {{title}}?",
+    "search.results.game.no_description": "Без опису"
 }
