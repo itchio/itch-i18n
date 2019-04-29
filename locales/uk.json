@@ -322,5 +322,21 @@
     "pick_update_upload.buttons.update": "Оновити зараз",
     "pick_update_upload.buttons.just_launch": "Лише запустити",
     "pick_update_upload.tags.demo": "демо",
-    "prompt.action.cancel": "Відміна"
+    "prompt.action.cancel": "Відмінити",
+    "prompt.action.back": "Повернутись",
+    "prompt.action.nevermind": "Байдуже",
+    "prompt.action.continue": "Продовжити",
+    "prompt.force_close_game.title": "Закрити програму примусово?",
+    "prompt.force_close_game.message": "Ви хочете примусово закрити {{title}}?",
+    "prompt.discard_download.message": "Ви дійсно хочете зупинити завантаження {{title}}?",
+    "prompt.discard_download.detail": "Ви зможете знову встановити {{title}} будь-коли, але процес почнеться спочатку.",
+    "prompt.discard_download.action.stop_download": "Зупинити завантаження",
+    "prompt.discard_download.action.continue_download": "Продовжити завантаження",
+    "prompt.dangerous_discard_download.message": "{{title}} залишиться в нецілісному стані, якщо зупинити завантаження.",
+    "prompt.dangerous_discard_download.detail": "Ми відновимо {{title}} до останньої версії при наступному запуску.",
+    "prompt.show_error.generic_message": "Щось пішло не так",
+    "prompt.show_error.details_for_nerds": "Всячина для задротів",
+    "prompt.show_error.details_for_nerds.event_log": "Журнал подій",
+    "prompt.show_error.details_for_nerds.stack_trace": "Стектрєйс",
+    "prompt.show_error.send_report": "Надіслати звіт, щоб допомогти виправити цю проблему"
 }
