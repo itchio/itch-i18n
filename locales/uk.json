@@ -356,5 +356,5 @@
     "prompt.deb_policy.message": "{{title}} використовує формат пакетів .deb і не може бути встановлена за допомогою itch, доки не буде перепакована.",
     "prompt.deb_policy.title": "APT пакети не підтримуються",
     "prompt.forget_session.action": "Видалити сесію",
-    "prompt.forget_session.detail": "Ви завжди можете увійти знову"
+    "prompt.forget_session.detail": "Ви завжди можете додати пізніше."
 }
