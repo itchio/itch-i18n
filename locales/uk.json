@@ -338,5 +338,10 @@
     "prompt.show_error.details_for_nerds": "Всячина для задротів",
     "prompt.show_error.details_for_nerds.event_log": "Журнал подій",
     "prompt.show_error.details_for_nerds.stack_trace": "Стектрєйс",
-    "prompt.show_error.send_report": "Надіслати звіт, щоб допомогти виправити цю проблему"
+    "prompt.show_error.send_report": "Надіслати звіт, щоб допомогти виправити цю проблему",
+    "prompt.action.close": "Закрити",
+    "prompt.action.install": "Встановити",
+    "prompt.action.force_close": "Примусово закрити",
+    "prompt.additional_purchase.message": "У вас вже є копія {{title}}.",
+    "prompt.clear_browsing_data.clear": "Очистити дані?"
 }
