@@ -304,5 +304,10 @@
     "preferences.advanced.disable_browser": "Вимкнути веб-браузер",
     "preferences.advanced.disable_hardware_acceleration": "Вимкнути апаратне прискорення (позбавляє від деяких збоїв на Linux)",
     "preferences.proxy_server_address": "Проксі-HTTPS",
-    "preferences.proxy_server_source.direct": "Пряме (без проксі)"
+    "preferences.proxy_server_source.direct": "Пряме (без проксі)",
+    "preferences.behavior.open_at_login.causes.no_desktop_file": "Файл .desktop не знайдено. Це нормально, якщо інсталяція проводилася не з системного пакету. Дізнатися більше {{linux_install_page}}.",
+    "pick_install_upload.title": "Доступні декілька завантажень для {{title}}",
+    "pick_install_upload.message": "Який файл бажаєте завантажити для {{title}}?",
+    "pick_install_upload.detail": "Ми запитаємо знову, якщо з'являться нові файли.",
+    "pick_update_upload.title": "Для {{title}} доступні нові завантаження"
 }
