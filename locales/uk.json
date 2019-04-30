@@ -574,5 +574,8 @@
     "send_feedback.steps.system_info": "Системна інформація",
     "plan_install.computing_space_requirements": "Обчислюю вимоги до простору на диску",
     "plan_install.disk_space_required": "Потрібно місця на диску",
-    "plan_install.disk_space_available": "Наявно місця на диску"
+    "plan_install.disk_space_available": "Наявно місця на диску",
+    "plan_install.select_upload": "Встановити",
+    "plan_install.select_install_location": "У папку",
+    "empty_state.nothing_to_see_here": "Тут нічого немає"
 }
