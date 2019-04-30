@@ -545,5 +545,18 @@
     "send_feedback.reminders.we_are_humans": "Все, що ви напишете, будуть читати люди.",
     "send_feedback.reminders.be_precise": "Опишіть проблему якомога точніше. Ми також дуже хочемо її виправити!",
     "send_feedback.reminders.include_reproduce_steps": "За можливості додайте кроки для відновлення проблеми.",
-    "send_feedback.reminders.mention_itchio_account": "Не забудьте згадати ваш акаунт itch.io та/або конкретну гру, якщо проблема зв'язана з ними."
+    "send_feedback.reminders.mention_itchio_account": "Не забудьте згадати ваш акаунт itch.io та/або конкретну сторінку на якій відбувся збій.",
+    "send_feedback.reminders.thanks": "Дякуємо за допомогу!",
+    "send_feedback.questions.where_does_report_go": "Куди відправиться мій звіт?",
+    "send_feedback.consent.please_review": "Перегляньте наступну інформацію та переконайтесь, що ви не проти її відправки:",
+    "send_feedback.consent.redacted": "видалено",
+    "send_feedback.consent.system_info_helps_us": "Уявлення про вашу систему часто допомагає нам визначити джерело проблеми.",
+    "send_feedback.consent.include_in_report": "Доєднати цю інформацію до звіту",
+    "send_feedback.send.secret_url": "Для вашого звіту буде створений секретний URL.",
+    "send_feedback.send.secret_url.feature_list": "З цієї сторінки ви зможете:",
+    "send_feedback.send.secret_url.feature_list.view": "Бачити всю інформацію по звіту, яку бачимо ми",
+    "send_feedback.send.secret_url.feature_list.delete": "Видалити його, якщо вирішите.",
+    "send_feedback.send.dont_send": "Незважай, забери мене звідси",
+    "send_feedback.send.sending": "Надсилаю...",
+    "send_feedback.final_thanks": "Дякуємо за ваш звіт, це допомога нам всім!"
 }
