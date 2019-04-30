@@ -434,5 +434,8 @@
     "sidebar.owned": "Ваші застосунки",
     "sidebar.log_out": "Вийти",
     "sidebar.new_tab": "Нова вкладка",
-    "sidebar.owned_subtitle": "Все, що придбали або встановили"
+    "sidebar.owned_subtitle": "Все, що придбали або встановили",
+    "sidebar.preferences": "Налаштування",
+    "sidebar.view_community_profile": "Профіль в спільноті",
+    "sidebar.view_creator_profile": "Профіль розробника"
 }
