@@ -498,5 +498,20 @@
     "sort_by.games.downloads": "Завантажень",
     "sort_by.games.purchases": "Придбань",
     "sort_by.games.play_time": "Награно",
-    "filter_by.games.classification.assets": "Ігрові ассети"
+    "filter_by.games.classification.assets": "Ігрові ассети",
+    "usage_stats.has_used_for_duration": "Використано",
+    "usage_stats.last_opened_time_ago": "Востаннє відкрито {{time_ago}}",
+    "usage_stats.last_played_time_ago": "Востаннє зіграно {{time_ago}}",
+    "usage_stats.last_used_time_ago": "Востаннє використано {{time_ago}}",
+    "usage_stats.never_opened": "Ніколи не відкривалося",
+    "usage_stats.never_played": "Ніколи не запускалося",
+    "usage_stats.never_used": "Ніколи не використовувалося",
+    "setup.window.title": "Встановлення {{app_name}}",
+    "setup.status.progress": "{{percent}} виконано",
+    "setup.status.done": "Все готово!",
+    "setup.error_dialog.title": "Щось пішло не так",
+    "web.context_menu.cut": "Вирізати",
+    "web.context_menu.copy": "Копіювати",
+    "web.context_menu.paste": "Вставити",
+    "web.context_menu.open_in_new_tab": "Відкрити в новій вкладці"
 }
