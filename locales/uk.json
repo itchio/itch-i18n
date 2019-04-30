@@ -458,5 +458,7 @@
     "status.downloads.no_active_downloads_subtext": "Усе, що ви встановлюєте або завантажуєте, відображатиметься тут",
     "status.downloads.find_games_button": "Завантажимо щось!",
     "status.downloads.resume_downloads": "Продовжити завантаження",
-    "status.downloads.pause_downloads": "Призупинити завантаження"
+    "status.downloads.pause_downloads": "Призупинити завантаження",
+    "status.downloads.unknown_size": "Невідомий",
+    "status.game_update.check_failed": "Не вдалося перевірити оновлення: {{err}}"
 }
