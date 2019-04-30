@@ -530,5 +530,8 @@
     "filter_by.games.paid_status.free": "Безкоштовні",
     "filter_by.games.paid_status.paid": "Платні",
     "filter_by.games.visibility.draft": "Чернетки",
-    "filter_by.games.visibility.published": "Оприлюднені"
+    "filter_by.games.visibility.published": "Опубліковані",
+    "game_stripe.view_all": "Переглянути всі...",
+    "log.level.info": "Інфо",
+    "install_locations.manage": "Керувати місцями встановлення"
 }
