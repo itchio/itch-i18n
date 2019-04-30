@@ -450,5 +450,7 @@
     "status.downloads.category.queued": "Завантаження в черзі",
     "status.downloads.clear_all_finished": "Очистити все",
     "status.downloads.updates_available": "Доступні оновлення",
-    "status.downloads.update_all": "Оновити все"
+    "status.downloads.update_all": "Оновити все",
+    "status.downloads.clear_finished": "Очистити",
+    "status.downloads.click_to_manage": "Керування завантаженнями"
 }
