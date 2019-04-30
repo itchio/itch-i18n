@@ -469,5 +469,11 @@
     "status.offline_mode.active": "Ввімкнено офлайн-режим",
     "status.offline_mode.inactive": "Клікніть для ввімкнення офлайн-режиму",
     "usage_stats.description.bought_time_ago": "Придбано {{time_ago}}",
-    "usage_stats.description.free_download": "Безкоштовне завантаження"
+    "usage_stats.description.free_download": "Безкоштовне завантаження",
+    "status.uptodate": "Ваш itch останньої версії!",
+    "usage_stats.description.assets": "Колекція ассетів",
+    "usage_stats.description.book": "Книга",
+    "usage_stats.description.comic": "Комікс",
+    "usage_stats.description.game": "Гра",
+    "usage_stats.description.game_mod": "Модифікація до гри"
 }
