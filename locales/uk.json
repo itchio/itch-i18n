@@ -452,5 +452,7 @@
     "status.downloads.updates_available": "Доступні оновлення",
     "status.downloads.update_all": "Оновити все",
     "status.downloads.clear_finished": "Очистити",
-    "status.downloads.click_to_manage": "Клікніть для керування завантаженнями"
+    "status.downloads.click_to_manage": "Клікніть для керування завантаженнями",
+    "status.downloads.download_error": "Помилка завантаження",
+    "status.downloads.no_active_downloads": "Немає активних завантажень"
 }
