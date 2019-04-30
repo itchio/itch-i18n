@@ -427,5 +427,9 @@
     "sidebar.downloads": "Завантаження",
     "sidebar.empty": "Ходімо!",
     "sidebar.featured": "Обрані",
-    "sidebar.itchio": "Ваш портал до всесвіту інді ігор"
+    "sidebar.itchio": "Ваш портал до всесвіту інді-ігор",
+    "sidebar.installed": "Встановлені застосунки",
+    "sidebar.explore": "Ігросвіт",
+    "sidebar.library": "Ігротека",
+    "sidebar.owned": "Ваші застосунки"
 }
