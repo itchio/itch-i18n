@@ -478,5 +478,9 @@
     "usage_stats.description.game_mod": "Ігровий мод",
     "usage_stats.description.physical_game": "Кімнатна гра",
     "usage_stats.description.platforms": "для {{platforms}}",
-    "usage_stats.description.price": "Доступна за {{price}} чи більше"
+    "usage_stats.description.price": "Доступна за {{price}} чи більше",
+    "usage_stats.description.other": "Некласифіковане",
+    "usage_stats.description.soundtrack": "Саундтрек",
+    "usage_stats.description.tool": "Інструмент",
+    "usage_stats.has_played_for_duration": "Час у грі"
 }
