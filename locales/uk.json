@@ -418,5 +418,12 @@
     "sidebar.loading": "Завантажую...",
     "sidebar.broken": "Не працює",
     "sidebar.dashboard": "Мої творіння",
-    "sidebar.applog": "Журнал застосунку"
+    "sidebar.applog": "Журнал застосунку",
+    "sidebar.close_all_tabs": "Закрити всі вкладки",
+    "sidebar.category.basics": "Основи",
+    "sidebar.category.tabs": "Вкладки",
+    "sidebar.collection": "Колекції",
+    "sidebar.collections": "Колекції",
+    "sidebar.downloads": "Завантаження",
+    "sidebar.empty": "Поїхали!"
 }
