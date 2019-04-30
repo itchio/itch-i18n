@@ -572,5 +572,7 @@
     "send_feedback.nav.close": "Закрити",
     "send_feedback.steps.your_message": "Ваше повідомлення",
     "send_feedback.steps.system_info": "Системна інформація",
-    "plan_install.computing_space_requirements": "Обчислюємо вимоги по дисковому простору"
+    "plan_install.computing_space_requirements": "Обчислюю вимоги до простору на диску",
+    "plan_install.disk_space_required": "Потрібно місця на диску",
+    "plan_install.disk_space_available": "Наявно місця на диску"
 }
