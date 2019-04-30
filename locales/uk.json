@@ -475,5 +475,8 @@
     "usage_stats.description.book": "Книга",
     "usage_stats.description.comic": "Комікс",
     "usage_stats.description.game": "Гра",
-    "usage_stats.description.game_mod": "Модифікація до гри"
+    "usage_stats.description.game_mod": "Ігровий мод",
+    "usage_stats.description.physical_game": "Кімнатна гра",
+    "usage_stats.description.platforms": "для {{platforms}}",
+    "usage_stats.description.price": "Доступна за {{price}} чи більше"
 }
