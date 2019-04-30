@@ -533,5 +533,11 @@
     "filter_by.games.visibility.published": "Опубліковані",
     "game_stripe.view_all": "Переглянути всі...",
     "log.level.info": "Інфо",
-    "install_locations.manage": "Керувати місцями встановлення"
+    "install_locations.manage": "Керувати місцями встановлення",
+    "log.level": "Рівень",
+    "log.level.debug": "Відладка",
+    "log.level.warning": "Попередження",
+    "log.level.error": "Помилки",
+    "collection.info.updated": "Оновлено",
+    "send_feedback.title": "Зворотний зв'язок"
 }
