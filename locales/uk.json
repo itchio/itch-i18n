@@ -542,5 +542,6 @@
     "send_feedback.title": "Надіслати звіт про помилку",
     "send_feedback.describe_issue": "Будь ласка, опишіть, що ви намагались зробили, коли з'явилася проблема:",
     "send_feedback.reminders.header": "Пам'ятайте:",
-    "send_feedback.reminders.we_are_humans": "Все, що ви напишете, будуть читати люди."
+    "send_feedback.reminders.we_are_humans": "Все, що ви напишете, будуть читати люди.",
+    "send_feedback.reminders.be_precise": "Опишіть проблему як можно точніше. Ми також дуже хочемо її виправити!"
 }
