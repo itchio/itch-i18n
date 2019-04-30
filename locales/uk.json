@@ -460,5 +460,5 @@
     "status.downloads.resume_downloads": "Продовжити завантаження",
     "status.downloads.pause_downloads": "Призупинити завантаження",
     "status.downloads.unknown_size": "Невідомий",
-    "status.game_update.check_failed": "Не вдалося перевірити оновлення: {{err}}"
+    "status.game_update.check_failed": "Не вдалося перевірити наявність оновлень: {{err}}"
 }
