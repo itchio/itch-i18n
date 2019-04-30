@@ -466,5 +466,8 @@
     "status.game_update.busy": "{{title}} не може оновитись доки працює.",
     "status.uninstall.busy": "{{title}} неможливо видалити доки працює.",
     "status.reinstall.busy": "{{title}} неможливо перевстановити доки працює.",
-    "status.offline_mode.active": "Ввімкнено офлайн режим"
+    "status.offline_mode.active": "Ввімкнено офлайн-режим",
+    "status.offline_mode.inactive": "Клікніть для ввімкнення офлайн-режиму",
+    "usage_stats.description.bought_time_ago": "Придбано {{time_ago}}",
+    "usage_stats.description.free_download": "Безкоштовне завантаження"
 }
