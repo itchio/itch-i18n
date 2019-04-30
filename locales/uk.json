@@ -437,5 +437,13 @@
     "sidebar.owned_subtitle": "Все, що придбали або встановили",
     "sidebar.preferences": "Налаштування",
     "sidebar.view_community_profile": "Профіль в спільноті",
-    "sidebar.view_creator_profile": "Профіль розробника"
+    "sidebar.view_creator_profile": "Профіль творця",
+    "status.repairing_game": "Перед запуском {{title}} має завершитись оновлення",
+    "status.cancelled.message": "Операція була відменена.",
+    "status.installing_game.cancelled": "Встановлення {{title}} відмінено!",
+    "status.copied_to_clipboard": "Скопійовано в буфер обміну!",
+    "status.downloading": "Завантажую оновлення…",
+    "status.downloads.category.active": "Активне завантаження",
+    "status.downloads.category.finished": "Завершені завантаження",
+    "status.downloads.category.recent_activity": "Недавня активність"
 }
