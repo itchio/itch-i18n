@@ -448,5 +448,7 @@
     "status.downloads.category.recent_activity": "Недавня активність",
     "status.available": "Нова версія itch вже доступна!",
     "status.downloads.category.queued": "Завантаження в черзі",
-    "status.downloads.clear_all_finished": "Очистити усі"
+    "status.downloads.clear_all_finished": "Очистити все",
+    "status.downloads.updates_available": "Доступні оновлення",
+    "status.downloads.update_all": "Оновити все"
 }
