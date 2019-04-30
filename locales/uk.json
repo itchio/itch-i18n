@@ -413,5 +413,7 @@
     "search.results.games": "Ігри",
     "search.results.creators": "Творці",
     "search.empty.no_results": "Нічого не знайдено",
-    "search.open_as_tab": "Відкрити як вкладку"
+    "search.open_as_tab": "Відкрити у вкладці",
+    "sidebar.aw_snap": "Отакої!",
+    "sidebar.loading": "Завантажую..."
 }
