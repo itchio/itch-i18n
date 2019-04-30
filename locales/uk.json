@@ -539,5 +539,5 @@
     "log.level.warning": "Попередження",
     "log.level.error": "Помилки",
     "collection.info.updated": "Оновлено",
-    "send_feedback.title": "Зворотний зв'язок"
+    "send_feedback.title": "Надіслати звіт про помилку"
 }
