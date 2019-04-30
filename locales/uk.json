@@ -568,5 +568,9 @@
     "send_feedback.error.intro": "Перепрошуємо, не вдалося відправити ваш звіт.",
     "send_feedback.nav.previous": "Попередня",
     "send_feedback.nav.next": "Наступна",
-    "send_feedback.steps.send": "Надіслати звіт"
+    "send_feedback.steps.send": "Надіслати звіт",
+    "send_feedback.nav.close": "Закрити",
+    "send_feedback.steps.your_message": "Ваше повідомлення",
+    "send_feedback.steps.system_info": "Системна інформація",
+    "plan_install.computing_space_requirements": "Обчислюємо вимоги по дисковому простору"
 }
