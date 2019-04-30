@@ -416,5 +416,7 @@
     "search.open_as_tab": "Відкрити у вкладці",
     "sidebar.aw_snap": "Отакої!",
     "sidebar.loading": "Завантажую...",
-    "sidebar.broken": "Вийшов з ладу"
+    "sidebar.broken": "Не працює",
+    "sidebar.dashboard": "Мої творіння",
+    "sidebar.applog": "Журнал застосунку"
 }
