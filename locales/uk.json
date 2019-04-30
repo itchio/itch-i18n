@@ -563,5 +563,6 @@
     "send_feedback.success.intro": "Ваш звіт успішно відправлено!",
     "send_feedback.success.view_report": "Переглянути звіт",
     "send_feedback.success.view_report.delete": "(Ви можете видалити його на цій сторінці)",
-    "send_feedback.success.thanks": "Дякуємо за ваш відгук"
+    "send_feedback.success.thanks": "Дякуємо за ваш відгук",
+    "send_feedback.success.promise": "Ми розглянемо його якомога швидше, перетворимо в завдання на виконання, і, сподіваємося, виправимо проблему в новій версії."
 }
