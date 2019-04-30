@@ -454,5 +454,9 @@
     "status.downloads.clear_finished": "Очистити",
     "status.downloads.click_to_manage": "Клікніть для керування завантаженнями",
     "status.downloads.download_error": "Помилка завантаження",
-    "status.downloads.no_active_downloads": "Немає активних завантажень"
+    "status.downloads.no_active_downloads": "Активні завантаження відсутні",
+    "status.downloads.no_active_downloads_subtext": "Усе, що ви встановлюєте або завантажуєте, відображатиметься тут",
+    "status.downloads.find_games_button": "Завантажимо щось!",
+    "status.downloads.resume_downloads": "Продовжити завантаження",
+    "status.downloads.pause_downloads": "Призупинити завантаження"
 }
