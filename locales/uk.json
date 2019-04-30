@@ -513,5 +513,22 @@
     "web.context_menu.cut": "Вирізати",
     "web.context_menu.copy": "Копіювати",
     "web.context_menu.paste": "Вставити",
-    "web.context_menu.open_in_new_tab": "Відкрити в новій вкладці"
+    "web.context_menu.open_in_new_tab": "Відкрити в новій вкладці",
+    "butlerd.codes.5000": "Не знайдено нічого, що можно було б запустити.",
+    "sort_by.games.acquired_at": "Нещодавно придбані",
+    "sort_by.games.title": "Назва",
+    "sort_by.games.last_touched": "Останній запуск",
+    "sort_by.games.size_on_disk": "Розмір на диску",
+    "sort_by.games.install_date": "Дата встановлення",
+    "sort_by.collections.title": "Назва",
+    "sort_by.collections.updated_at": "Оновлено",
+    "filter_by.games.classification.games": "Ігри",
+    "filter_by.games.classification.tools": "Інструменти",
+    "filter_by.games.classification.comics": "Комікси",
+    "filter_by.games.classification.books": "Книги",
+    "filter_by.games.status.installed": "Встановлені",
+    "filter_by.games.paid_status.free": "Безкоштовні",
+    "filter_by.games.paid_status.paid": "Платні",
+    "filter_by.games.visibility.draft": "Чернетки",
+    "filter_by.games.visibility.published": "Оприлюднені"
 }
