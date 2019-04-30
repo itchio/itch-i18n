@@ -482,5 +482,21 @@
     "usage_stats.description.other": "Некласифіковане",
     "usage_stats.description.soundtrack": "Саундтрек",
     "usage_stats.description.tool": "Інструмент",
-    "usage_stats.has_played_for_duration": "Час у грі"
+    "usage_stats.has_played_for_duration": "Награно",
+    "setup.tooltip.location": "Клікніть для зміни місця встановлення",
+    "setup.location.message": "Оберіть куди встановити застосунок",
+    "setup.action.browse": "Огляд",
+    "setup.action.install": "Встановити",
+    "setup.status.preparing": "Прогріваюсь...",
+    "setup.status.installing": "Завантажую та встановлюю @ {{speed}}",
+    "setup.status.notification": "Встановлення завершене, {{app_name}} запускається!",
+    "web.context_menu.inspect": "Перегляд коду",
+    "install_location.property.size_on_disk": "{{size}} на диску",
+    "butlerd.codes.404": "Папка встановлення зникла",
+    "butlerd.codes.9000": "Відсутнє з'єднання з інтернетом.",
+    "sort_by.games.views": "Переглядів",
+    "sort_by.games.downloads": "Завантажень",
+    "sort_by.games.purchases": "Придбань",
+    "sort_by.games.play_time": "Награно",
+    "filter_by.games.classification.assets": "Ігрові ассети"
 }
