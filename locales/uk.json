@@ -561,5 +561,6 @@
     "send_feedback.final_thanks": "Дякуємо за ваш звіт, це допомога нам всім!",
     "send_feedback.send.do_send": "Відправити звіт",
     "send_feedback.success.intro": "Ваш звіт успішно відправлено!",
-    "send_feedback.success.view_report": "Переглянути звіт"
+    "send_feedback.success.view_report": "Переглянути звіт",
+    "send_feedback.success.view_report.delete": "(Ви можете видалити його за цим посиланням)"
 }
