@@ -558,5 +558,7 @@
     "send_feedback.send.secret_url.feature_list.delete": "Видалити його, якщо вирішите.",
     "send_feedback.send.dont_send": "Незважай, забери мене звідси",
     "send_feedback.send.sending": "Надсилаю...",
-    "send_feedback.final_thanks": "Дякуємо за ваш звіт, це допомога нам всім!"
+    "send_feedback.final_thanks": "Дякуємо за ваш звіт, це допомога нам всім!",
+    "send_feedback.send.do_send": "Відправити звіт",
+    "send_feedback.success.intro": "Ваш відгук було вдало відправлено "
 }
