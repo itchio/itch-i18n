@@ -629,5 +629,7 @@
     "plan_install.select_install_location": "En la carpeta",
     "plan_install.disk_space_required": "Espacio en disco requerido",
     "plan_install.disk_space_available": "Espacio en disco disponible",
-    "empty_state.nothing_to_see_here": "Nada que ver aquí"
+    "empty_state.nothing_to_see_here": "Nada que ver aquí",
+    "prompt.sla.title": "Acuerdo de licencia de software",
+    "prompt.sla.accept": "Aceptar condiciones"
 }
