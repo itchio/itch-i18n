@@ -522,7 +522,7 @@
     "menu.file.close_tabs_below": "Cerrar las siguentes pestañas",
     "new_tab.devlogs": "Registros del desarrollador",
     "preferences.scan_install_locations": "Buscar juegos en las carpetas de instalación",
-    "preferences.scan_install_locations.confirm_import": "Confirmar importación",
+    "preferences.scan_install_locations.confirm_import": "Confirmar la importación",
     "preferences.scan_install_locations.no_items_found": "No se han encontrado otros artículos en las carpetas de instalación",
     "prompt.confirm_quit.title": "¿Estás seguro/a que quieres salir?",
     "prompt.confirm_quit.message": "Todos los juegos y aplicaciones serán cerrados.",
