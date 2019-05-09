@@ -292,7 +292,7 @@
     "notification.purchase_complete.thanks_for_support": "Danke für deine Unterstützung!",
     "outlinks.open_dashboard": "Übersicht öffnen",
     "outlinks.manage_collections": "Sammlungen verwalten",
-    "sandbox.setup.title": "Einrichten der itch.io-Sandbox,
+    "sandbox.setup.title": "Einrichten der itch.io-Sandbox",
     "sandbox.setup.proceed": "Fortfahren",
     "sandbox.setup.windows.message": "Um Spiele in der itch.io Sandbox zu starten, ist eine einmalige Einrichtung mit Administratorrechten erforderlich.",
     "sandbox.setup.linux.message": "Um Spiele in der itch.io Sandbox zu öffnen muss ein einmaliges Setup-Script als root ausgeführt werden.",
