@@ -427,7 +427,7 @@
     "game.install.could_not_launch.message": "Wir bekamen diese Nachricht: {{errorMessage}}",
     "docs.how_to_help": "Wie kann ich selbst helfen?",
     "collection.item_count": "{{itemCount}} Artikel",
-    "download.ongoing.revert": "Ändere Version von {{title}}…",
+    "download.ongoing.revert": "Wechsle {{title}} auf eine andere Version...",
     "download.outcome.healed": "überprüft und repariert",
     "grid.empty_state.leader": "Keine Ergebnisse übrig...",
     "grid.empty_state.explanation": "Alles herausgefiltert",
