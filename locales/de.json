@@ -4,7 +4,7 @@
     "errors.api.login.password_must_be_provided": "Passwort muss angegeben werden",
     "errors.api.login.username_must_be_provided": "Nutzername muss angegeben werden",
     "game.install.could_not_launch": "Beim Ausführen von {{title}} ist ein Fehler aufgetreten",
-    "game.install.no_uploads_available.detail": "Es ist vielleicht noch nicht mit deiner Platform oder der itch-App kompatibel!",
+    "game.install.no_uploads_available.detail": "Vielleicht ist es noch nicht mit deiner Platform oder der itch-App kompatibel!",
     "game.install.no_uploads_available.message": "'{{title}}' konnte nicht installiert werden, weil keine kompatiblen Downloads gefunden wurden.",
     "game.install.try_again": "Erneut versuchen",
     "game.install.visit_web_page": "Webseite öffnen",
