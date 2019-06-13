@@ -27,5 +27,11 @@
     "grid.item.launch": "اجرا",
     "grid.item.purchase_or_donate": "خرید یا حمایت مالی از آیتم",
     "label.experimental": "آزمایشی",
-    "collection.item_count": "{{itemCount}} آیتم"
+    "collection.item_count": "{{itemCount}} آیتم",
+    "action.name.manual": "راهنمای کاربری",
+    "collection.empty": "در این مجموعه هیچ بازی‌ای وجود ندارد",
+    "collection.summary": "مجموعه‌ای از {{itemCount}} آیتم",
+    "collections.empty": "شما در حال حاضر هیچ مجموعه‌ای ندارید",
+    "collections.empty_sub": "چند بازی پیدا کنید و آن‌ها را به یک مجموعه‌ی جدید اضافه کنید!",
+    "desktop.shortcut.comment": "بازی‌های itch.io را به راحتی نصب و اجرا کنید."
 }
