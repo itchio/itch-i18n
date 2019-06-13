@@ -47,7 +47,7 @@
     "download.ongoing.reinstall": "در حال نصب دوباره‌ی {{title}}…",
     "download.ongoing.revert": "در حال تغییر {{title}} به نسخه‌ی دیگر…",
     "download.ongoing.heal": "در حال اصلاح {{title}}…",
-    "download.outcome.installed": "نصب شده",
-    "download.outcome.updated": "به آخرین نسخه به‌روزرسانی شده",
-    "download.outcome.reinstalled": "دوباره نصب شده"
+    "download.outcome.installed": "نصب شد",
+    "download.outcome.updated": "به آخرین نسخه به‌روزرسانی شد",
+    "download.outcome.reinstalled": "دوباره نصب شد"
 }
