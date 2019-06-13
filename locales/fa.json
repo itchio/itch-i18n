@@ -46,5 +46,5 @@
     "download.ongoing.update": "در حال به‌روزرسانی {{title}}…",
     "download.ongoing.reinstall": "در حال نصب دوباره‌ی {{title}}…",
     "download.ongoing.revert": "در حال تغییر {{title}} به نسخه‌ی دیگر…",
-    "download.ongoing.heal": "در حال اصلاح {{title}}"
+    "download.ongoing.heal": "در حال اصلاح {{title}}…"
 }
