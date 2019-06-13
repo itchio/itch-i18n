@@ -60,5 +60,5 @@
     "duration.minute": "یک دقیقه یا کمتر",
     "duration.minutes": "{{x}} دقیقه",
     "duration.seconds": "{{x}} ثانیه",
-    "errors.api.login.incorrect_username_or_password": "نام کاربری یا رمز اشتباه"
+    "errors.api.login.incorrect_username_or_password": "نام کاربری یا رمز اشتباه است"
 }
