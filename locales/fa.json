@@ -1,5 +1,5 @@
 {
-    "grid.item.installing": "درحال نصب...",
+    "grid.item.installing": "درحال نصب…",
     "grid.item.queued": "در نوبت",
     "login.status.dependency_install": "نصب وابستگی {{name}} {{version}}",
     "menu.help.check_for_update": "بررسی برای به روز رسانی",
@@ -13,7 +13,7 @@
     "prompt.payments_disabled.title": "پرداخت غیر فعال شده است",
     "status.downloaded": "برای راه اندازی مجدد و اعمال به روز رسانی کلیک کنید!",
     "grid.item.retry": "سعی کنید دوباره دانلود / نصب / اجرا کنید",
-    "grid.item.running": "در حال اجرا ...",
+    "grid.item.running": "در حال اجرا…",
     "grid.item.buy_now": "خرید",
     "action.name.play": "اجرا",
     "action.name.editor": "ویرایشگر",
@@ -22,5 +22,8 @@
     "grid.item.probe": "بررسی دلیل بروز مشکل",
     "grid.item.report_problem": "ارسال بازخورد",
     "grid.item.uninstall": "حذف",
-    "grid.item.uninstalling": "در حال حذف"
+    "grid.item.uninstalling": "در حال حذف",
+    "grid.item.install": "نصب",
+    "grid.item.launch": "اجرا",
+    "grid.item.purchase_or_donate": "خرید یا حمایت مالی از آیتم"
 }
