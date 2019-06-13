@@ -49,5 +49,7 @@
     "download.ongoing.heal": "در حال اصلاح {{title}}…",
     "download.outcome.installed": "نصب شد",
     "download.outcome.updated": "به آخرین نسخه به‌روزرسانی شد",
-    "download.outcome.reinstalled": "دوباره نصب شد"
+    "download.outcome.reinstalled": "دوباره نصب شد",
+    "download.outcome.reverted": "به نسخه‌ی دیگر تغییر داده شد",
+    "download.outcome.healed": "تایید و اصلاح شده"
 }
