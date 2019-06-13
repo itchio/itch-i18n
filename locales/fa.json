@@ -43,7 +43,7 @@
     "download.reason.revert": "برای تغییر به نسخه‌ی دیگر",
     "download.reason.heal": "برای تایید و اصلاح",
     "download.ongoing.install": "در حال نصب {{title}}…",
-    "download.ongoing.update": "در حال به‌روزرسانی {{title}}",
+    "download.ongoing.update": "در حال به‌روزرسانی {{title}}…",
     "download.ongoing.reinstall": "در حال نصب دوباره‌ی {{title}}…",
     "download.ongoing.revert": "در حال تغییر {{title}} به نسخه‌ی دیگر…",
     "download.ongoing.heal": "در حال اصلاح {{title}}…",
@@ -60,5 +60,9 @@
     "duration.minute": "یک دقیقه یا کمتر",
     "duration.minutes": "{{x}} دقیقه",
     "duration.seconds": "{{x}} ثانیه",
-    "errors.api.login.incorrect_username_or_password": "نام کاربری یا رمز اشتباه است"
+    "errors.api.login.incorrect_username_or_password": "نام کاربری یا گذرواژه اشتباه است",
+    "errors.api.login.password_must_be_provided": "گذرواژه نباید خالی باشد",
+    "errors.api.login.username_must_be_provided": "نام کاربری نباید خالی باشد",
+    "game.install.could_not_launch.detail": "ارسال گزارش به ما بهترین راه برای رفع این مشکل است!",
+    "game.install.could_not_launch.missing_jre": "برای نصب به جاوا نیاز است که در سیستم شما پیدا نشد."
 }
