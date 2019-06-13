@@ -64,5 +64,8 @@
     "errors.api.login.password_must_be_provided": "گذرواژه نباید خالی باشد",
     "errors.api.login.username_must_be_provided": "نام کاربری نباید خالی باشد",
     "game.install.could_not_launch.detail": "ارسال گزارش به ما بهترین راه برای رفع این مشکل است!",
-    "game.install.could_not_launch.missing_jre": "برای نصب به جاوا نیاز است که در سیستم شما پیدا نشد."
+    "game.install.could_not_launch.missing_jre": "برای نصب به جاوا نیاز است که در سیستم شما پیدا نشد.",
+    "game.install.could_not_launch": "در هنگام اجرای {{title}} خطایی رخ داده است",
+    "game.install.could_not_launch.message": "پیام دریافتی: {{errorMessage}}",
+    "game.install.no_executables_found": "هیچ فایل قابل اجرایی یافت نشد"
 }
