@@ -54,5 +54,11 @@
     "download.outcome.healed": "تایید و اصلاح شد",
     "dashboard.game_stats.views": "بازدید",
     "dashboard.game_stats.downloads": "دانلود",
-    "dashboard.game_stats.purchases": "خرید"
+    "dashboard.game_stats.purchases": "خرید",
+    "duration.hour": "یک ساعت",
+    "duration.hours": "{{x}} ساعت",
+    "duration.minute": "یک دقیقه یا کمتر",
+    "duration.minutes": "{{x}} دقیقه",
+    "duration.seconds": "{{x}} ثانیه",
+    "errors.api.login.incorrect_username_or_password": "نام کاربری یا رمز اشتباه"
 }
