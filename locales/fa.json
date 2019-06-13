@@ -17,5 +17,10 @@
     "grid.item.buy_now": "خرید",
     "action.name.play": "اجرا",
     "action.name.editor": "ویرایشگر",
-    "action.name.forums": "انجمن"
+    "action.name.forums": "انجمن",
+    "grid.item.downloading": "در حال دانلود...",
+    "grid.item.probe": "بررسی دلیل بروز مشکل",
+    "grid.item.report_problem": "ارسال بازخورد",
+    "grid.item.uninstall": "حذف",
+    "grid.item.uninstalling": "در حال حذف"
 }
