@@ -43,5 +43,6 @@
     "download.reason.revert": "برای تغییر به نسخه‌ی دیگر",
     "download.reason.heal": "برای تایید و اصلاح",
     "download.ongoing.install": "در حال نصب {{title}}…",
-    "download.ongoing.update": "در حال به‌روزرسانی {{title}}…"
+    "download.ongoing.update": "در حال به‌روزرسانی {{title}}…",
+    "download.ongoing.reinstall": "در حال نصب دوباره‌ی {{title}}"
 }
