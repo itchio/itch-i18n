@@ -51,5 +51,8 @@
     "download.outcome.updated": "به آخرین نسخه به‌روزرسانی شد",
     "download.outcome.reinstalled": "دوباره نصب شد",
     "download.outcome.reverted": "به نسخه‌ی دیگر تغییر داده شد",
-    "download.outcome.healed": "تایید و اصلاح شده"
+    "download.outcome.healed": "تایید و اصلاح شد",
+    "dashboard.game_stats.views": "بازدید",
+    "dashboard.game_stats.downloads": "دانلود",
+    "dashboard.game_stats.purchases": "خرید"
 }
