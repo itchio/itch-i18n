@@ -22,8 +22,10 @@
     "grid.item.probe": "بررسی دلیل بروز مشکل",
     "grid.item.report_problem": "ارسال بازخورد",
     "grid.item.uninstall": "حذف",
-    "grid.item.uninstalling": "در حال حذف",
+    "grid.item.uninstalling": "در حال حذف…",
     "grid.item.install": "نصب",
     "grid.item.launch": "اجرا",
-    "grid.item.purchase_or_donate": "خرید یا حمایت مالی از آیتم"
+    "grid.item.purchase_or_donate": "خرید یا حمایت مالی از آیتم",
+    "label.experimental": "آزمایشی",
+    "collection.item_count": "{{itemCount}} آیتم"
 }
