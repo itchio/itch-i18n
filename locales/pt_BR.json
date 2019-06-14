@@ -451,5 +451,13 @@
     "preferences.advanced.disable_browser": "Desabilitar o navegador web",
     "preferences.proxy_server_source.direct": "Direto (sem proxy)",
     "pick_install_upload.detail": "Perguntaremos novamente quando novos downloads estiverem disponíveis.",
-    "pick_update_upload.message": "Para qual arquivo deseja atualizar para {{title}}?"
+    "pick_update_upload.message": "Qual arquivo deseja atualizar para {{title}}?",
+    "pick_update_upload.buttons.skip_update": "Pular atualização",
+    "pick_update_upload.buttons.just_launch": "Apenas iniciar",
+    "prompt.confirm_quit.message": "Todos os jogos e aplicativos em execução serão fechados.",
+    "prompt.action.quit_and_close_all": "Sair e fechar tudo",
+    "prompt.action.back": "Voltar",
+    "prompt.action.force_close": "Forçar encerramento",
+    "prompt.force_close_game.title": "Forçar encerramento do programa?",
+    "prompt.force_close_game.message": "Você quer forçar {{title}} a encerrar?"
 }
