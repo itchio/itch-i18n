@@ -520,5 +520,6 @@
     "web.context_menu.inspect": "Inspecionar",
     "install_location.property.size_on_disk": "{{size}} em disco",
     "butlerd.codes.404": "A pasta de instalação desapareceu",
-    "butlerd.codes.2001": "Nenhuma atualização compatível foi encontrada para esse título"
+    "butlerd.codes.2001": "Nenhuma atualização compatível foi encontrada para esse título",
+    "butlerd.codes.3000": "Este título é empacotado de uma forma que não é compatível com o aplicativo itch.io."
 }
