@@ -511,5 +511,6 @@
     "status.downloads.updates_available": "Atualizações disponíveis",
     "status.downloads.update_all": "Atualizar tudo",
     "status.downloads.no_active_downloads_subtext": "As coisas que você instalar ou baixar aparecerão aqui",
-    "status.downloads.find_games_button": "Baixar alguma coisa!"
+    "status.downloads.find_games_button": "Baixar alguma coisa!",
+    "status.downloads.resume_downloads": "Retomar downloads"
 }
