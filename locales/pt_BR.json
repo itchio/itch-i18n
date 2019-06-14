@@ -462,5 +462,7 @@
     "prompt.force_close_game.message": "Você quer forçar {{title}} a encerrar?",
     "pick_update_upload.tags.demo": "demo",
     "prompt.action.continue": "Continuar",
-    "prompt.confirm_quit.title": "Você tem certeza que quer sair?"
+    "prompt.confirm_quit.title": "Você tem certeza que quer sair?",
+    "prompt.action.nevermind": "Ignorar",
+    "prompt.discard_download.message": "Tem certeza que quer parar de baixar {{title}}?"
 }
