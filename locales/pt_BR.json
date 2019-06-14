@@ -487,5 +487,6 @@
     "prompt.sla.message": "Para utilizar este software você deve aceitar os termos deste acordo de licença:",
     "prompt.sla.accept": "Aceitar os termos",
     "prompt.blessing.message": "Privilégios de administrador são necessários para gerenciar {{title}}",
-    "prompt.blessing.detail": "Prossiga apenas se você confia no autor."
+    "prompt.blessing.detail": "Prossiga apenas se você confia no autor.",
+    "prompt.manage_game.title": "Gerenciar {{title}}"
 }
