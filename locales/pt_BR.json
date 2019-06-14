@@ -448,5 +448,7 @@
     "preferences.advanced.components": "Componentes",
     "preferences.advanced.open_app_log": "Abrir registro do aplicativo",
     "preferences.advanced.check_game_updates": "Verificar atualizações de jogos",
-    "preferences.advanced.disable_browser": "Desabilitar o navegador web"
+    "preferences.advanced.disable_browser": "Desabilitar o navegador web",
+    "preferences.proxy_server_source.direct": "Direto (sem proxy)",
+    "pick_install_upload.detail": "Perguntaremos novamente quandos novos downloads estiverem disponíveis"
 }
