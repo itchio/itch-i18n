@@ -479,5 +479,6 @@
     "prompt.show_error.details_for_nerds.event_log": "Registro de evento",
     "prompt.show_error.details_for_nerds.stack_trace": "Rastro de pilha",
     "prompt.show_error.send_report": "Enviar um relatório para ajudar a resolver esse problema",
-    "prompt.clear_browsing_data.notification": "Dados de navegação limpos!"
+    "prompt.clear_browsing_data.notification": "Dados de navegação limpos!",
+    "prompt.clear_browsing_data.category.cookies": "Cookies"
 }
