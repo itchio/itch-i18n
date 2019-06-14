@@ -235,7 +235,7 @@
     "status.offline_mode.inactive": "Clique para habilitar modo offline",
     "usage_stats.description.assets": "Uma coleção de assets",
     "usage_stats.description.book": "Um livro",
-    "usage_stats.description.bought_time_ago": "Comprado há {{time_ago}}",
+    "usage_stats.description.bought_time_ago": "Adquirido há {{time_ago}}",
     "usage_stats.description.comic": "Um quadrinho",
     "usage_stats.description.free_download": "Download gratuito",
     "usage_stats.description.game": "Um jogo",
@@ -512,5 +512,13 @@
     "status.downloads.update_all": "Atualizar tudo",
     "status.downloads.no_active_downloads_subtext": "As coisas que você instalar ou baixar aparecerão aqui",
     "status.downloads.find_games_button": "Baixar alguma coisa!",
-    "status.downloads.resume_downloads": "Retomar downloads"
+    "status.downloads.resume_downloads": "Continuar downloads",
+    "status.downloads.pause_downloads": "Pausar downloads",
+    "setup.window.title": "Configurar {{app_name}}",
+    "setup.action.browse": "Procurar",
+    "setup.status.progress": "{{percent}} completo",
+    "web.context_menu.inspect": "Inspecionar",
+    "install_location.property.size_on_disk": "{{size}} em disco",
+    "butlerd.codes.404": "A pasta de instalação desapareceu",
+    "butlerd.codes.2001": "Nenhuma atualização compatível foi encontrada para esse título"
 }
