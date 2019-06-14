@@ -439,5 +439,6 @@
     "grid.item.not_compatible": "Não disponível nesta plataforma",
     "table.column.powered_by": "Distribuído por",
     "sandbox.setup.linux.message": "Para inicializar os jogos no itch.io sandbox, um script de instalação deverá ser executado como root.",
-    "preferences.install_location.empty": "Vazio"
+    "preferences.install_location.empty": "Vazio",
+    "preferences.scan_install_locations.no_items_found": "Não foram encontrados itens adicionais nos locais de instalação"
 }
