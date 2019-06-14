@@ -464,5 +464,6 @@
     "prompt.action.continue": "Continuar",
     "prompt.confirm_quit.title": "Você tem certeza que quer sair?",
     "prompt.action.nevermind": "Ignorar",
-    "prompt.discard_download.message": "Tem certeza que quer parar de baixar {{title}}?"
+    "prompt.discard_download.message": "Tem certeza que quer parar de baixar {{title}}?",
+    "prompt.discard_download.detail": "Você poderá instalar {{title}} novamente a qualquer momento, mas o download irá começar do zero."
 }
