@@ -461,5 +461,6 @@
     "prompt.force_close_game.title": "Forçar encerramento do programa?",
     "prompt.force_close_game.message": "Você quer forçar {{title}} a encerrar?",
     "pick_update_upload.tags.demo": "demo",
-    "prompt.action.continue": "Continuar"
+    "prompt.action.continue": "Continuar",
+    "prompt.confirm_quit.title": "Você tem certeza que quer sair?"
 }
