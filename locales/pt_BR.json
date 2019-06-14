@@ -469,5 +469,10 @@
     "prompt.discard_download.action.stop_download": "Parar download",
     "prompt.discard_download.action.continue_download": "Continuar download",
     "prompt.dangerous_discard_download.message": "Parar esse download deixará {{title}} em um estado inconsistente.",
-    "prompt.dangerous_discard_download.detail": "Iremos restaurar {{title}} para a última versão na próxima vez que você tentar usá-lo."
+    "prompt.dangerous_discard_download.detail": "Iremos restaurar {{title}} para a última versão na próxima vez que você tentar usá-lo.",
+    "prompt.show_error.generic_message": "Algo deu errado",
+    "prompt.clear_browsing_data.category.cache": "Imagens e arquivos em cache",
+    "prompt.clear_browsing_data.retrieving_cache_size": "Recuperando o tamanho do cache...",
+    "prompt.clear_browsing_data.cache_size_used": "O cache está utilizando {{size}} do espaço em disco no momento",
+    "prompt.clear_browsing_data.cookies_info": "Isso irá deslogar você de todos os sites que logou pelo aplicativo do itch."
 }
