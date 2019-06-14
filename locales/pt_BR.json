@@ -481,5 +481,6 @@
     "prompt.show_error.send_report": "Enviar um relatório para ajudar a resolver esse problema",
     "prompt.clear_browsing_data.notification": "Dados de navegação apagados!",
     "prompt.clear_browsing_data.category.cookies": "Cookies",
-    "prompt.launch.title": "Iniciar {{title}}"
+    "prompt.launch.title": "Iniciar {{title}}",
+    "prompt.launch.message": "Qual você deseja abrir?"
 }
