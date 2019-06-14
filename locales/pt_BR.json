@@ -446,5 +446,6 @@
     "preferences.behavior.open_at_login.causes.no_desktop_file": "Nenhum arquivo .desktop encontrado. Isto é normal se você não tiver instalado a partir de um pacote de sistema. Leia {{linux_install_page}} para mais informações.",
     "preferences.behavior.prevent_display_sleep": "Impedir descanso de tela enquanto estiver jogando",
     "preferences.advanced.components": "Componentes",
-    "preferences.advanced.open_app_log": "Abrir registro do aplicativo"
+    "preferences.advanced.open_app_log": "Abrir registro do aplicativo",
+    "preferences.advanced.check_game_updates": "Verificar por atualizaçãos de jogos"
 }
