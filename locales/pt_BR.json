@@ -468,5 +468,6 @@
     "prompt.discard_download.detail": "Você poderá instalar {{title}} novamente a qualquer momento, mas o download irá começar do zero.",
     "prompt.discard_download.action.stop_download": "Parar download",
     "prompt.discard_download.action.continue_download": "Continuar download",
-    "prompt.dangerous_discard_download.message": "Parar esse download deixará {{title}} em um estado inconsistente."
+    "prompt.dangerous_discard_download.message": "Parar esse download deixará {{title}} em um estado inconsistente.",
+    "prompt.dangerous_discard_download.detail": "Iremos restaurar {{title}} para a última versão na próxima vez que você tentar usá-lo."
 }
