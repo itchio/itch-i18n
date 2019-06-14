@@ -560,5 +560,6 @@
     "send_feedback.reminders.be_precise": "Seja o mais preciso possível. Queremos abordar o problema tanto quanto você!",
     "send_feedback.reminders.include_reproduce_steps": "Inclua os passos para reproduzir este problema se você puder.",
     "send_feedback.reminders.mention_itchio_account": "Mencione o nome da sua conta itch.io e/ou a página que estava te causando problemas, se relevante.",
-    "send_feedback.reminders.thanks": "Obrigado por nos enviar seu comentário!"
+    "send_feedback.reminders.thanks": "Obrigado por nos enviar seu comentário!",
+    "send_feedback.questions.where_does_report_go": "Para onde vai o meu relatório?"
 }
