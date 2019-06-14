@@ -508,5 +508,8 @@
     "status.installing_game.cancelled": "A instalação de {{title}} foi cancelada!",
     "status.downloads.category.recent_activity": "Atividade recente",
     "prompt.revert.version": "versão {{version}}",
-    "status.downloads.updates_available": "Atualizações disponíveis"
+    "status.downloads.updates_available": "Atualizações disponíveis",
+    "status.downloads.update_all": "Atualizar tudo",
+    "status.downloads.no_active_downloads_subtext": "As coisas que você instalar ou baixar aparecerão aqui",
+    "status.downloads.find_games_button": "Baixar alguma coisa!"
 }
