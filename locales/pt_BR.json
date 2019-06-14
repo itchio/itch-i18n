@@ -450,5 +450,5 @@
     "preferences.advanced.check_game_updates": "Verificar atualizações de jogos",
     "preferences.advanced.disable_browser": "Desabilitar o navegador web",
     "preferences.proxy_server_source.direct": "Direto (sem proxy)",
-    "pick_install_upload.detail": "Perguntaremos novamente quandos novos downloads estiverem disponíveis"
+    "pick_install_upload.detail": "Perguntaremos novamente quando novos downloads estiverem disponíveis."
 }
