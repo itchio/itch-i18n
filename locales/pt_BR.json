@@ -441,5 +441,6 @@
     "sandbox.setup.linux.message": "Para inicializar os jogos no itch.io sandbox, um script de instalação deverá ser executado como root.",
     "preferences.install_location.empty": "Vazio",
     "preferences.scan_install_locations.no_items_found": "Não foram encontrados itens adicionais nos locais de instalação",
-    "preferences.scan_install_locations.title": "Buscando..."
+    "preferences.scan_install_locations.title": "Buscando...",
+    "preferences.behavior.enable_tabs": "Habilitar abas"
 }
