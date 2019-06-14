@@ -459,5 +459,7 @@
     "prompt.action.back": "Voltar",
     "prompt.action.force_close": "Forçar encerramento",
     "prompt.force_close_game.title": "Forçar encerramento do programa?",
-    "prompt.force_close_game.message": "Você quer forçar {{title}} a encerrar?"
+    "prompt.force_close_game.message": "Você quer forçar {{title}} a encerrar?",
+    "pick_update_upload.tags.demo": "demo",
+    "prompt.action.continue": "Continuar"
 }
