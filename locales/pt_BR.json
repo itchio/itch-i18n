@@ -442,5 +442,6 @@
     "preferences.install_location.empty": "Vazio",
     "preferences.scan_install_locations.no_items_found": "Não foram encontrados itens adicionais nos locais de instalação",
     "preferences.scan_install_locations.title": "Buscando...",
-    "preferences.behavior.enable_tabs": "Habilitar abas"
+    "preferences.behavior.enable_tabs": "Habilitar abas",
+    "preferences.behavior.open_at_login.causes.no_desktop_file": "Nenhum arquivo .desktop foi localizado. Isto é normal caso você não tenha instalado a partir de um pacote de sistema. Veja {{linux_install_page}} para mais informações."
 }
