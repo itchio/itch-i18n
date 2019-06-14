@@ -506,5 +506,7 @@
     "sidebar.library": "Biblioteca",
     "status.repairing_game": "{{title}} precisa terminar a atualização antes de ser aberto",
     "status.installing_game.cancelled": "A instalação de {{title}} foi cancelada!",
-    "status.downloads.category.recent_activity": "Atividade recente"
+    "status.downloads.category.recent_activity": "Atividade recente",
+    "prompt.revert.version": "versão {{version}}",
+    "status.downloads.updates_available": "Atualizações disponíveis"
 }
