@@ -87,7 +87,7 @@
     "prompt.crash_reporter.open_crash_log": "Abrir log de erro",
     "prompt.crash_reporter.report_issue": "Reportar problema",
     "prompt.install_location_add.title": "Escolha um novo local de instalação",
-    "prompt.install_location_remove.detail": "Todos os itens instalados em {{location}} serão desinstalados.",
+    "prompt.install_location_remove.detail": "Quaisquer itens instalados em {{location}} não serão mais gerenciados pelo aplicativo.",
     "prompt.install_location_remove.message": "Você realmente deseja remover este local?",
     "prompt.install_location_remove.title": "Removendo um local de instalação",
     "prompt.last_remaining_install_location.content": "Este é o único local de instalação, e ele não poderá ser removido até que outro seja adicionado.",
@@ -479,6 +479,7 @@
     "prompt.show_error.details_for_nerds.event_log": "Registro de evento",
     "prompt.show_error.details_for_nerds.stack_trace": "Rastro de pilha",
     "prompt.show_error.send_report": "Enviar um relatório para ajudar a resolver esse problema",
-    "prompt.clear_browsing_data.notification": "Dados de navegação limpos!",
-    "prompt.clear_browsing_data.category.cookies": "Cookies"
+    "prompt.clear_browsing_data.notification": "Dados de navegação apagados!",
+    "prompt.clear_browsing_data.category.cookies": "Cookies",
+    "prompt.launch.title": "Iniciar {{title}}"
 }
