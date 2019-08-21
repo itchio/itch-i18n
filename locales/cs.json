@@ -202,7 +202,7 @@
     "prompt.uninstall.uninstall": "Odinstalovat",
     "docs.learn_more": "Zjistit více",
     "download.started": "Spuštěno",
-    "download.reason.update": "kvůli aktualizaci na nejnovější verzi",
+    "download.reason.update": "aktualizovat na nejnovější verzi",
     "download.reason.reinstall": "kvůli přeinstalaci",
     "download.reason.revert": "kvůli vrácení na předchozí verzi",
     "download.reason.heal": "kvůli ověření a opravení",
@@ -361,5 +361,6 @@
     "collections.empty": "V současné době nemáte žádné sbírky",
     "collection.summary": "Sbírka {{itemCount}} položek",
     "docs.how_to_help": "Jak mohu pomoci?",
-    "collection.item_count": "{{itemCount}} položek"
+    "collection.item_count": "{{itemCount}} položek",
+    "collections.empty_sub": "Procházejte některé hry a přidejte je do nové kolekce!"
 }
