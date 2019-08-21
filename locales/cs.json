@@ -413,5 +413,7 @@
     "grid.criterion.filter_by": "Filtrovat podle: ",
     "grid.filters.options.owned": "Vlastníš",
     "grid.item_count": "{{count}} položek",
-    "grid.really_empty_state.leader": "Nic zde není..."
+    "grid.really_empty_state.leader": "Nic zde není...",
+    "download.reason.install": "nainstalovat",
+    "grid.empty_state.leader": "Výsledkům filtrů nic neodpovídá..."
 }
