@@ -5,7 +5,7 @@
     "grid.item.buy_now": "Zakoupit nyní",
     "grid.item.downloading": "Stahování…",
     "grid.item.install": "Instalovat",
-    "grid.item.installing": "Instaluji...",
+    "grid.item.installing": "Instaluji…",
     "grid.item.launch": "Spustit",
     "grid.item.probe": "Prohlédnout příčinu problému",
     "grid.item.purchase_or_donate": "Koupit nebo darovat vůči položce",
@@ -358,5 +358,7 @@
     "grid.criterion.search": "Hledat...",
     "grid.filters.options.compatible": "Kompatibilní",
     "grid.filters.options.no_results": "Nenalezeny žádné výsledky",
-    "collections.empty": "V současné době nemáte žádné sbírky"
+    "collections.empty": "V současné době nemáte žádné sbírky",
+    "collection.summary": "Sbírka {{itemCount}} položek",
+    "docs.how_to_help": "Jak mohu pomoci?"
 }
