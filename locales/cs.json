@@ -360,5 +360,6 @@
     "grid.filters.options.no_results": "Nenalezeny žádné výsledky",
     "collections.empty": "V současné době nemáte žádné sbírky",
     "collection.summary": "Sbírka {{itemCount}} položek",
-    "docs.how_to_help": "Jak mohu pomoci?"
+    "docs.how_to_help": "Jak mohu pomoci?",
+    "collection.item_count": "{{itemCount}} položek"
 }
