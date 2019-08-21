@@ -391,5 +391,11 @@
     "login.action.hide_password": "Skrýt heslo",
     "login.status.finalizing_installation": "Dokončování instalace...",
     "login.status.antivirus_warning": "Antivirus může negativně ovlivnit itch.",
-    "plan_install.select_upload": "Instalovat"
+    "plan_install.select_upload": "Instalovat",
+    "grid.filters.options.installed": "Nainstalováno",
+    "grid.item.verify_integrity": "Ověřit integritu",
+    "grid.item.view_details": "Zobrazit podrobnosti...",
+    "grid.item.status.installed": "Nainstalováno",
+    "table.column.published": "Vydáno",
+    "collection_grid.item.updated_at": "Poslední aktualizace {{time_ago}}"
 }
