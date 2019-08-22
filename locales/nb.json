@@ -487,5 +487,6 @@
     "grid.item.running.prepare": "Forbereder…",
     "prereq.status.pending": "Forbereder…",
     "preferences.scan_install_locations": "Søk etter spill i installasjonslokasjoner",
-    "preferences.install_location.empty": "Tom"
+    "preferences.install_location.empty": "Tom",
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} elementer ble importert"
 }
