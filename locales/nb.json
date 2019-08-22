@@ -488,5 +488,5 @@
     "prereq.status.pending": "Forbereder…",
     "preferences.scan_install_locations": "Søk etter spill i installasjonslokasjoner",
     "preferences.install_location.empty": "Tom",
-    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} elementer ble importert"
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} gjenstander ble importert"
 }
