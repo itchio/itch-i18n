@@ -499,9 +499,9 @@
     "prompt.manage_game.title": "Administrer {{title}}",
     "prompt.manage_game.installed_uploads": "Følgende gjenstander er installert:",
     "prompt.show_error.generic_message": "Noe gikk galt",
-    "prompt.launch.message": "Hvilken vil du åpne",
+    "prompt.launch.message": "Hvilken vil du åpne?",
     "prompt.sla.title": "Lisensavtale for programvare",
-    "prompt.sla.message": "For å bruke dette programmet må du godta vilkårene i denne lisensavtalen",
+    "prompt.sla.message": "For å bruke dette programmet må du godta vilkårene i denne lisensavtalen:",
     "prompt.sla.accept": "Godta vilkår",
     "prompt.manage_game.available_uploads": "Disse gjenstandene er også tilgjengelige:",
     "prompt.manage_game.no_other_uploads": "Ingen andre gjenstander er tilgjengelige nå.",
@@ -562,5 +562,9 @@
     "send_feedback.reminders.thanks": "Takk for tilbakemeldingen!",
     "send_feedback.questions.where_does_report_go": "Hvor havner rapporten min?",
     "send_feedback.consent.please_review": "Se gjennom informasjonen under for å være sikker på at du er komfortabel med at det sendes:",
-    "send_feedback.consent.system_info_helps_us": "Hvis du vet omtrent hvordan oppsettet ditt er, kan det hjelpe oss med å finne kilden til et problem."
+    "send_feedback.consent.system_info_helps_us": "Hvis du vet omtrent hvordan oppsettet ditt er, kan det hjelpe oss med å finne kilden til problemet.",
+    "plan_install.computing_space_requirements": "Beregner nødvendig diskplass",
+    "plan_install.select_install_location": "Til plasseringen",
+    "plan_install.disk_space_required": "Nødvendig diskplass",
+    "plan_install.disk_space_available": "Tilgjengelig diskplass"
 }
