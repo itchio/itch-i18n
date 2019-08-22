@@ -232,5 +232,22 @@
     "login.messages.welcome_back": "مرحباً بعودتك!",
     "login.remembered_session.last_connected": "آخر مرة تم الإتصال",
     "login.status.finalizing_installation": "ينهي التثبيت…",
-    "login.status.antivirus_warning": "ربما يتداخل برنامج الحماية مع itch."
+    "login.status.antivirus_warning": "ربما يتداخل برنامج الحماية مع itch.",
+    "login.two_factor.title": "المصادقة الثنائية",
+    "login.two_factor.as_user": "سجل الدخول كـ {{username}}",
+    "login.two_factor.enter_code": "من فضلك ادخل الرمز الظاهر على توثيقك لإكمال تسجيل الدخول.",
+    "login.two_factor.verification_code_label": "رمز التحقق",
+    "login.two_factor.learn_more": "اقرأ عن التوثيق الثنائي",
+    "prereq.explanation": "يحتاج العنصر {{title}} لتثبيت بعض الحزم لكي يعمل بشكل صحيح.",
+    "prereq.status.pending": "جارٍ التحضير…",
+    "prereq.status.downloading": "جار التنزيل…",
+    "prereq.status.extracting": "جارٍ الاستخراج…",
+    "prereq.status.ready": "جاهز للتثبيت",
+    "prereq.status.installing": "جارٍ التثبيت… (قد يستغرق هذا بضع دقائق)",
+    "prereq.status.done": "تم!",
+    "menu.file.new_tab": "نافذه جديدة",
+    "menu.file.close_tab": "إغلاق النافذة",
+    "menu.file.close_all_tabs": "إغلاق كل النوافذ",
+    "menu.file.close_other_tabs": "إغلاق النوافذ الأخري",
+    "menu.file.close_tabs_below": "اغلق النوافذ بالاسفل"
 }
