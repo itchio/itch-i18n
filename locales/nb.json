@@ -491,5 +491,11 @@
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} gjenstander ble importert",
     "preferences.scan_install_locations.looking_for_games": "Leter etter spill …",
     "preferences.scan_install_locations.no_items_found": "Ingen andre gjenstander funnet på installasjonslokasjonene",
-    "preferences.scan_install_locations.title": "Søker…"
+    "preferences.scan_install_locations.title": "Søker…",
+    "preferences.advanced.disable_hardware_acceleration": "Deaktiver maskinvareakselerasjon (fikser noen kræsjer på Linux)",
+    "prompt.confirm_quit.title": "Er du sikker på at du vil avslutte?",
+    "prompt.confirm_quit.message": "Alle kjørende spill og applikasjoner vil bli lukket.",
+    "prompt.action.quit_and_close_all": "Avslutt og lukk alle",
+    "prompt.manage_game.title": "Administrer {{title}}",
+    "prompt.manage_game.installed_uploads": "Følgende elementer er installert:"
 }
