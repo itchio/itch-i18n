@@ -556,5 +556,11 @@
     "send_feedback.reminders.header": "Et par påminnelser:",
     "send_feedback.reminders.we_are_humans": "Det du skriver her vil bli lest av mennesker.",
     "send_feedback.reminders.be_precise": "Vær så nøyaktig som mulig. Vi ønsker å løse problemet like mye som du gjør!",
-    "send_feedback.consent.redacted": "sensurert"
+    "send_feedback.consent.redacted": "sensurert",
+    "send_feedback.reminders.include_reproduce_steps": "Ta med stegene for å gjenskape problemet hvis du kan.",
+    "send_feedback.reminders.mention_itchio_account": "Nevn itch.io-brukernavnet og/eller siden som ga deg problemer, hvis det er relevant.",
+    "send_feedback.reminders.thanks": "Takk for tilbakemeldingen!",
+    "send_feedback.questions.where_does_report_go": "Hvor havner rapporten min?",
+    "send_feedback.consent.please_review": "Se gjennom informasjonen under for å være sikker på at du er komfortabel med at det sendes:",
+    "send_feedback.consent.system_info_helps_us": "Hvis du vet omtrent hvordan oppsettet ditt er, kan det hjelpe oss med å finne kilden til et problem."
 }
