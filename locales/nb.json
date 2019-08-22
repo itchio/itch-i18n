@@ -555,5 +555,6 @@
     "send_feedback.describe_issue": "Vennligst beskriv hva du prøvde å gjøre da problemet oppsto:",
     "send_feedback.reminders.header": "Et par påminnelser:",
     "send_feedback.reminders.we_are_humans": "Det du skriver her vil bli lest av mennesker.",
-    "send_feedback.reminders.be_precise": "Vær så nøyaktig du kan. Vi ønsker å løse problemet like mye som du gjør!"
+    "send_feedback.reminders.be_precise": "Vær så nøyaktig som mulig. Vi ønsker å løse problemet like mye som du gjør!",
+    "send_feedback.consent.redacted": "sensurert"
 }
