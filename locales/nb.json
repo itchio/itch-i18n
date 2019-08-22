@@ -497,5 +497,10 @@
     "prompt.confirm_quit.message": "Alle kjørende spill og applikasjoner vil bli lukket.",
     "prompt.action.quit_and_close_all": "Avslutt og lukk alle",
     "prompt.manage_game.title": "Administrer {{title}}",
-    "prompt.manage_game.installed_uploads": "Følgende elementer er installert:"
+    "prompt.manage_game.installed_uploads": "Følgende elementer er installert:",
+    "prompt.show_error.generic_message": "Noe gikk galt",
+    "prompt.launch.message": "Hvilken vil du åpne",
+    "prompt.sla.title": "Lisensavtale for programvare",
+    "prompt.sla.message": "For å bruke dette programmet må du godta vilkårene i denne lisensavtalen",
+    "prompt.sla.accept": "Godta vilkår"
 }
