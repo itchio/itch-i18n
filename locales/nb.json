@@ -518,5 +518,6 @@
     "status.downloads.pause_downloads": "Sett nedlastinger på pause",
     "setup.action.browse": "Bla gjennom",
     "web.context_menu.inspect": "Inspiser",
-    "butlerd.codes.404": "Installasjonskatalogen forsvant"
+    "butlerd.codes.404": "Installasjonsmappen forsvant",
+    "filter_by.games.paid_status.paid": "Betalt"
 }
