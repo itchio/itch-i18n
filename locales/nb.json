@@ -490,5 +490,6 @@
     "preferences.install_location.empty": "Tom",
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} gjenstander ble importert",
     "preferences.scan_install_locations.looking_for_games": "Leter etter spill …",
-    "preferences.scan_install_locations.no_items_found": "Ingen andre gjenstander funnet på installasjonslokasjonene"
+    "preferences.scan_install_locations.no_items_found": "Ingen andre gjenstander funnet på installasjonslokasjonene",
+    "preferences.scan_install_locations.title": "Scanner …"
 }
