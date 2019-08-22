@@ -588,5 +588,6 @@
     "send_feedback.steps.your_message": "Din melding",
     "send_feedback.steps.system_info": "Systeminformasjon",
     "send_feedback.steps.send": "Send rapport",
-    "empty_state.nothing_to_see_here": "Ingenting å se her"
+    "empty_state.nothing_to_see_here": "Ingenting å se her",
+    "plan_install.select_upload": "Installer"
 }
