@@ -486,5 +486,6 @@
     "table.column.powered_by": "Drevet av",
     "grid.item.running.prepare": "Forbereder…",
     "prereq.status.pending": "Forbereder…",
-    "preferences.scan_install_locations": "Søk etter spill i installasjonslokasjoner"
+    "preferences.scan_install_locations": "Søk etter spill i installasjonslokasjoner",
+    "preferences.install_location.empty": "Tom"
 }
