@@ -511,5 +511,12 @@
     "sidebar.applog": "Applikasjonslogg",
     "sidebar.explore": "Utforsk",
     "sidebar.library": "Bibliotek",
-    "status.installing_game.cancelled": "Installasjon av {{title}} avbrutt!"
+    "status.installing_game.cancelled": "Installasjon av {{title}} avbrutt!",
+    "status.downloads.updates_available": "Oppdateringer tilgjengelig",
+    "status.downloads.update_all": "Oppdater alle",
+    "status.downloads.resume_downloads": "Gjenoppta nedlastinger",
+    "status.downloads.pause_downloads": "Sett nedlastinger på pause",
+    "setup.action.browse": "Bla gjennom",
+    "web.context_menu.inspect": "Inspiser",
+    "butlerd.codes.404": "Installasjonskatalogen forsvant"
 }
