@@ -138,7 +138,7 @@
     "grid.item.uninstall_request": "إلغاء التثبيت أو إعادة التثبيت…",
     "label.experimental": "تجريبي",
     "action.name.play": "إلعب الأن",
-    "action.name.manual": "دليل المستخدم\n",
+    "action.name.manual": "دليل المستخدم",
     "collection.item_count": "{{itemCount}}أدات",
     "collections.empty": "ليس لديك حاليا أية مجموعات",
     "docs.how_to_help": "كيف يمكنني مساعدتك ؟",
