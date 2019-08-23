@@ -140,7 +140,7 @@
     "action.name.play": "إلعب الأن",
     "action.name.manual": "دليل المستخدم",
     "collection.item_count": "{{itemCount}} عنصر",
-    "collections.empty": "حاليا ليس لديك مجموعات",
+    "collections.empty": "انت الان لا تمتلك مجموعات",
     "docs.how_to_help": "كيف يمكنني مساعدتك ؟",
     "download.reason.install": "لتثبيت",
     "download.reason.update": "للتحديث إلى آخر نسخة",
