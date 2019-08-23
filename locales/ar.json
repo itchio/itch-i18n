@@ -144,7 +144,7 @@
     "docs.how_to_help": "كيف يمكنني مساعدتك؟",
     "download.reason.install": "للتثبيت",
     "download.reason.update": "للتحديث الى آخر إصدار",
-    "download.reason.reinstall": "لكي تعيد التنزيل \n",
+    "download.reason.reinstall": "لاعادة التثبيت",
     "download.reason.revert": "للتغيير إلى نسخة أخرى",
     "download.reason.heal": "للتحقق و إصلاح",
     "download.ongoing.install": "تثبيت {{title}} …",
