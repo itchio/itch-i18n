@@ -146,7 +146,7 @@
     "download.reason.update": "للتحديث الى آخر إصدار",
     "download.reason.reinstall": "لإعادة التثبيت",
     "download.reason.revert": "التبديل لإصدار أخر",
-    "download.reason.heal": "للتحقق والتصليح",
+    "download.reason.heal": "للتحقق والإصلاح",
     "download.ongoing.install": "تثبيت {{title}} …",
     "download.ongoing.update": "تحديث {{title}}…",
     "download.ongoing.revert": "تغيير {{title}} إلى نسخة أخرى…",
