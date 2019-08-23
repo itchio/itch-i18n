@@ -115,7 +115,7 @@
     "action.name.editor": "محرّر",
     "docs.learn_more": "تعلم المزيد",
     "download.started": "بدأ",
-    "download.ongoing.reinstall": "يعيد التنزيل {{title}}…",
+    "download.ongoing.reinstall": "جاري إعادة تثبيت {{title}}…",
     "collection.empty": "ليس هناك ألعاب في هذه المجموعة",
     "collection.summary": "مجموعة من {{itemCount}} عنصر",
     "action.name.forums": "المنتدى",
