@@ -137,7 +137,7 @@
     "grid.item.downloads_paused": "تم إيقاف التحميلات موقتاً",
     "grid.item.uninstall_request": "إلغاء التثبيت أو إعادة التثبيت…",
     "label.experimental": "تجريبي",
-    "action.name.play": "إلعب الآن",
+    "action.name.play": "العب الأن",
     "action.name.manual": "دليل المستخدم",
     "collection.item_count": "{{itemCount}}أدات",
     "collections.empty": "ليس لديك حاليا أية مجموعات",
