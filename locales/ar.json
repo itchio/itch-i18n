@@ -148,7 +148,7 @@
     "download.reason.revert": "التبديل لإصدار أخر",
     "download.reason.heal": "للتحقق والإصلاح",
     "download.ongoing.install": "جاري تثبيت {{title}}…",
-    "download.ongoing.update": "جارِ تحديث",
+    "download.ongoing.update": "تحديث{{title}}…",
     "download.ongoing.revert": "تغيير {{title}} إلى نسخة أخرى…",
     "download.ongoing.heal": "إصلاح {{title}}…",
     "download.outcome.installed": "تم التثبيت",
