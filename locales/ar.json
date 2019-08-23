@@ -142,7 +142,7 @@
     "collection.item_count": "{{itemCount}} عنصر",
     "collections.empty": "ليس لديك حالياً أية مجموعات",
     "docs.how_to_help": "كيف يمكنني مساعدتك؟",
-    "download.reason.install": "لتثبيت",
+    "download.reason.install": "لكي تثبت\n",
     "download.reason.update": "للتحديث إلى آخر نسخة",
     "download.reason.reinstall": "لإعادة التثبيت",
     "download.reason.revert": "للتغيير إلى نسخة أخرى",
