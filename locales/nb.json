@@ -589,5 +589,7 @@
     "send_feedback.steps.system_info": "Systeminformasjon",
     "send_feedback.steps.send": "Send rapport",
     "empty_state.nothing_to_see_here": "Ingenting å se her",
-    "plan_install.select_upload": "Installer"
+    "plan_install.select_upload": "Installer",
+    "prompt.show_error.details_for_nerds.stack_trace": "Stack trace",
+    "log.level.debug": "Debug"
 }
