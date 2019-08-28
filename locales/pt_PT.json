@@ -289,5 +289,10 @@
     "grid.clear_filters": "Limpar os filtros",
     "grid.item.buy_now_again": "Comprar uma nova cópia",
     "grid.item.launch_demo": "Lançar a demonstação",
-    "grid.item.share": "Compartilhar"
+    "grid.item.share": "Compartilhar",
+    "download.reason.reinstall": "para reinstalar",
+    "download.reason.heal": "para verificar e reparar",
+    "download.ongoing.install": "Instalando {{title}}",
+    "download.ongoing.update": "Atualizando {{title}}...",
+    "download.ongoing.reinstall": "Reinstalando {{title}}..."
 }
