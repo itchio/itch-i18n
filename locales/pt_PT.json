@@ -368,7 +368,7 @@
     "prompt.show_error.generic_message": "Alguma coisa correu mal",
     "prompt.show_error.details_for_nerds": "Detalhes para cromos",
     "prompt.show_error.details_for_nerds.event_log": "Registo do evento",
-    "prompt.show_error.details_for_nerds.stack_trace": "Stack trace",
+    "prompt.show_error.details_for_nerds.stack_trace": "Rastreamento",
     "prompt.show_error.send_report": "Enviar um comunicado para ajudar a resolver esta situação",
     "prompt.clear_browsing_data.clear": "Limpar dados",
     "prompt.clear_browsing_data.category.cache": "Imagens e ficheiros em cache",
