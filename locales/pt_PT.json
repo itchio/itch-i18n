@@ -263,5 +263,7 @@
     "sandbox.setup.title": "Configuração do modo sandbox",
     "sandbox.setup.proceed": "Continuar",
     "sandbox.setup.windows.message": "Para iniciar jogos no modo sandbox do itch.io, é necessária uma configuração única como Administrador.",
-    "collection.item_count": "{{itemCount}}Itens"
+    "collection.item_count": "{{itemCount}}Itens",
+    "collection.summary": "Uma collecão de {{itemCount}} itens",
+    "download.reason.install": "para instalar"
 }
