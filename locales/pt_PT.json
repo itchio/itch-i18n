@@ -262,5 +262,6 @@
     "outlinks.manage_collections": "Gerir coleções",
     "sandbox.setup.title": "Configuração do modo sandbox",
     "sandbox.setup.proceed": "Continuar",
-    "sandbox.setup.windows.message": "Para iniciar jogos no modo sandbox do itch.io, é necessária uma configuração única como Administrador."
+    "sandbox.setup.windows.message": "Para iniciar jogos no modo sandbox do itch.io, é necessária uma configuração única como Administrador.",
+    "collection.item_count": "{{itemCount}}Itens"
 }
