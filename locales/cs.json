@@ -415,5 +415,16 @@
     "grid.item_count": "{{count}} položek",
     "grid.really_empty_state.leader": "Nic zde není...",
     "download.reason.install": "nainstalovat",
-    "grid.empty_state.leader": "Výsledkům filtrů nic neodpovídá..."
+    "grid.empty_state.leader": "Výsledkům filtrů nic neodpovídá...",
+    "grid.empty_state.explanation": "Tvým flitrům nic neodpovídá",
+    "grid.really_empty_state.explanation": "...zatím!",
+    "grid.item.discard_download": "Zrušit stahování",
+    "grid.item.queueing": "Přidávám do fronty…",
+    "grid.item.open_file_location.osx": "Ukázat ve složce",
+    "table.column.powered_by": "Vytvořeno s",
+    "prereq.explanation": "Pár souborů musí být instalováno, aby {{title}} správně běžel.",
+    "prereq.status.pending": "Připravuji…",
+    "prereq.status.downloading": "Stahuji…",
+    "prereq.status.extracting": "Extrahuji…",
+    "prereq.status.ready": "Připraven na istalaci"
 }
