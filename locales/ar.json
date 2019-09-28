@@ -405,5 +405,6 @@
     "sort_by.games.play_time": "وقت اللعب",
     "sort_by.games.size_on_disk": "المساحة علي الهارد",
     "sort_by.games.install_date": "تاريخ التثبيت",
-    "sort_by.collections.title": "العنوان"
+    "sort_by.collections.title": "العنوان",
+    "prompt.clear_browsing_data.clear": "تنظيف البيانات"
 }
