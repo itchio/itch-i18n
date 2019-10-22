@@ -448,5 +448,7 @@
     "sidebar.collections": "Collecties",
     "sidebar.downloads": "Downloads",
     "sidebar.applog": "Applicatie-log",
-    "sidebar.empty": "Laten we gaan!"
+    "sidebar.empty": "Laten we gaan!",
+    "sidebar.featured": "Aanbevolen",
+    "sidebar.itchio": "Jouw portaal naar het indie game-universum"
 }
