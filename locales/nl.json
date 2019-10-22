@@ -455,5 +455,7 @@
     "sidebar.new_tab": "Nieuwe tabblad",
     "sidebar.explore": "Verkennen",
     "sidebar.library": "Verzameling",
-    "sidebar.owned_subtitle": "Dingen die je hebt gekocht of geïnstalleerd"
+    "sidebar.owned_subtitle": "Dingen die je hebt gekocht of geïnstalleerd",
+    "sidebar.preferences": "Voorkeuren",
+    "sidebar.view_community_profile": "Bekijk gemeenschapsprofiel"
 }
