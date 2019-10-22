@@ -319,5 +319,6 @@
     "browser.reenable": "Opnieuw inschakelen",
     "login.action.reveal_password": "Wachtwoord onthullen",
     "login.action.hide_password": "Wachtwoord verbergen",
-    "grid.really_empty_state.leader": "Er is niets hier..."
+    "grid.really_empty_state.leader": "Er is niets hier...",
+    "grid.really_empty_state.explanation": "...tot op heden!"
 }
