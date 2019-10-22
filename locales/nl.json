@@ -365,5 +365,7 @@
     "prompt.action.nevermind": "Laat maar",
     "prompt.action.force_close": "Geforceerd sluiten",
     "prompt.force_close_game.title": "Geforceerd het programma afsluiten?",
-    "prompt.force_close_game.message": "Wil je {{title}} geforceerd afsluiten?"
+    "prompt.force_close_game.message": "Wil je {{title}} geforceerd afsluiten?",
+    "prompt.discard_download.message": "Weet je zeker dat je wilt stoppen met het downloaden van {{title}}?",
+    "prompt.discard_download.detail": "Je zult {{title}} op elk moment weer kunnen installeren, maar het zal vanaf het begin opstarten"
 }
