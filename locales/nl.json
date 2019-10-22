@@ -442,5 +442,11 @@
     "sidebar.aw_snap": "Oh nee!",
     "sidebar.loading": "Aan het laden...",
     "sidebar.close_all_tabs": "Alle tabbladen sluiten",
-    "sidebar.category.basics": "Hoofdzaken"
+    "sidebar.category.basics": "Hoofdzaken",
+    "sidebar.category.tabs": "Tabbladen",
+    "sidebar.collection": "Collecties",
+    "sidebar.collections": "Collecties",
+    "sidebar.downloads": "Downloads",
+    "sidebar.applog": "Applicatie-log",
+    "sidebar.empty": "Laten we gaan!"
 }
