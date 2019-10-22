@@ -362,5 +362,6 @@
     "prompt.action.back": "Terug",
     "prompt.action.continue": "Verder",
     "pick_update_upload.tags.demo": "demo",
-    "prompt.action.nevermind": "Laat maar"
+    "prompt.action.nevermind": "Laat maar",
+    "prompt.action.force_close": "Geforceerd afsluiten"
 }
