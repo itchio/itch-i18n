@@ -476,5 +476,6 @@
     "status.downloads.no_active_downloads_subtext": "Dingen die je installeert of download zullen hier verschijnen",
     "status.downloads.find_games_button": "Laten we iets downloaden!",
     "status.downloads.resume_downloads": "Downloads voortzetten",
-    "status.downloads.pause_downloads": "Downloads pauzeren"
+    "status.downloads.pause_downloads": "Downloads pauzeren",
+    "status.game_update.check_failed": "Kon niet op updates controleren: {{err}}"
 }
