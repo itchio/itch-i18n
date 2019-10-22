@@ -105,7 +105,7 @@
     "sidebar.getting_started": "Aan de slag gaan",
     "sidebar.installed": "Geïnstalleerde voorwerpen",
     "sidebar.owned": "Bezittingen",
-    "status.checking": "Zoeken naar updates…",
+    "status.checking": "Aan het zoeken naar updates…",
     "status.downloaded": "Klik om opnieuw te starten en de update te installeren!",
     "status.downloading": "Update downloaden…",
     "status.uptodate": "Je itch is de nieuwste versie!",
@@ -457,5 +457,7 @@
     "sidebar.library": "Verzameling",
     "sidebar.owned_subtitle": "Dingen die je hebt gekocht of geïnstalleerd",
     "sidebar.preferences": "Voorkeuren",
-    "sidebar.view_community_profile": "Bekijk gemeenschapsprofiel"
+    "sidebar.view_community_profile": "Bekijk communityprofiel",
+    "status.repairing_game": "{{title}} moet klaar zijn met bijwerken voordat het geopend kan worden",
+    "status.installing_game.cancelled": "Installatie voor {{title}} is geannuleerd!"
 }
