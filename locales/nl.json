@@ -494,5 +494,11 @@
     "usage_stats.description.physical_game": "Een fysiek spel",
     "usage_stats.description.soundtrack": "Een soundtrack",
     "usage_stats.description.tool": "Een hulpmiddel",
-    "usage_stats.description.price": "Verkrijgbaar voor {{price}} of meer"
+    "usage_stats.description.price": "Verkrijgbaar voor {{price}} of meer",
+    "usage_stats.has_played_for_duration": "Gespeeld",
+    "usage_stats.has_used_for_duration": "Gebruikt",
+    "usage_stats.last_played_time_ago": "Laatst gespeeld {{time_ago}}",
+    "usage_stats.never_opened": "Nooit geopend",
+    "usage_stats.never_used": "Nooit gebruikt",
+    "setup.window.title": "{{app_name}}-installatie"
 }
