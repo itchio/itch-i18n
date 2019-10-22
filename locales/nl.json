@@ -297,5 +297,7 @@
     "download.ongoing.heal": "{{title} aan het repareren…",
     "download.outcome.reinstalled": "opnieuw geïnstalleerd",
     "download.outcome.reverted": "naar een andere versie gewisseld",
-    "download.outcome.healed": "geverifiëerd en gerepareerd"
+    "download.outcome.healed": "geverifiëerd en gerepareerd",
+    "dashboard.game_stats.downloads": "downloads",
+    "dashboard.game_stats.purchases": "aankopen"
 }
