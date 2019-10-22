@@ -418,5 +418,6 @@
     "prompt.self_update.message.windows": "Kies 'Nu downloaden' om het automatisch te installeren, of ga naar de website voor meer informatie.",
     "prompt.self_update.title": "itch v{{version}} beschikbaar voor download",
     "prompt.self_update_ready.action.restart": "Nu herstarten",
-    "prompt.self_update_ready.action.snooze": "Herinner me er later aan"
+    "prompt.self_update_ready.action.snooze": "Herinner me er later aan",
+    "prompt.self_update_ready.message": "Kies '{{restart}}' om de update onmiddelijk toe te passen.\n\nZo niet, dan zal de update de volgende keer dat de app wordt gestart actief worden."
 }
