@@ -481,5 +481,7 @@
     "status.game_update.found": "Nieuwe versie van {{title}} gevonden!",
     "status.game_update.not_found": "{{title}} is up-to-date.",
     "status.game_update.busy": "{{title}} kan niet worden bijgewerkt omdat het actief is.",
-    "status.uninstall.busy": "{{title}} kan niet worden gedeïnstalleerd omdat het actief is."
+    "status.uninstall.busy": "{{title}} kan niet worden gedeïnstalleerd omdat het actief is.",
+    "status.reinstall.busy": "{{title}} kan niet worden geherinstalleerd omdat het actief is.",
+    "status.offline_mode.active": "Offlinemodus actief"
 }
