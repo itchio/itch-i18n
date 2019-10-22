@@ -337,5 +337,6 @@
     "preferences.scan_install_locations.no_items_found": "Geen extra items gevonden op installeerlocaties",
     "preferences.scan_install_locations.title": "Aan het scannen...",
     "preferences.behavior.enable_tabs": "Tabbladen aanzetten",
-    "preferences.behavior.manual_game_updates": "Altijd vragen voordat je iets updatet"
+    "preferences.behavior.manual_game_updates": "Altijd vragen voordat je iets updatet",
+    "preferences.behavior.prevent_display_sleep": "Voorkom dat het beeld in slaapstand gaat tijdens het spelen"
 }
