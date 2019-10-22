@@ -338,5 +338,6 @@
     "preferences.scan_install_locations.title": "Aan het scannen...",
     "preferences.behavior.enable_tabs": "Tabbladen aanzetten",
     "preferences.behavior.manual_game_updates": "Altijd vragen voordat je iets updatet",
-    "preferences.behavior.prevent_display_sleep": "Voorkom dat je beeldscherm in slaapstand gaat tijdens het spelen"
+    "preferences.behavior.prevent_display_sleep": "Voorkom dat je beeldscherm in slaapstand gaat tijdens het spelen",
+    "preferences.notifications.ready_notification": "Informeer mij wanneer een download is geïnstalleerd of bijgewerkt"
 }
