@@ -59,7 +59,7 @@
     "onboarding.owned.reassuring_comment": "Het ziet er op het moment een beetje leeg uit, maar geen zorgen!",
     "onboarding.owned.title_warm_welcome": "Het is je gelukt!",
     "preferences.install_location.add": "Locatie toevoegen",
-    "preferences.install_location.delete": "Verwijder dit installatiepad en deïnstalleer alle bestanden",
+    "preferences.install_location.delete": "Verwijder deze installatielocatie",
     "preferences.install_location.empty": "Leeg",
     "preferences.install_location.free_space": "Vrije ruimte",
     "preferences.install_location.is_default": "Nieuwe items zullen standaard hier geïnstalleerd worden.",
@@ -331,5 +331,6 @@
     "preferences.scan_install_locations": "Installeerlocaties op spellen scannen",
     "preferences.scan_install_locations.confirm_import": "Importeren bevestigen",
     "preferences.scan_install_locations.import_items": "Importeer {{numItems}} voorwerpen",
-    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} werden succesvol geimporteerd"
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} werden succesvol geimporteerd",
+    "preferences.scan_install_locations.looking_for_games": "Naar spellen zoeken..."
 }
