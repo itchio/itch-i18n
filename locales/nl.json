@@ -500,5 +500,6 @@
     "usage_stats.last_played_time_ago": "Laatst gespeeld {{time_ago}}",
     "usage_stats.never_opened": "Nooit geopend",
     "usage_stats.never_used": "Nooit gebruikt",
-    "setup.window.title": "{{app_name}}-installatie"
+    "setup.window.title": "{{app_name}}-installatie",
+    "setup.window.welcome": "Welkom bij de installatie van {{app_name}}! Pak iets te drinken, kies een installatielocatie en ga verder."
 }
