@@ -428,5 +428,14 @@
     "prompt.uninstall.reinstall": "Opnieuw installeren",
     "prompt.uninstall.uninstall": "Nu deïnstalleren",
     "search.results.game.no_description": "Geen omschrijving",
-    "search.results.creators": "Makers"
+    "search.results.creators": "Makers",
+    "prompt.uninstall_error.message": "De deïnstallatie is mislukt. De vermelding toch verwijderen?",
+    "prompt.install_error.message": "De installatie is mislukt.",
+    "prompt.uninstall.message": "Weet je zeker dat je {{title}} wilt deïnstalleren?",
+    "search.results.title": "Zoekresultaten voor '{{query}}'",
+    "search.results.local": "Lokaal",
+    "search.results.games": "Spellen",
+    "search.empty.no_results": "Geen resultaten gevonden",
+    "search.empty.tagline": "Inspiratie nodig? Zoek eens op '{{example}}'",
+    "search.open_as_tab": "Open als tab"
 }
