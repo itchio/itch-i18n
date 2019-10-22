@@ -347,5 +347,6 @@
     "preferences.advanced.prefer_optimized_patches": "Voorkeur geven aan geoptimaliseerde patches",
     "preferences.advanced.disable_browser": "Webbrowser uitschakelen",
     "preferences.advanced.disable_hardware_acceleration": "Hardwareversnellingen uitschakelen (lost sommige Linux-specifieke crashes op)",
-    "pick_install_upload.title": "Meerdere downloads zijn beschikbaar voor {{title}}"
+    "pick_install_upload.title": "Meerdere downloads zijn beschikbaar voor {{title}}",
+    "pick_install_upload.detail": "We zullen het opnieuw vragen wanneer nieuwe downloads beschikbaar zijn."
 }
