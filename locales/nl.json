@@ -266,7 +266,7 @@
     "grid.item.status.installed": "Geïnstalleerd",
     "login.action.retry_setup": "Set-up opnieuw proberen",
     "new_tab.devlogs": "Ontwikkelaar-logs",
-    "pick_update_upload.detail": "We vragen dit omdat je tijdens het installeren een handmatige selectie hebt gemaakt.",
+    "pick_update_upload.detail": "We vragen dit omdat je tijdens het installeren zelf een bestand hebt gekozen.",
     "prompt.clear_browsing_data.category.cookies": "Cookies",
     "prompt.clear_browsing_data.cookies_info": "Dit zal je uitloggen van alle websites waar je via de itch-app bij ingelogd bent.",
     "game.install.could_not_launch.message": "De melding die we kregen was: {{errorMessage}}",
