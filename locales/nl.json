@@ -463,5 +463,10 @@
     "sidebar.view_creator_profile": "Bekijk ontwikkelaarsprofiel",
     "status.available": "Een nieuwe versie van itch is beschikbaar!",
     "status.cancelled.message": "De bewerking is geannuleerd.",
-    "status.copied_to_clipboard": "Gekopieerd naar het klembord!"
+    "status.copied_to_clipboard": "Gekopieerd naar het klembord!",
+    "status.downloads.category.active": "Actieve download",
+    "status.downloads.category.finished": "Voltooide downloads",
+    "status.downloads.category.recent_activity": "Recente activiteit",
+    "status.downloads.category.queued": "Downloadwachtrij",
+    "status.downloads.clear_all_finished": "Alles wissen"
 }
