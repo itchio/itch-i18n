@@ -370,5 +370,5 @@
     "prompt.discard_download.detail": "Je zult {{title}} op elk moment weer kunnen installeren, maar het zal vanaf nul beginnen.",
     "prompt.discard_download.action.stop_download": "Download stopzetten",
     "prompt.discard_download.action.continue_download": "Download hervatten",
-    "prompt.dangerous_discard_download.message": "Het stoppen van deze download zal {{title}} in een onbruikbare status zetten"
+    "prompt.dangerous_discard_download.message": "Het stoppen van deze download zal {{title}} in een inconsistente conditie achterlaten."
 }
