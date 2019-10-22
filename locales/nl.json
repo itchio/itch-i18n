@@ -353,5 +353,6 @@
     "pick_update_upload.message": "Naar welk bestand wil je updaten voor {{title}}?",
     "pick_update_upload.single.message": "Je kunt kiezen of je nu of later wilt updaten.",
     "pick_update_upload.single.detail": "Let op: je kunt automatische updates inschakelen in het tabblad 'Voorkeuren'",
-    "pick_update_upload.buttons.skip_update": "Update overslaan"
+    "pick_update_upload.buttons.skip_update": "Update overslaan",
+    "pick_update_upload.buttons.update": "Nu bijwerken"
 }
