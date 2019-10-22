@@ -71,10 +71,10 @@
     "preferences.language": "Taal",
     "preferences.language.get_involved": "Help {{name}} naar jouw taal te vertalen!",
     "prompt.action.cancel": "Annuleren",
-    "prompt.action.close": "Sluit",
+    "prompt.action.close": "Sluiten",
     "prompt.action.confirm_removal": "Verdergaan met verwijderen",
     "prompt.action.install": "Installeren",
-    "prompt.action.ok": "Oke",
+    "prompt.action.ok": "Oké",
     "prompt.additional_purchase.detail": "...maar je kunt dit ook voor een vriend kopen!\n\nWil je dit nog een keer kopen?",
     "prompt.additional_purchase.message": "Je bezit al een kopie van {{title}}.",
     "prompt.additional_purchase.purchase_again": "Nogmaals kopen",
@@ -355,5 +355,10 @@
     "pick_update_upload.single.detail": "Let op: je kunt automatische updates inschakelen in het tabblad 'Voorkeuren'",
     "pick_update_upload.buttons.skip_update": "Update overslaan",
     "pick_update_upload.buttons.update": "Nu bijwerken",
-    "pick_update_upload.buttons.just_launch": "Gewoon opstarten"
+    "pick_update_upload.buttons.just_launch": "Normaal opstarten",
+    "prompt.confirm_quit.title": "Ben je zeker dat je wilt stoppen?",
+    "prompt.confirm_quit.message": "Alle actieve games en applicaties worden gesloten.",
+    "prompt.action.quit_and_close_all": "Stoppen en alles sluiten",
+    "prompt.action.back": "Terug",
+    "prompt.action.continue": "Verder"
 }
