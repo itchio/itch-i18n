@@ -302,5 +302,6 @@
     "dashboard.game_stats.purchases": "aankopen",
     "grid.item_count": "{{count}} voorwerpen",
     "grid.empty_state.leader": "Alles is weggefilterd...",
-    "grid.criterion.filter_by": "Filteren op:"
+    "grid.criterion.filter_by": "Filteren op:",
+    "grid.empty_state.explanation": "Je filter zorgt ervoor dat er geen resultaten zijn. "
 }
