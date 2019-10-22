@@ -590,5 +590,6 @@
     "plan_install.select_install_location": "Naar locatie",
     "plan_install.disk_space_required": "Ruimte op schijf nodig",
     "plan_install.disk_space_available": "Ruimte op schijf beschikbaar",
-    "empty_state.nothing_to_see_here": "Niets te zien hier"
+    "empty_state.nothing_to_see_here": "Niets te zien hier",
+    "setup.location.message": "Kies waar de app moet worden geïnstalleerd"
 }
