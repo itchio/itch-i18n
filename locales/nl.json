@@ -320,5 +320,6 @@
     "login.action.reveal_password": "Wachtwoord onthullen",
     "login.action.hide_password": "Wachtwoord verbergen",
     "grid.really_empty_state.leader": "Er is niets hier...",
-    "grid.really_empty_state.explanation": "...tot op heden!"
+    "grid.really_empty_state.explanation": "...tot op heden!",
+    "login.status.finalizing_installation": "Installatie aan het afronden"
 }
