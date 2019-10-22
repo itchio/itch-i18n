@@ -301,5 +301,6 @@
     "dashboard.game_stats.downloads": "downloads",
     "dashboard.game_stats.purchases": "aankopen",
     "grid.item_count": "{{count}} voorwerpen",
-    "grid.empty_state.leader": "Alles is weggefilterd..."
+    "grid.empty_state.leader": "Alles is weggefilterd...",
+    "grid.criterion.filter_by": "Filteren op:"
 }
