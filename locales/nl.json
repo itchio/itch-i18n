@@ -459,5 +459,9 @@
     "sidebar.preferences": "Voorkeuren",
     "sidebar.view_community_profile": "Bekijk communityprofiel",
     "status.repairing_game": "{{title}} moet klaar zijn met bijwerken voordat het geopend kan worden",
-    "status.installing_game.cancelled": "Installatie voor {{title}} is geannuleerd!"
+    "status.installing_game.cancelled": "Installatie voor {{title}} is geannuleerd!",
+    "sidebar.view_creator_profile": "Bekijk ontwikkelaarsprofiel",
+    "status.available": "Een nieuwe versie van itch is beschikbaar!",
+    "status.cancelled.message": "De bewerking is geannuleerd.",
+    "status.copied_to_clipboard": "Gekopieerd naar het klembord!"
 }
