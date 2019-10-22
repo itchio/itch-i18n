@@ -479,5 +479,6 @@
     "status.downloads.pause_downloads": "Downloads pauzeren",
     "status.game_update.check_failed": "Kon niet voor updates controleren: {{err}}",
     "status.game_update.found": "Nieuwe versie van {{title}} gevonden!",
-    "status.game_update.not_found": "{{title}} is up-to-date."
+    "status.game_update.not_found": "{{title}} is up-to-date.",
+    "status.game_update.busy": "{{title}} kan niet worden bijgewerkt omdat het actief is."
 }
