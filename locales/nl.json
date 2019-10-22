@@ -114,7 +114,7 @@
     "usage_stats.last_opened_time_ago": "Laatst geopend {{time_ago}}",
     "status.downloads.unknown_size": "Onbekend",
     "status.downloads.no_active_downloads": "Geen actieve downloads",
-    "status.downloads.download_error": "Downloadfout",
+    "status.downloads.download_error": "Downloadfoutmelding",
     "grid.item.uninstalling": "Aan het de-installeren…",
     "duration.hour": "een uur",
     "game.install.no_html_index_found": "Geen HTML-indexbestand gevonden",
@@ -472,5 +472,9 @@
     "status.downloads.updates_available": "Updates beschikbaar",
     "status.downloads.update_all": "Alles updaten",
     "status.downloads.clear_finished": "Opruimen",
-    "status.downloads.click_to_manage": "Klik om de downloads te beheren"
+    "status.downloads.click_to_manage": "Klik om downloads te beheren",
+    "status.downloads.no_active_downloads_subtext": "Dingen die je installeert of download zullen hier verschijnen",
+    "status.downloads.find_games_button": "Laten we iets downloaden!",
+    "status.downloads.resume_downloads": "Downloads voortzetten",
+    "status.downloads.pause_downloads": "Downloads pauzeren"
 }
