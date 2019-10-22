@@ -420,5 +420,7 @@
     "prompt.self_update_ready.action.restart": "Nu herstarten",
     "prompt.self_update_ready.action.snooze": "Herinner me er later aan",
     "prompt.self_update_ready.message": "Kies '{{restart}}' om de update onmiddellijk toe te passen.\n\nAls je dat niet doet, dan zal de update de volgende keer dat de app wordt gestart actief worden.",
-    "prompt.self_update_ready.short": "Nieuwe versie beschikbaar"
+    "prompt.self_update_ready.short": "Nieuwe versie beschikbaar",
+    "prompt.self_update_ready.title": "Een update is gedownload en geïnstalleerd",
+    "prompt.uninstall_error.title": "Deïnstallatiefout"
 }
