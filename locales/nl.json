@@ -450,5 +450,7 @@
     "sidebar.applog": "Applicatie-log",
     "sidebar.empty": "Laten we gaan!",
     "sidebar.featured": "Aanbevolen",
-    "sidebar.itchio": "Jouw portaal naar het indiegame-universum"
+    "sidebar.itchio": "Jouw portaal naar het indiegame-universum",
+    "sidebar.log_out": "Uitloggen",
+    "sidebar.new_tab": "Nieuwe tab"
 }
