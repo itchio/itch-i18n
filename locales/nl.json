@@ -108,7 +108,7 @@
     "status.checking": "Aan het zoeken naar updates…",
     "status.downloaded": "Klik om te herstarten en de update toe te passen!",
     "status.downloading": "Update aan het downloaden…",
-    "status.uptodate": "Je itch is de nieuwste versie!",
+    "status.uptodate": "Jouw itch is up-to-date!",
     "usage_stats.never_played": "Nooit gespeeld",
     "usage_stats.last_used_time_ago": "Laatst gebruikt {{time_ago}}",
     "usage_stats.last_opened_time_ago": "Laatst geopend {{time_ago}}",
@@ -483,5 +483,6 @@
     "status.game_update.busy": "{{title}} kan niet worden bijgewerkt omdat het actief is.",
     "status.uninstall.busy": "{{title}} kan niet worden gedeïnstalleerd omdat het actief is.",
     "status.reinstall.busy": "{{title}} kan niet worden geherinstalleerd omdat het actief is.",
-    "status.offline_mode.active": "Offlinemodus actief"
+    "status.offline_mode.active": "Offlinemodus ingeschakeld",
+    "usage_stats.description.bought_time_ago": "{{time_ago}} verkregen"
 }
