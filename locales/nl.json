@@ -100,7 +100,7 @@
     "prompt.url_install.credit": "Een {{classification}} van {{username}}",
     "prompt.url_install.message": "Wil je {{title}} installeren?",
     "prompt.url_install.title": "Installatieverzoek",
-    "sidebar.broken": "Kapot",
+    "sidebar.broken": "Buiten bedrijf",
     "sidebar.dashboard": "Mijn creaties",
     "sidebar.getting_started": "Om te beginnen",
     "sidebar.installed": "Geïnstalleerd",
@@ -437,5 +437,8 @@
     "search.results.games": "Spellen",
     "search.empty.no_results": "Geen resultaten gevonden",
     "search.empty.tagline": "Inspiratie nodig? Zoek eens op '{{example}}'",
-    "search.open_as_tab": "Open als tab"
+    "search.open_as_tab": "Openen als tabblad",
+    "search.placeholder": "Zoeken",
+    "sidebar.aw_snap": "Oh nee!",
+    "sidebar.loading": "Aan het laden..."
 }
