@@ -468,5 +468,8 @@
     "status.downloads.category.finished": "Voltooide downloads",
     "status.downloads.category.recent_activity": "Recente activiteit",
     "status.downloads.category.queued": "Downloadwachtrij",
-    "status.downloads.clear_all_finished": "Alles wissen"
+    "status.downloads.clear_all_finished": "Alles opruimen",
+    "status.downloads.updates_available": "Updates beschikbaar",
+    "status.downloads.update_all": "Alles updaten",
+    "status.downloads.clear_finished": "Opruimen"
 }
