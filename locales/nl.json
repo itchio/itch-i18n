@@ -477,5 +477,5 @@
     "status.downloads.find_games_button": "Laten we iets downloaden!",
     "status.downloads.resume_downloads": "Downloads voortzetten",
     "status.downloads.pause_downloads": "Downloads pauzeren",
-    "status.game_update.check_failed": "Kon niet op updates controleren: {{err}}"
+    "status.game_update.check_failed": "Kon niet voor updates controleren: {{err}}"
 }
