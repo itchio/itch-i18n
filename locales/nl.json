@@ -335,5 +335,6 @@
     "preferences.scan_install_locations.looking_for_games": "Naar spellen aan het zoeken...",
     "preferences.scan_install_locations.message": "De volgende voorwerpen kunnen geimporteerd worden:",
     "preferences.scan_install_locations.no_items_found": "Geen extra items gevonden op installeerlocaties",
-    "preferences.scan_install_locations.title": "Aan het scannen..."
+    "preferences.scan_install_locations.title": "Aan het scannen...",
+    "preferences.behavior.enable_tabs": "Tabbladen activeren"
 }
