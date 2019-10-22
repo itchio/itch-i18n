@@ -160,7 +160,7 @@
     "game.install.could_not_launch.missing_jre": "Java is vereist, maar niet op jouw systeem gevonden.",
     "game.install.no_executables_found": "Geen uitvoerbare bestanden gevonden",
     "game.install.no_uploads_available.detail": "Misschien is het nog niet compatibel met uw platform of de itch-app!",
-    "game.install.no_uploads_available.message": "Geen downloads gevonden voor '{{title}}', Dus is er niets geïnstalleerd.",
+    "game.install.no_uploads_available.message": "Geen compitabele downloads gevonden voor '{{title}}', dus is het niet geïnstalleerd.",
     "grid.criterion.filter": "Filteren...",
     "grid.criterion.only_compatible": "Alleen compatibel",
     "grid.hidden_count": "+ {{count}} items verborgen door filters",
