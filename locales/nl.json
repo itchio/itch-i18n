@@ -99,7 +99,7 @@
     "prompt.payments_disabled.title": "Betalingen uitgezet",
     "prompt.url_install.credit": "Een {{classification}} van {{username}}",
     "prompt.url_install.message": "Wil je {{title}} installeren?",
-    "prompt.url_install.title": "Installatie verzoek",
+    "prompt.url_install.title": "Installatieverzoek",
     "sidebar.broken": "Kapot",
     "sidebar.dashboard": "Mijn creaties",
     "sidebar.getting_started": "Om te beginnen",
@@ -422,5 +422,11 @@
     "prompt.self_update_ready.message": "Kies '{{restart}}' om de update onmiddellijk toe te passen.\n\nAls je dat niet doet, dan zal de update de volgende keer dat de app wordt gestart actief worden.",
     "prompt.self_update_ready.short": "Nieuwe versie beschikbaar",
     "prompt.self_update_ready.title": "Een update is gedownload en geïnstalleerd",
-    "prompt.uninstall_error.title": "Deïnstallatiefout"
+    "prompt.uninstall_error.title": "Deïnstallatie-foutmelding",
+    "prompt.uninstall_error.message_permissions": "Sommige bestanden konden niet verwijderd worden voor {{title}}. Wil je het opnieuw proberen als administrator?",
+    "prompt.uninstall_error.action_permissions": "Verwijderen als administrator",
+    "prompt.uninstall.reinstall": "Opnieuw installeren",
+    "prompt.uninstall.uninstall": "Nu deïnstalleren",
+    "search.results.game.no_description": "Geen omschrijving",
+    "search.results.creators": "Makers"
 }
