@@ -409,5 +409,10 @@
     "prompt.rpm_policy.detail": "itch kan alleen draagbare versies van Linux-applicaties installeren.",
     "prompt.rpm_policy.message": "{{title}} gebruikt het .rpm-pakketformaat, en kan niet geïnstalleerd worden met itch totdat het opnieuw verpakt wordt.",
     "prompt.self_update.action.dismiss": "Negeren",
-    "prompt.self_update.action.view": "In browser openen"
+    "prompt.self_update.action.view": "In browser openen",
+    "prompt.rpm_policy.title": "YUM-pakketten worden niet ondersteund",
+    "prompt.self_update.action.download": "Nu downloaden",
+    "prompt.self_update.detail": "{{notes}}\n\n:date: Gepubliceerd op {{pubDate}}.",
+    "prompt.self_update.message.linux": "Je kan het handmatig downloaden, of de pakketmanager van je distributie gebruiken om te upgraden: ga naar de website voor meer informatie.",
+    "prompt.self_update.message.osx": "Kies 'Download nu' om automatisch te installeren, of ga naar de website voor meer informatie."
 }
