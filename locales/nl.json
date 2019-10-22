@@ -484,5 +484,8 @@
     "status.uninstall.busy": "{{title}} kan niet worden gedeïnstalleerd omdat het actief is.",
     "status.reinstall.busy": "{{title}} kan niet worden geherinstalleerd omdat het actief is.",
     "status.offline_mode.active": "Offlinemodus ingeschakeld",
-    "usage_stats.description.bought_time_ago": "{{time_ago}} verkregen"
+    "usage_stats.description.bought_time_ago": "{{time_ago}} verkregen",
+    "status.offline_mode.inactive": "Klik om offlinemodus te activeren",
+    "usage_stats.description.assets": "Een verzameling van assets",
+    "usage_stats.description.comic": "Een strip"
 }
