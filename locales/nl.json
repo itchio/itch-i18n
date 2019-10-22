@@ -348,5 +348,5 @@
     "preferences.advanced.disable_browser": "Webbrowser uitschakelen",
     "preferences.advanced.disable_hardware_acceleration": "Hardwareversnellingen uitschakelen (lost sommige Linux-specifieke crashes op)",
     "pick_install_upload.title": "Meerdere downloads zijn beschikbaar voor {{title}}",
-    "pick_install_upload.detail": "We zullen het opnieuw vragen wanneer nieuwe downloads beschikbaar zijn."
+    "pick_install_upload.detail": "We zullen het je weer vragen als er nieuwe downloads beschikbaar zijn."
 }
