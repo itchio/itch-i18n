@@ -75,8 +75,8 @@
     "prompt.action.confirm_removal": "Verdergaan met verwijderen",
     "prompt.action.install": "Installeren",
     "prompt.action.ok": "Oké",
-    "prompt.additional_purchase.detail": "...maar je kunt dit ook voor een vriend kopen!\n\nWil je dit nog een keer kopen?",
-    "prompt.additional_purchase.message": "Je bezit al een kopie van {{title}}.",
+    "prompt.additional_purchase.detail": "...maar je kunt dit nog voor een vriend kopen!\n\nWil je nog een aankoop maken?",
+    "prompt.additional_purchase.message": "Je bezit al een exemplaar van {{title}}.",
     "prompt.additional_purchase.purchase_again": "Nogmaals kopen",
     "prompt.additional_purchase.title": "Je hebt dit al!",
     "prompt.crash_reporter.detail": "Een crash log is naar {{location}} geschreven.",
@@ -363,5 +363,7 @@
     "prompt.action.continue": "Verder",
     "pick_update_upload.tags.demo": "demo",
     "prompt.action.nevermind": "Laat maar",
-    "prompt.action.force_close": "Geforceerd afsluiten"
+    "prompt.action.force_close": "Geforceerd sluiten",
+    "prompt.force_close_game.title": "Geforceerd het programma afsluiten?",
+    "prompt.force_close_game.message": "Wil je {{title}} geforceerd afsluiten?"
 }
