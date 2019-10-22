@@ -293,5 +293,6 @@
     "download.outcome.installed": "geïnstalleerd",
     "download.outcome.updated": "naar de laatste versie bijgewerkt",
     "dashboard.game_stats.views": "keer bekeken",
-    "duration.seconds": "{{x}} seconden"
+    "duration.seconds": "{{x}} seconden",
+    "download.ongoing.heal": "{{title} aan het repareren…"
 }
