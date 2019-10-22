@@ -360,5 +360,7 @@
     "prompt.confirm_quit.message": "Alle actieve games en applicaties worden gesloten.",
     "prompt.action.quit_and_close_all": "Stoppen en alles sluiten",
     "prompt.action.back": "Terug",
-    "prompt.action.continue": "Verder"
+    "prompt.action.continue": "Verder",
+    "pick_update_upload.tags.demo": "demo",
+    "prompt.action.nevermind": "Laat maar"
 }
