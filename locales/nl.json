@@ -487,5 +487,5 @@
     "usage_stats.description.bought_time_ago": "{{time_ago}} verkregen",
     "status.offline_mode.inactive": "Klik om offlinemodus te activeren",
     "usage_stats.description.assets": "Een verzameling van assets",
-    "usage_stats.description.comic": "Een strip"
+    "usage_stats.description.comic": "Een stripverhaal"
 }
