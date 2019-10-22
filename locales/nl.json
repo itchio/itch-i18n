@@ -414,5 +414,5 @@
     "prompt.self_update.action.download": "Nu downloaden",
     "prompt.self_update.detail": "{{notes}}\n\n:date: Gepubliceerd op {{pubDate}}.",
     "prompt.self_update.message.linux": "Je kan het handmatig downloaden, of de pakketmanager van je distributie gebruiken om te upgraden: ga naar de website voor meer informatie.",
-    "prompt.self_update.message.osx": "Kies 'Download nu' om automatisch te installeren, of ga naar de website voor meer informatie."
+    "prompt.self_update.message.osx": "Kies 'Nu downloaden' om het automatisch te installeren, of ga naar de website voor meer informatie."
 }
