@@ -343,5 +343,8 @@
     "preferences.language.auto": "Systeemtaal ({{language}})",
     "preferences.advanced.components": "Componenten",
     "preferences.advanced.check_game_updates": "Controleren op game-updates",
-    "preferences.advanced.clear_browsing_data": "Wis navigatiegegevens"
+    "preferences.advanced.clear_browsing_data": "Navigatiegegevens wissen",
+    "preferences.advanced.prefer_optimized_patches": "Voorkeur geven aan geoptimaliseerde patches",
+    "preferences.advanced.disable_browser": "Webbrowser uitschakelen",
+    "preferences.advanced.disable_hardware_acceleration": "Hardwareversnellingen uitschakelen (lost sommige Linux-specifieke crashes op)"
 }
