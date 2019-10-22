@@ -247,7 +247,7 @@
     "sandbox.setup.windows.detail": "Nadat je op 'Verdergaan' hebt gedrukt, zal er misschien een toestemmingsprompt verschijnen die om jouw goedkeuring zal vragen. Dit zal een 'itch-player'-gebruikersaccount toevoegen om je games te beschermen van de rest van je systeem.",
     "sandbox.setup.linux.message": "Om spellen te draaien in de itch.io sandbox, is een eenmalige installatie-procedure nodig die als root uitgevoerd moet worden.",
     "sandbox.setup.linux.detail": "Nadat je op 'Verdergaan' hebt geklikt, zal er een prompt verschijnen die je om je wachtwoord zal vragen. Dit is alleen nodig als je de sandbox voor het eerst opstart op updatet, je wachtwoord wordt nooit onthouden.",
-    "preferences.behavior.open_at_login": "Start itch wanneer mijn computer opstart",
+    "preferences.behavior.open_at_login": "Start itch samen met mijn computer op",
     "preferences.notifications": "Notificaties",
     "preferences.advanced": "Geavanceerd",
     "preferences.advanced.open_app_log": "App log openen",
@@ -259,9 +259,9 @@
     "usage_stats.description.game": "Een spel",
     "usage_stats.description.platforms": "voor {{platforms}}",
     "preferences.behavior.close_to_tray": "Houdt de app in je systeemvak wanneer je het venster sluit",
-    "preferences.behavior.open_as_hidden": "Laat itch op de achtergrond draaien bij het opstarten van de computer.",
-    "preferences.behavior.open_at_login.error": "Auto-start instelling kon niet worden toegepast: {{cause}}",
-    "preferences.behavior.open_at_login.causes.no_desktop_file": "Geen .desktop bestand gevonden. Dit is normaal wanneer je niet installeert via een systeem pakket. Zie {{linux_install_page}} voor meer informatie.",
+    "preferences.behavior.open_as_hidden": "Laat itch op de achtergrond draaien bij het opstarten",
+    "preferences.behavior.open_at_login.error": "Instelling voor automatisch opstarten kon niet worden toegepast: {{cause}}",
+    "preferences.behavior.open_at_login.causes.no_desktop_file": "Geen .desktop bestand gevonden. Dit is normaal wanneer je niet installeert via een systeempakket. Zie {{linux_install_page}} voor meer informatie.",
     "game.install.libraries_missing": "Sommige benodigde {{arch}} bibliotheken ontbreken: {{libraries}}",
     "grid.item.status.installed": "Geïnstalleerd",
     "login.action.retry_setup": "Set-up opnieuw proberen",
@@ -336,5 +336,6 @@
     "preferences.scan_install_locations.message": "De volgende voorwerpen kunnen geimporteerd worden:",
     "preferences.scan_install_locations.no_items_found": "Geen extra items gevonden op installeerlocaties",
     "preferences.scan_install_locations.title": "Aan het scannen...",
-    "preferences.behavior.enable_tabs": "Tabbladen activeren"
+    "preferences.behavior.enable_tabs": "Tabbladen aanzetten",
+    "preferences.behavior.manual_game_updates": "Altijd vragen voordat je iets updatet"
 }
