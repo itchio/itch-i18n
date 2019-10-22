@@ -1,7 +1,7 @@
 {
     "errors.api.login.incorrect_username_or_password": "Onjuiste gebruikersnaam of wachtwoord",
-    "errors.api.login.password_must_be_provided": "Wachtwoord moet ingevoerd zijn",
-    "errors.api.login.username_must_be_provided": "Gebruikersnaam moet ingevuld zijn",
+    "errors.api.login.password_must_be_provided": "Wachtwoord ontbreekt",
+    "errors.api.login.username_must_be_provided": "Gebruikersnaam ontbreekt",
     "grid.item.buy_now": "Nu kopen",
     "grid.item.downloading": "Aan het downloaden…",
     "grid.item.install": "Installeren",
@@ -155,7 +155,7 @@
     "duration.hours": "{{x}} uren",
     "duration.minute": "een minuut of minder",
     "duration.minutes": "{{x}} minuten",
-    "game.install.could_not_launch": "Er bevind zich een fout tijdens het opstarten van {{title}}",
+    "game.install.could_not_launch": "Fout opgetreden tijdens het starten van {{title}}",
     "game.install.could_not_launch.detail": "Ons een rapport sturen is de beste manier om dit probleem zo spoedig mogelijk opgelost te krijgen!",
     "game.install.could_not_launch.missing_jre": "Het is Java nodig, wat niet is gevonden op uw systeem.",
     "game.install.no_executables_found": "Geen uitvoerbare bestanden gevonden",
