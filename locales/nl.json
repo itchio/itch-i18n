@@ -102,8 +102,8 @@
     "prompt.url_install.title": "Installatieverzoek",
     "sidebar.broken": "Buiten bedrijf",
     "sidebar.dashboard": "Mijn creaties",
-    "sidebar.getting_started": "Om te beginnen",
-    "sidebar.installed": "Geïnstalleerd",
+    "sidebar.getting_started": "Aan de slag gaan",
+    "sidebar.installed": "Geïnstalleerde voorwerpen",
     "sidebar.owned": "Bibliotheek",
     "status.checking": "Zoeken naar updates…",
     "status.downloaded": "Klik om opnieuw te starten en de update te installeren!",
@@ -450,5 +450,5 @@
     "sidebar.applog": "Applicatie-log",
     "sidebar.empty": "Laten we gaan!",
     "sidebar.featured": "Aanbevolen",
-    "sidebar.itchio": "Jouw portaal naar het indie game-universum"
+    "sidebar.itchio": "Jouw portaal naar het indiegame-universum"
 }
