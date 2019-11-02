@@ -4,12 +4,12 @@
     "errors.api.login.password_must_be_provided": "请填写密码",
     "errors.api.login.username_must_be_provided": "必须填写用户名",
     "grid.item.buy_now": "立刻购买",
-    "grid.item.downloading": "正在下载……",
+    "grid.item.downloading": "正在下载…",
     "grid.item.finalize_installation": "完成安装",
     "grid.item.install": "安装",
     "grid.item.installing": "正在安装…",
     "grid.item.launch": "启动",
-    "grid.item.probe": "查看失败原因",
+    "grid.item.probe": "检测错误原因",
     "grid.item.purchase_or_donate": "购买或捐赠此项目",
     "grid.item.queued": "已加入队列",
     "grid.item.report_problem": "发送反馈",
@@ -584,5 +584,6 @@
     "plan_install.computing_space_requirements": "正在计算所需空间",
     "plan_install.select_install_location": "目标位置",
     "log.level": "级别",
-    "send_feedback.questions.where_does_report_go": "我的反馈会怎么样？"
+    "send_feedback.questions.where_does_report_go": "我的反馈会发送到哪里？",
+    "send_feedback.send.dont_send": "算了，不发送了"
 }
