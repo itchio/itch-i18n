@@ -582,5 +582,6 @@
     "send_feedback.reminders.include_reproduce_steps": "请尽可能描述重现问题的步骤。",
     "send_feedback.reminders.mention_itchio_account": "必要时，请提供你的 itch.io 用户名和/或出现问题的页面。",
     "plan_install.computing_space_requirements": "正在计算所需空间",
-    "plan_install.select_install_location": "目标位置"
+    "plan_install.select_install_location": "目标位置",
+    "log.level": "级别"
 }
