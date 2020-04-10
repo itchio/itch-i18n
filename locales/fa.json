@@ -94,5 +94,6 @@
     "game.install.no_html_index_found": "فایل HTML index پیدا نشد",
     "game.install.no_uploads_available.detail": "شاید این عنوان هنوز با پلتفرم شما یا نرم‌افزار itch سازگار نیست!",
     "game.install.no_uploads_available.message": "هیچ دانلود سازگاری از '{{title}}' موجود نبود، پس نصب نشد.",
-    "game.install.try_again": "دوباره تلاش کنید"
+    "game.install.try_again": "دوباره تلاش کنید",
+    "prompt.url_install.credit": "یک {{classification}} توسط {{username}}"
 }
