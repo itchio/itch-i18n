@@ -408,5 +408,5 @@
     "sort_by.collections.title": "العنوان",
     "prompt.clear_browsing_data.clear": "تنظيف البيانات",
     "sandbox.setup.windows.message": "من أجل تشغيل ألعاب itch.io في صندوق التجارب، يجب تشغيله كمسؤول لمرة واحدة.",
-    "sandbox.setup.windows.detail": "بعد النقر 'التالي'، سينبثق لك طلب الإذن للموافقة. هذا سيضيف حساب المستخدم \"itch-player\" لحماية ألعابك التي في نظامك."
+    "sandbox.setup.windows.detail": "بعد النقر علي 'التالي'، سينبثق لك طلب الإذن للموافقة. هذا سيضيف حساب المستخدم \"itch-player\" لحماية ألعابك التي في نظامك."
 }
