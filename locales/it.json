@@ -434,5 +434,6 @@
     "web.context_menu.copy_link": "Copia il collegamento",
     "prompt.install_error.message": "L'installazione è fallita.",
     "dashboard.game_stats.downloads": "download",
-    "grid.item_count": "{{count}} elementi"
+    "grid.item_count": "{{count}} elementi",
+    "collection.summary": "Una collezione di {{itemCount}} elementi"
 }
