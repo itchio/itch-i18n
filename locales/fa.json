@@ -106,5 +106,7 @@
     "preferences.scan_install_locations.no_items_found": "آیتم دیگری در مکان‌های نصب پیدا نشد",
     "preferences.scan_install_locations": "بررسی مکان‌های نصب برای پیدا کردن بازی",
     "preferences.install_location.make_default": "انتخاب این مورد به عنوان مکان نصب پیشفرض",
-    "preferences.install_location.delete": "حذف این مکان نصب"
+    "preferences.install_location.delete": "حذف این مکان نصب",
+    "grid.filters.options.compatible": "سازگار",
+    "grid.criterion.only_compatible": "فقط سازگار"
 }
