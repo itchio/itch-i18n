@@ -132,5 +132,15 @@
     "grid.empty_state.explanation": "فیلترهای شما همه‌ی موارد را مخفی کرده‌اند",
     "grid.clear_filters": "پاک کردن فیلترها",
     "grid.hidden_count": "+ {{count}} مورد پنهان شده‌ی دیگر به دلیل فیلترها",
-    "grid.filters.options.owned": "متلعق به من"
+    "grid.filters.options.owned": "متلعق به من",
+    "grid.item.share": "به اشتراک گذاری",
+    "grid.item.open_page": "باز کردن صفحه",
+    "grid.item.not_available": "ناموجود",
+    "grid.item.open_title": "باز کردن {{title}}",
+    "grid.item.open_demo": "باز کردن دمو",
+    "grid.item.install_title": "نصب {{title}}",
+    "grid.item.advanced": "پیشرفته...",
+    "grid.item.developer": "سازنده",
+    "grid.item.discard_download": "لغو دانلود",
+    "grid.empty_state.leader": "همه چیز فیلتر شده..."
 }
