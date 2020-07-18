@@ -458,7 +458,7 @@
     "grid.item.running.clean": "正在清理…",
     "grid.item.running.prepare": "正在准备…",
     "grid.item.open_file_location.osx": "在访达中显示",
-    "grid.item.open_file_location.windows": "在资源管理器中打开所在目录",
+    "grid.item.open_file_location.windows": "在资源管理器中打开目录",
     "grid.item.open_title": "打开 {{title}}",
     "grid.item.not_available": "不可用",
     "grid.item.open_page": "打开页面",
