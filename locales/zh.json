@@ -470,7 +470,7 @@
     "duration.seconds": "{{x}} 秒",
     "dashboard.game_stats.purchases": "购买数",
     "dashboard.game_stats.downloads": "下载数",
-    "download.outcome.healed": "已确认完成修复",
+    "download.outcome.healed": "已验证并修复",
     "download.outcome.reverted": "已切换到另一版本",
     "download.ongoing.revert": "正在将 {{title}} 切换到另一版本…",
     "collection.summary": "此收藏夹中有 {{itemCount}} 个项目",
