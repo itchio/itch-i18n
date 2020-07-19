@@ -586,6 +586,7 @@
     "log.level": "级别",
     "send_feedback.questions.where_does_report_go": "我的反馈会发送到哪里？",
     "send_feedback.send.dont_send": "算了，不发送了",
-    "send_feedback.consent.system_info_helps_us": "粗略了解您的设置通常可以帮助我们确定问题的根源。",
-    "send_feedback.consent.please_review": "请检查以下信息是否可以发送:"
+    "send_feedback.consent.system_info_helps_us": "您的基本系统信息可以帮助我们找到问题起因",
+    "send_feedback.consent.please_review": "请检查以下信息是否可以发送:",
+    "send_feedback.consent.redacted": "不发送"
 }
