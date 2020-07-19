@@ -73,7 +73,7 @@
     "preferences.language.get_involved": "请帮助我们汉化 {{name}}！",
     "prompt.action.cancel": "取消",
     "prompt.action.close": "关闭",
-    "prompt.action.confirm_removal": "进行迁移",
+    "prompt.action.confirm_removal": "继续删除",
     "prompt.action.install": "安装",
     "prompt.action.ok": "确定",
     "prompt.additional_purchase.detail": "…不过再给朋友买一份也可以！\n\n您要再购买一份吗？",
