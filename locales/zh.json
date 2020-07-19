@@ -575,7 +575,7 @@
     "prompt.sla.title": "软件许可协议",
     "prompt.sla.message": "使用此软件前需要接受以下许可协议:",
     "prompt.sla.accept": "接受协议",
-    "sidebar.library": "游戏库",
+    "sidebar.library": "资源库",
     "status.installing_game.cancelled": "{{title}} 已取消安装！",
     "butlerd.codes.3000": "该作品的打包方式与 itch.io 应用不兼容。",
     "sort_by.collections.updated_at": "更新时间",
