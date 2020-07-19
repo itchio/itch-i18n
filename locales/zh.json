@@ -291,7 +291,7 @@
     "prompt.rpm_policy.message": "{{title}} 使用了 .rpm 打包格式，因此无法使用 itch 安装，除非重新打包",
     "prompt.rpm_policy.title": "不支持 YUM 软件包",
     "prompt.self_update.message.windows": "选择“立即下载”即可自动安装，或者前往网站了解更多信息。",
-    "prompt.self_update.title": "itch v{{version}} 已可供下载。",
+    "prompt.self_update.title": "itch v{{version}} 可供下载",
     "prompt.self_update_ready.action.restart": "现在重启",
     "prompt.self_update_ready.title": "更新已被下载并安装",
     "search.results.title": "'{{query}}' 的搜索结果",
