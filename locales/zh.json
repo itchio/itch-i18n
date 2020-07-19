@@ -589,5 +589,6 @@
     "send_feedback.consent.system_info_helps_us": "您的基本系统信息可以帮助我们找到问题起因。",
     "send_feedback.consent.please_review": "请检查以下信息是否可以发送:",
     "send_feedback.consent.redacted": "不发送",
-    "send_feedback.consent.include_in_report": "在报告中添加这些信息"
+    "send_feedback.consent.include_in_report": "在报告中添加这些信息",
+    "send_feedback.send.secret_url": "我们会为您的反馈生成一个隐秘的链接"
 }
