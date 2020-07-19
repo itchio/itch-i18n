@@ -548,8 +548,8 @@
     "send_feedback.reminders.we_are_humans": "您的反馈将会由工作人员阅读确认",
     "send_feedback.reminders.be_precise": "请尽可能提供具体的细节。我们和您一样想要解决问题！",
     "send_feedback.reminders.thanks": "感谢您的反馈！",
-    "send_feedback.send.secret_url.feature_list": "您将可以通过这个链接：",
-    "send_feedback.send.secret_url.feature_list.view": "查看我们会看到的一切",
+    "send_feedback.send.secret_url.feature_list": "您可以通过这个链接:",
+    "send_feedback.send.secret_url.feature_list.view": "查看我们能看到的所有内容",
     "send_feedback.send.do_send": "发送反馈",
     "send_feedback.send.sending": "发送中...",
     "send_feedback.final_thanks": "您的反馈对大家很有帮助，再次感谢！",
@@ -590,5 +590,5 @@
     "send_feedback.consent.please_review": "请检查以下信息是否可以发送:",
     "send_feedback.consent.redacted": "不发送",
     "send_feedback.consent.include_in_report": "在报告中添加这些信息",
-    "send_feedback.send.secret_url": "我们会为您的反馈生成一个隐秘的链接"
+    "send_feedback.send.secret_url": "我们会为您的反馈生成一个特殊的链接。"
 }
