@@ -543,7 +543,7 @@
     "install_locations.manage": "管理安装路径",
     "collection.info.updated": "更新时间",
     "send_feedback.title": "发送反馈",
-    "send_feedback.describe_issue": "请描述一下遇到你问题时在尝试做什么：",
+    "send_feedback.describe_issue": "请描述一下遇到问题时你进行了哪些操作：",
     "send_feedback.reminders.header": "一些贴士：",
     "send_feedback.reminders.we_are_humans": "所有您的反馈将会有人亲自阅读",
     "send_feedback.reminders.be_precise": "请尽可能提供更多更精确的细节。我们和您一样想要解决问题！",
