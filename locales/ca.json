@@ -115,7 +115,7 @@
     "action.name.editor": "Editor",
     "action.name.forums": "Fòrums",
     "label.experimental": "Experimental",
-    "collection.empty": "No hi ha jocs en aquesta col·lecció",
+    "collection.empty": "No hi ha cap joc en aquesta col·lecció",
     "collection.item_count": "{{itemCount}} elements",
     "collection.summary": "Una col·lecció de {{itemCount}} elements",
     "collections.empty": "Encara no teniu cap col·lecció",
