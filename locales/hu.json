@@ -111,7 +111,7 @@
     "label.experimental": "Kísérleti",
     "collection.summary": "{{itemCount}} darabos kollekció",
     "collection.item_count": "{{itemCount}} elem",
-    "collections.empty": "Jelenleg nincs gyüjteményed",
+    "collections.empty": "Jelenleg nincsenek gyűjteményeid",
     "docs.how_to_help": "Hogyan segíthetek?",
     "download.reason.reinstall": "újratelepítés"
 }
