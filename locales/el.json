@@ -426,5 +426,7 @@
     "dashboard.game_stats.views": "προβολές",
     "dashboard.game_stats.purchases": "αγορές",
     "duration.hour": "μια ώρα",
-    "collection.item_count": "{{itemCount}} ανιτκείμενα"
+    "collection.item_count": "{{itemCount}} ανιτκείμενα",
+    "download.reason.reinstall": "για επανεγκατάσταση",
+    "download.started": "Ξεκίνησε"
 }
