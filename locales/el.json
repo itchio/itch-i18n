@@ -428,5 +428,6 @@
     "duration.hour": "μια ώρα",
     "collection.item_count": "{{itemCount}} ανιτκείμενα",
     "download.reason.reinstall": "για επανεγκατάσταση",
-    "download.started": "Ξεκίνησε"
+    "download.started": "Ξεκίνησε",
+    "download.reason.install": "προς εγκατάσταση"
 }
