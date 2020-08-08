@@ -429,5 +429,6 @@
     "collection.item_count": "{{itemCount}} ανιτκείμενα",
     "download.reason.reinstall": "για επανεγκατάσταση",
     "download.started": "Ξεκίνησε",
-    "download.reason.install": "προς εγκατάσταση"
+    "download.reason.install": "προς εγκατάσταση",
+    "download.reason.revert": "για αλλαγή σε άλλη έκδοση"
 }
