@@ -1,4 +1,5 @@
 {
     "grid.item.installing": "กำลังติดตั้ง...",
-    "grid.item.downloading": "กำลังโหลด..."
+    "grid.item.downloading": "กำลังโหลด...",
+    "grid.item.install": "ติดตั้ง"
 }
