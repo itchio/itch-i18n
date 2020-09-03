@@ -4,5 +4,12 @@
     "grid.item.launch": "啟動",
     "grid.item.downloading": "下載中...",
     "grid.item.installing": "正在安裝...",
-    "grid.item.probe": "檢查錯誤原因"
+    "grid.item.probe": "檢查錯誤原因",
+    "action.name.editor": "編輯器",
+    "action.name.forums": "論壇",
+    "grid.item.uninstall": "移除",
+    "grid.item.buy_now": "立刻購買",
+    "action.name.play": "開始遊玩",
+    "grid.item.uninstalling": "正在移除...",
+    "action.name.manual": "使用手冊"
 }
