@@ -1,1 +1,8 @@
-{}
+{
+    "grid.item.queued": "已加入佇列",
+    "grid.item.install": "安裝",
+    "grid.item.launch": "啟動",
+    "grid.item.downloading": "下載中...",
+    "grid.item.installing": "正在安裝...",
+    "grid.item.probe": "檢查錯誤原因"
+}
