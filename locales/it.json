@@ -435,5 +435,7 @@
     "prompt.install_error.message": "L'installazione è fallita.",
     "dashboard.game_stats.downloads": "download",
     "grid.item_count": "{{count}} elementi",
-    "collection.summary": "Una collezione di {{itemCount}} elementi"
+    "collection.summary": "Una collezione di {{itemCount}} elementi",
+    "grid.empty_state.leader": "Tutto è stato filtrato via...",
+    "grid.empty_state.explanation": "I tuoi filtri stanno nascondendo tutto qui"
 }
