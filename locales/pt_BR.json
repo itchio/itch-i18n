@@ -405,7 +405,7 @@
     "dashboard.game_stats.downloads": "downloads",
     "dashboard.game_stats.purchases": "compras",
     "download.ongoing.heal": "Reparando {{title}…",
-    "collection.item_count": "{{itemCount}} itens",
+    "collection.item_count": "{{itemCount}} Itens",
     "grid.item.open_file_location.osx": "Mostrar no localizador",
     "grid.item.running.prepare": "Preparando…",
     "grid.item.running.clean": "Apagando…",
