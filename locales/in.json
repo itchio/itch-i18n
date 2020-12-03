@@ -127,7 +127,7 @@
     "duration.minute": "satu menit atau kurang",
     "duration.minutes": "{{x}} menit",
     "game.install.could_not_launch": "Kesalahan terjadi saat menjalankan {{title}}",
-    "game.install.could_not_launch.detail": "Kata-kata terakhir adalah: {{error}}",
+    "game.install.could_not_launch.detail": "Kirim laporan agar masalah ini dapat diatasi!",
     "game.install.could_not_launch.missing_jre": "Membutuhkan Java yang tidak ditemukan pada sistem Anda.",
     "game.install.no_executables_found": "Tidak ditemukan executable",
     "game.install.no_html_index_found": "Tidak ditemukan index HTML",
