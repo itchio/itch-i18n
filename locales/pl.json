@@ -464,7 +464,7 @@
     "browser.reenable": "Włącz ponownie",
     "login.status.antivirus_warning": "Oprogramowanie antywirusowe może przeszkadzać w działaniu itch.",
     "preferences.install_location.navigate": "Przeglądaj zawartość lokacji",
-    "preferences.scan_install_locations": "Skanuj lokalizacje zainstalowanych gier",
+    "preferences.scan_install_locations": "Skanuj lokacje instalacji gier",
     "table.column.installed": "Zainstalowano",
     "browser.open_devtools": "Otwórz narzędzia deweloperskie",
     "login.action.reveal_password": "Pokaż hasło",
