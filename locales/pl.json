@@ -378,7 +378,7 @@
     "table.column.last_played": "Ostatnio grano",
     "table.column.published": "Opublikowano",
     "game.install.libraries_missing": "Brakuje wymaganych {{arch}} bibliotek: {{libraries}}",
-    "grid.filters.options.no_results": "Niczego nie znaleziono",
+    "grid.filters.options.no_results": "Brak wyników",
     "preferences.behavior.prevent_display_sleep": "Zapobiegaj wyłączaniu ekranu podczas gry",
     "collection.summary": "Kolekcja {{itemCount}} gier",
     "download.ongoing.revert": "Zmienianie wersji {{title}}…",
