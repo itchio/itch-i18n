@@ -31,7 +31,7 @@
     "grid.item.retry": "Spróbuj pobrać i uruchomić to jeszcze raz",
     "grid.item.running": "Uruchomiony…",
     "grid.item.uninstall": "Odinstaluj",
-    "grid.item.uninstalling": "Usuwanie…",
+    "grid.item.uninstalling": "Odinstalowywanie... ",
     "grid.item.version": "Wersja {{version}}",
     "i18n.failed_downloading_locales": "Aktualizacje tłumaczenia dla języka {{lang}} nie mogły zostać pobrane.",
     "install_location.empty": "Obecnie nic nie jest zainstalowane w tej ścieżce",
