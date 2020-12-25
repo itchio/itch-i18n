@@ -252,7 +252,7 @@
     "grid.item.download_java": "Pobierz oprogramowanie Java",
     "grid.item.advanced": "Zaawansowane...",
     "download.started": "Rozpoczęto",
-    "download.reason.revert": "- zmiana do innej wersji",
+    "download.reason.revert": "- przełączyć na inną wersję",
     "game.install.could_not_launch.detail": "Wysłanie nam raportu błędu to najlepszy sposób, by upewnić się, że zostanie on naprawiony!",
     "game.install.could_not_launch.missing_jre": "Wymaga oprogramowania Java, którego nie znaleziono w twoim systemie.",
     "grid.item.review": "Dodaj recencję",
