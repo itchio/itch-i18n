@@ -235,7 +235,7 @@
     "grid.clear_filters": "Wyczyść filtry",
     "grid.item.buy_now_again": "Kup dodatkową kopię",
     "grid.criterion.filter": "Filtruj…",
-    "grid.criterion.only_compatible": "Tylko zgodne",
+    "grid.criterion.only_compatible": "Tylko kompatybilne",
     "grid.hidden_count": "+ {{count}} elementów ukrytych przez filtry",
     "action.name.manual": "Instrukcja użytkownika",
     "action.name.editor": "Edytor",
