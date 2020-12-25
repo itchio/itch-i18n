@@ -471,7 +471,7 @@
     "login.action.hide_password": "Ukryj hasło",
     "prereq.status.pending": "Przygotowywanie…",
     "preferences.install_location.size_used_by_games": "{{installedSize}} zajęte przez gry",
-    "preferences.install_location.free_of_total": "{{freeSize}} wolnych z {{totalSize}} dostępnych",
+    "preferences.install_location.free_of_total": "{{freeSize}} dostępnego miejsca z {{totalSize}}",
     "preferences.scan_install_locations.confirm_import": "Potwierdź import",
     "preferences.scan_install_locations.import_items": "Importuj {{numItems}} pozycji",
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} pozycji zostało zaimportowanych pomyślnie",
