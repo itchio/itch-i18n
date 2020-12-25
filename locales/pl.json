@@ -382,7 +382,7 @@
     "preferences.behavior.prevent_display_sleep": "Zapobiegaj wyłączaniu ekranu podczas gry",
     "collection.summary": "Kolekcja {{itemCount}} gier",
     "download.ongoing.revert": "Zmienianie wersji {{title}}…",
-    "download.ongoing.heal": "Naprawa danych {{title}}…",
+    "download.ongoing.heal": "Naprawianie {{title}}…",
     "download.outcome.installed": "Zainstalowano",
     "download.outcome.updated": "Zaktualizowano do najnowszej wersji",
     "download.outcome.reinstalled": "Przeinstalowano",
