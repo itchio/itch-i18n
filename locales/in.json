@@ -391,5 +391,7 @@
     "download.ongoing.revert": "Mengubah {{title}} ke versi lain...",
     "download.ongoing.heal": "Memperbaiki {{title}}...",
     "collections.empty": "Saat ini anda tidak memiliki koleksi",
-    "collection.item_count": "{{itemCount}} item"
+    "collection.item_count": "{{itemCount}} item",
+    "download.ongoing.update": "Memperbarui{{title}}...",
+    "collection.summary": "Koleksi dari {{itemCount}} item"
 }
