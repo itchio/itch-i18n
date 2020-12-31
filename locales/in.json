@@ -1,7 +1,7 @@
 {
     "errors.api.login.incorrect_username_or_password": "Salah username atau kata sandi",
-    "errors.api.login.password_must_be_provided": "Kata sandi harus disediakan",
-    "errors.api.login.username_must_be_provided": "Username harus disediakan",
+    "errors.api.login.password_must_be_provided": "Harus memberikan kata sandi",
+    "errors.api.login.username_must_be_provided": "Harus memberikan nama akun",
     "grid.item.buy_now": "Beli Sekarang",
     "grid.item.downloading": "Sedang mendownload…",
     "grid.item.install": "Menginstall",
@@ -126,7 +126,7 @@
     "duration.hours": "{{x}} jam",
     "duration.minute": "satu menit atau kurang",
     "duration.minutes": "{{x}} menit",
-    "game.install.could_not_launch": "Kesalahan terjadi saat menjalankan {{title}}",
+    "game.install.could_not_launch": "Terjadi kesalahan saat menjalankan {{title}}",
     "game.install.could_not_launch.detail": "Kirim laporan agar masalah ini dapat diatasi!",
     "game.install.could_not_launch.missing_jre": "Membutuhkan Java yang tidak ditemukan pada sistem Anda.",
     "game.install.no_executables_found": "Tidak ditemukan executable",
