@@ -393,5 +393,8 @@
     "collections.empty": "Saat ini anda tidak memiliki koleksi",
     "collection.item_count": "{{itemCount}} item",
     "download.ongoing.update": "Memperbarui{{title}}...",
-    "collection.summary": "Koleksi dari {{itemCount}} item"
+    "collection.summary": "Koleksi dari {{itemCount}} item",
+    "download.ongoing.install": "Memasang {{title}}...",
+    "collections.empty_sub": "Telusuri beberapa permainan dan tambahkan ke koleksi baru!",
+    "download.ongoing.reinstall": "Memasang ulang {{title}}..."
 }
