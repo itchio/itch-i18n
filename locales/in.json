@@ -397,5 +397,6 @@
     "download.ongoing.install": "Memasang {{title}}...",
     "collections.empty_sub": "Telusuri beberapa permainan dan tambahkan ke koleksi baru!",
     "download.ongoing.reinstall": "Memasang ulang {{title}}...",
-    "duration.seconds": "{{x}} detik"
+    "duration.seconds": "{{x}} detik",
+    "download.outcome.reverted": "Pindah ke versi lain"
 }
