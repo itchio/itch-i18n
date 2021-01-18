@@ -325,5 +325,6 @@
     "grid.item.open_file_location.windows": "Dosyayı gezginde aç",
     "game.install.could_not_launch.missing_jre": "Gerekli Java sürümü sisteminizde bulunmuyor.",
     "collections.empty": "Henüz koleksiyonunuz yok",
-    "download.reason.reinstall": "tekrar yüklemek için"
+    "download.reason.reinstall": "tekrar yüklemek için",
+    "docs.how_to_help": "Nasıl yardımcı olabirilim?"
 }
