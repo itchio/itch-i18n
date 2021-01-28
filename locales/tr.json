@@ -326,5 +326,12 @@
     "game.install.could_not_launch.missing_jre": "Gerekli Java sürümü sisteminizde bulunmuyor.",
     "collections.empty": "Henüz koleksiyonunuz yok",
     "download.reason.reinstall": "tekrar yüklemek için",
-    "docs.how_to_help": "Nasıl yardımcı olabirilim?"
+    "docs.how_to_help": "Nasıl yardımcı olabirilim?",
+    "collection.item_count": "öğe",
+    "grid.item_count": "{{count}} öğe",
+    "grid.criterion.filter_by": "Filtrele: ",
+    "game.install.libraries_missing": "Gerekli bazı {{arch}} kütüphaneleri eksik: {{libraries}}",
+    "dashboard.game_stats.purchases": "satın alınma",
+    "dashboard.game_stats.downloads": "indirilme",
+    "dashboard.game_stats.views": "görüntülenme"
 }
