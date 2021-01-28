@@ -333,5 +333,6 @@
     "game.install.libraries_missing": "Gerekli bazı {{arch}} kütüphaneleri eksik: {{libraries}}",
     "dashboard.game_stats.purchases": "satın alınma",
     "dashboard.game_stats.downloads": "indirilme",
-    "dashboard.game_stats.views": "görüntülenme"
+    "dashboard.game_stats.views": "görüntülenme",
+    "grid.filters.options.compatible": "Uyumlu"
 }
