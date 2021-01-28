@@ -334,5 +334,7 @@
     "dashboard.game_stats.purchases": "satın alınma",
     "dashboard.game_stats.downloads": "indirilme",
     "dashboard.game_stats.views": "görüntülenme",
-    "grid.filters.options.compatible": "Uyumlu"
+    "grid.filters.options.compatible": "Uyumlu",
+    "grid.filters.options.no_results": "Herhangi bir sonuç bulunamadı",
+    "grid.filters.options.owned": "Sahip Olunan"
 }
