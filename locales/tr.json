@@ -338,5 +338,6 @@
     "grid.filters.options.no_results": "Herhangi bir sonuç bulunamadı",
     "grid.filters.options.owned": "Sahip Olunan",
     "grid.criterion.search": "Ara...",
-    "duration.seconds": "{{x}} saniye\n"
+    "duration.seconds": "{{x}} saniye\n",
+    "game.install.could_not_launch.message": "Bu hatayı aldık: {{errorMessage}}"
 }
