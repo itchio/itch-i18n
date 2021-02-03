@@ -336,5 +336,7 @@
     "dashboard.game_stats.views": "görüntülenme",
     "grid.filters.options.compatible": "Uyumlu",
     "grid.filters.options.no_results": "Herhangi bir sonuç bulunamadı",
-    "grid.filters.options.owned": "Sahip Olunan"
+    "grid.filters.options.owned": "Sahip Olunan",
+    "grid.criterion.search": "Ara...",
+    "duration.seconds": "{{x}} saniye\n"
 }
