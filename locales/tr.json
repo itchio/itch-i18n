@@ -339,5 +339,8 @@
     "grid.filters.options.owned": "Sahip Olunan",
     "grid.criterion.search": "Ara...",
     "duration.seconds": "{{x}} saniye\n",
-    "game.install.could_not_launch.message": "Bu hatayı aldık: {{errorMessage}}"
+    "game.install.could_not_launch.message": "Bu hatayı aldık: {{errorMessage}}",
+    "grid.item.not_compatible": "Bu platformda mevcut değil",
+    "grid.item.open_page": "Sayfayı aç",
+    "grid.item.download_java": "Java'yı indir"
 }
