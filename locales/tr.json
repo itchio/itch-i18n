@@ -358,5 +358,6 @@
     "preferences.install_location.navigate": "Bu konumun içeriğini göster",
     "login.two_factor.as_user": "{{username}} olarak giriş yapılıyor",
     "browser.reenable": "Yeniden etkinleştir",
-    "grid.item.open_file_location.linux": "Dosya yöneticisinde görüntüle"
+    "grid.item.open_file_location.linux": "Dosya yöneticisinde görüntüle",
+    "grid.item.manage": "Yönet"
 }
