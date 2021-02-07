@@ -359,5 +359,6 @@
     "login.two_factor.as_user": "{{username}} olarak giriş yapılıyor",
     "browser.reenable": "Yeniden etkinleştir",
     "grid.item.open_file_location.linux": "Dosya yöneticisinde görüntüle",
-    "grid.item.manage": "Yönet"
+    "grid.item.manage": "Yönet",
+    "table.column.installed_size": "Boyut"
 }
