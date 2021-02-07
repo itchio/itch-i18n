@@ -350,5 +350,13 @@
     "login.two_factor.enter_code": "Devam etmek için lütfen doğrulama uygulamanızda gösterilen kodu girin.",
     "login.two_factor.title": "İki adımlı kimlik doğrulama",
     "login.action.retry_setup": "Kurulumu yeniden dene",
-    "grid.item.view_details": "Ayrıntıları görüntüle..."
+    "grid.item.view_details": "Ayrıntıları görüntüle...",
+    "preferences.scan_install_locations.no_items_found": "Kurulum konumunda ek öğe bulunamadı",
+    "preferences.scan_install_locations.confirm_import": "İçe aktarımı onayla",
+    "preferences.install_location.size_used_by_games": "Oyunlar tarafından {{installedSize}} kullanılıyor",
+    "preferences.install_location.disk_usage": "Depolama kullanımı",
+    "preferences.install_location.navigate": "Bu konumun içeriğini göster",
+    "login.two_factor.as_user": "{{username}} olarak giriş yapılıyor",
+    "browser.reenable": "Yeniden etkinleştir",
+    "grid.item.open_file_location.linux": "Dosya yöneticisinde görüntüle"
 }
