@@ -342,5 +342,13 @@
     "game.install.could_not_launch.message": "Bu hatayı aldık: {{errorMessage}}",
     "grid.item.not_compatible": "Bu platformda mevcut değil",
     "grid.item.open_page": "Sayfayı aç",
-    "grid.item.download_java": "Java'yı indir"
+    "grid.item.download_java": "Java'yı indir",
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} tane öğe başarıyla içe aktarıldı",
+    "preferences.install_location.free_of_total": "{{totalSize}} kadar alanın {{totalSize}} kadarı boş",
+    "new_tab.devlogs": "Geliştirici kayıtları",
+    "login.two_factor.learn_more": "İki adımlı kimlik doğrulama hakkında bilgi edinin",
+    "login.two_factor.enter_code": "Devam etmek için lütfen doğrulama uygulamanızda gösterilen kodu girin.",
+    "login.two_factor.title": "İki adımlı kimlik doğrulama",
+    "login.action.retry_setup": "Kurulumu yeniden dene",
+    "grid.item.view_details": "Ayrıntıları görüntüle..."
 }
