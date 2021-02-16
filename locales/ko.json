@@ -168,7 +168,7 @@
     "grid.item.version": "버전 {{version}}",
     "table.column.name": "이름",
     "table.column.installed_size": "크기",
-    "action.name.play": "바로 시작",
+    "action.name.play": "플레이",
     "docs.learn_more": "자세히 알아보기",
     "grid.item.uninstalling": "제거하는 중…",
     "collections.empty": "모음집이 없습니다",
