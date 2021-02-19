@@ -1,5 +1,8 @@
 {
     "prompt.uninstall.reinstall": "重新安装",
     "action.name.manual": "用户手册",
-    "action.name.play": "开始游戏"
+    "action.name.play": "开始游戏",
+    "label.experimental": "实验性内容",
+    "action.name.forums": "论坛",
+    "action.name.editor": "编辑器"
 }
