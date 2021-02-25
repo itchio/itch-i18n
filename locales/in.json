@@ -398,5 +398,6 @@
     "collections.empty_sub": "Telusuri beberapa permainan dan tambahkan ke koleksi baru!",
     "download.ongoing.reinstall": "Memasang ulang {{title}}...",
     "duration.seconds": "{{x}} detik",
-    "download.outcome.reverted": "Pindah ke versi lain"
+    "download.outcome.reverted": "Pindah ke versi lain",
+    "docs.how_to_help": "Bagaimana saya bisa membantu?"
 }
