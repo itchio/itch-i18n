@@ -5,5 +5,8 @@
     "label.experimental": "实验性内容",
     "action.name.forums": "论坛",
     "action.name.editor": "编辑器",
-    "prompt.no_compatible_version.detail": "此{{classification}}可能尚未兼容"
+    "prompt.no_compatible_version.detail": "此{{classification}}可能尚未兼容",
+    "collections.empty": "您目前没有收藏内容",
+    "collection.item_count": "{{itemCount}} 个项目",
+    "collection.empty": "此收藏夹中没有游戏"
 }
