@@ -148,5 +148,11 @@
     "download.ongoing.heal": "מתקן את {{title}}...",
     "download.outcome.installed": "הותקן",
     "download.outcome.updated": "עודכן לגרסה האחרונה",
-    "download.outcome.reinstalled": "הותקן מחדש"
+    "download.outcome.reinstalled": "הותקן מחדש",
+    "game.install.could_not_launch.missing_jre": "זה דורש Java, שלא נמצא במערכת שלך.",
+    "game.install.could_not_launch.detail": "שליחת דו\"ח היא הדרך הטובה ביותר לוודא שזה יתוקן!",
+    "download.outcome.healed": "מאומת ומתוקן",
+    "docs.how_to_help": "כיצד אוכל לעזור?",
+    "collections.empty_sub": "חפש משחקים והוסף אותם לאוסף חדש!",
+    "collection.item_count": "{{itemCount}} פריטים"
 }
