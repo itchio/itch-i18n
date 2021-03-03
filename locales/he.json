@@ -154,5 +154,9 @@
     "download.outcome.healed": "מאומת ומתוקן",
     "docs.how_to_help": "כיצד אוכל לעזור?",
     "collections.empty_sub": "חפש משחקים והוסף אותם לאוסף חדש!",
-    "collection.item_count": "{{itemCount}} פריטים"
+    "collection.item_count": "{{itemCount}} פריטים",
+    "duration.seconds": "{{x}} שניות",
+    "dashboard.game_stats.purchases": "רכישות",
+    "dashboard.game_stats.downloads": "הורדות",
+    "dashboard.game_stats.views": "צפיות"
 }
