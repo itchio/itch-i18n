@@ -158,5 +158,8 @@
     "duration.seconds": "{{x}} שניות",
     "dashboard.game_stats.purchases": "רכישות",
     "dashboard.game_stats.downloads": "הורדות",
-    "dashboard.game_stats.views": "צפיות"
+    "dashboard.game_stats.views": "צפיות",
+    "game.install.could_not_launch.message": "ההודעה שקיבלנו היא: {{errorMessage}}",
+    "duration.minute": "דקה או פחות",
+    "duration.hours": "{{x}} שעות"
 }
