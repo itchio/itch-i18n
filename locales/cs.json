@@ -427,5 +427,17 @@
     "prereq.status.downloading": "Stahuji…",
     "prereq.status.extracting": "Extrahuji…",
     "prereq.status.ready": "Připraven na istalaci",
-    "table.column.name": "Název"
+    "table.column.name": "Název",
+    "preferences.advanced.components": "Komponenty",
+    "preferences.behavior.enable_tabs": "Povolit karty",
+    "preferences.scan_install_locations.title": "Skenuji...",
+    "preferences.scan_install_locations.message": "Následující položky mohou být importovány: ",
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} položek bylo úspěšně importováno",
+    "preferences.scan_install_locations.import_items": "Importovat {{numItems}} položek",
+    "preferences.scan_install_locations.confirm_import": "Potvrdit import",
+    "preferences.install_location.free_of_total": "Je volno {{freeSize}} z {{totalSize}}",
+    "preferences.install_location.size_used_by_games": "{{installedSize}} je využito hrami",
+    "preferences.install_location.disk_usage": "Využití disku",
+    "menu.file.close_tabs_below": "Zavřít karty níže",
+    "menu.file.close_other_tabs": "Zavřít ostatní karty"
 }
