@@ -439,5 +439,6 @@
     "preferences.install_location.size_used_by_games": "{{installedSize}} je využito hrami",
     "preferences.install_location.disk_usage": "Využití disku",
     "menu.file.close_tabs_below": "Zavřít karty níže",
-    "menu.file.close_other_tabs": "Zavřít ostatní karty"
+    "menu.file.close_other_tabs": "Zavřít ostatní karty",
+    "preferences.scan_install_locations": "Hledat nainstalované hry"
 }
