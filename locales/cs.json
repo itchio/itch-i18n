@@ -443,5 +443,11 @@
     "preferences.scan_install_locations": "Hledat nainstalované hry",
     "prompt.action.continue": "Pokračovat",
     "prompt.action.nevermind": "Zrušit",
-    "preferences.behavior.prevent_display_sleep": "Neuspávat obrazovku při hraní"
+    "preferences.behavior.prevent_display_sleep": "Neuspávat obrazovku při hraní",
+    "pick_update_upload.buttons.skip_update": "Přeskočit aktualizaci",
+    "preferences.advanced.disable_hardware_acceleration": "Zakázat hardwarovou akceleraci (řeší některé potíže na Linuxu)",
+    "preferences.advanced.disable_browser": "Zakázat webový prohlížeč",
+    "preferences.advanced.prefer_optimized_patches": "Preferovat optimalizované patche",
+    "preferences.advanced.clear_browsing_data": "Vyčistit data prohlížení",
+    "preferences.advanced.check_game_updates": "Zkontrolovat aktualizace her"
 }
