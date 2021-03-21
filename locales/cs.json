@@ -440,5 +440,8 @@
     "preferences.install_location.disk_usage": "Využití disku",
     "menu.file.close_tabs_below": "Zavřít karty níže",
     "menu.file.close_other_tabs": "Zavřít ostatní karty",
-    "preferences.scan_install_locations": "Hledat nainstalované hry"
+    "preferences.scan_install_locations": "Hledat nainstalované hry",
+    "prompt.action.continue": "Pokračovat",
+    "prompt.action.nevermind": "Zrušit",
+    "preferences.behavior.prevent_display_sleep": "Neuspávat obrazovku při hraní"
 }
