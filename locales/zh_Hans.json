@@ -12,5 +12,11 @@
     "download.reason.install": "准备安装",
     "download.started": "开始于",
     "desktop.shortcut.comment": "轻松下载畅玩 itch.io上的游戏",
-    "prompt.url_install.credit": "{{username}} 创作的{{classification}}"
+    "prompt.url_install.credit": "{{username}} 创作的{{classification}}",
+    "download.ongoing.install": "正在安装 {{title}}…",
+    "download.reason.heal": "验证和修复",
+    "download.reason.reinstall": "重新安装",
+    "download.reason.update": "更新到最新版本",
+    "docs.learn_more": "了解更多",
+    "collection.summary": "有{{itemCount}}个项目的收藏夹"
 }
