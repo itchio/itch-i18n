@@ -8,5 +8,9 @@
     "prompt.no_compatible_version.detail": "此{{classification}}可能尚未兼容",
     "collections.empty": "您目前没有收藏内容",
     "collection.item_count": "{{itemCount}} 个项目",
-    "collection.empty": "此收藏夹中没有游戏"
+    "collection.empty": "此收藏夹中没有游戏",
+    "download.reason.install": "准备安装",
+    "download.started": "开始于",
+    "desktop.shortcut.comment": "轻松下载畅玩 itch.io上的游戏",
+    "prompt.url_install.credit": "{{username}} 创作的{{classification}}"
 }
