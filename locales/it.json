@@ -439,5 +439,5 @@
     "grid.empty_state.leader": "Tutto è stato filtrato via...",
     "grid.empty_state.explanation": "I tuoi filtri stanno nascondendo tutto qui",
     "grid.item.discard_download": "Annulla il download",
-    "login.action.retry_setup": "Riprova il setup"
+    "login.action.retry_setup": "Riprova l'installazione"
 }
