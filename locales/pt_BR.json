@@ -100,7 +100,7 @@
     "prompt.payments_disabled.message": "Infelizmente o desenvolvedor de {{title}} não aceita pagamentos para este titulo.",
     "prompt.payments_disabled.open_web_page": "Abrir página web",
     "prompt.payments_disabled.title": "Pagamentos desabilitados",
-    "prompt.url_install.credit": "Um(a) {{classification}} por {{username}}",
+    "prompt.url_install.credit": "Uma {{classification}} por {{username}}",
     "prompt.url_install.message": "Você deseja instalar {{title}}?",
     "prompt.url_install.title": "Requisição de instalação",
     "sidebar.broken": "Quebrado",
