@@ -23,5 +23,7 @@
     "download.ongoing.revert": "正在将 {{title}} 切换到另一版本...\n",
     "docs.how_to_help": "我能帮到什么？\n",
     "collections.empty_sub": "找一些游戏添加到收藏夹吧！\n",
-    "download.reason.revert": "切换至其他版本"
+    "download.reason.revert": "切换至其他版本",
+    "download.outcome.healed": "已验证并修复\n",
+    "download.outcome.reverted": "已切换到另一版本\n"
 }
