@@ -381,5 +381,6 @@
     "login.action.hide_password": "Şifreyi gizle",
     "browser.open_devtools": "Geliştirici araçlarını aç",
     "table.column.powered_by": "Destekleyen",
-    "collections.empty_sub": "Bazı oyunlara göz atın ve onları yeni bir koleksiyona ekleyin!"
+    "collections.empty_sub": "Bazı oyunlara göz atın ve onları yeni bir koleksiyona ekleyin!",
+    "grid.empty_state.leader": "Her şey filtrelendi.."
 }
