@@ -384,5 +384,6 @@
     "collections.empty_sub": "Bazı oyunlara göz atın ve onları yeni bir koleksiyona ekleyin!",
     "grid.empty_state.leader": "Her şey filtrelendi..",
     "grid.really_empty_state.leader": "Burada hiçbir şey yok..",
-    "grid.really_empty_state.explanation": "...henüz!"
+    "grid.really_empty_state.explanation": "...henüz!",
+    "grid.item.update": "Güncelle"
 }
