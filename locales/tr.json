@@ -388,5 +388,14 @@
     "grid.item.update": "Güncelle",
     "grid.item.status.installed": "Yüklendi",
     "grid.item.open_title": "Aç: {{title}}",
-    "grid.item.verify_integrity": "Bütünlüğü doğrula"
+    "grid.item.verify_integrity": "Bütünlüğü doğrula",
+    "preferences.scan_install_locations.looking_for_games": "Oyun aranıyor..",
+    "preferences.scan_install_locations": "Oyunlar için yükleme konumlarını tara",
+    "prereq.status.installing": "Kuruluyor.. (bu birkaç dakika sürebilir)",
+    "prereq.status.pending": "Hazırlanıyor..",
+    "login.status.finalizing_installation": "Kurulum tamamlanıyor..",
+    "browser.disabled": "itch web tarayıcısı devre dışı bırakıldı",
+    "grid.item.running.clean": "Temizleniyor..",
+    "grid.item.running.prepare": "Hazırlanıyor..",
+    "grid.item.revert_to_version": "Başka bir sürüme geç.."
 }
