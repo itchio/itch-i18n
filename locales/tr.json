@@ -401,5 +401,7 @@
     "table.column.play_time": "Oynama süresi",
     "prereq.status.extracting": "Ayıklanıyor…",
     "prereq.status.downloading": "İndiriliyor…",
-    "table.column.last_played": "Son oynanma tarihi"
+    "table.column.last_played": "Son oynanma tarihi",
+    "menu.file.close_tabs_below": "Alttaki sekmeleri kapat",
+    "prereq.explanation": "{{title}}'in düzgün çalışması için önce birkaç paketin kurulması gerekiyor."
 }
