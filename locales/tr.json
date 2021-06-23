@@ -385,5 +385,7 @@
     "grid.empty_state.leader": "Her şey filtrelendi..",
     "grid.really_empty_state.leader": "Burada hiçbir şey yok..",
     "grid.really_empty_state.explanation": "...henüz!",
-    "grid.item.update": "Güncelle"
+    "grid.item.update": "Güncelle",
+    "grid.item.status.installed": "Yüklendi",
+    "grid.item.open_title": "Aç: {{title}}"
 }
