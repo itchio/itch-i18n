@@ -397,5 +397,6 @@
     "browser.disabled": "itch web tarayıcısı devre dışı bırakıldı",
     "grid.item.running.clean": "Temizleniyor..",
     "grid.item.running.prepare": "Hazırlanıyor..",
-    "grid.item.revert_to_version": "Başka bir sürüme geç.."
+    "grid.item.revert_to_version": "Başka bir sürüme geç..",
+    "table.column.play_time": "Oynama süresi"
 }
