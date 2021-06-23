@@ -398,5 +398,8 @@
     "grid.item.running.clean": "Temizleniyor..",
     "grid.item.running.prepare": "Hazırlanıyor..",
     "grid.item.revert_to_version": "Başka bir sürüme geç..",
-    "table.column.play_time": "Oynama süresi"
+    "table.column.play_time": "Oynama süresi",
+    "prereq.status.extracting": "Ayıklanıyor…",
+    "prereq.status.downloading": "İndiriliyor…",
+    "table.column.last_played": "Son oynanma tarihi"
 }
