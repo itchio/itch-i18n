@@ -387,5 +387,6 @@
     "grid.really_empty_state.explanation": "...henüz!",
     "grid.item.update": "Güncelle",
     "grid.item.status.installed": "Yüklendi",
-    "grid.item.open_title": "Aç: {{title}}"
+    "grid.item.open_title": "Aç: {{title}}",
+    "grid.item.verify_integrity": "Bütünlüğü doğrula"
 }
