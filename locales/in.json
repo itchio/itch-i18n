@@ -399,5 +399,6 @@
     "download.ongoing.reinstall": "Memasang ulang {{title}}...",
     "duration.seconds": "{{x}} detik",
     "download.outcome.reverted": "Pindah ke versi lain",
-    "docs.how_to_help": "Bagaimana saya bisa membantu?"
+    "docs.how_to_help": "Bagaimana saya bisa membantu?",
+    "download.reason.install": "untuk memasang"
 }
