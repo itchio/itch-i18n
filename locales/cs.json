@@ -449,5 +449,7 @@
     "preferences.advanced.disable_browser": "Zakázat webový prohlížeč",
     "preferences.advanced.prefer_optimized_patches": "Preferovat optimalizované patche",
     "preferences.advanced.clear_browsing_data": "Vyčistit data prohlížení",
-    "preferences.advanced.check_game_updates": "Zkontrolovat aktualizace her"
+    "preferences.advanced.check_game_updates": "Zkontrolovat aktualizace her",
+    "preferences.scan_install_locations.looking_for_games": "Pátrám po hrách...",
+    "prereq.status.done": "Hotovo!"
 }
