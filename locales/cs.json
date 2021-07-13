@@ -452,5 +452,6 @@
     "preferences.advanced.check_game_updates": "Zkontrolovat aktualizace her",
     "preferences.scan_install_locations.looking_for_games": "Pátrám po hrách...",
     "prereq.status.done": "Hotovo!",
-    "prompt.action.back": "Zpět"
+    "prompt.action.back": "Zpět",
+    "prompt.discard_download.action.stop_download": "Zastavit stahování"
 }
