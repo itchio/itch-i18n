@@ -432,5 +432,11 @@
     "prompt.dangerous_discard_download.message": "ايقاف التحميل سيجعل {{title}} في حالة غير مستقرة.",
     "sandbox.setup.linux.message": "من أجل تشغيل ألعاب itch.io في صندوق التجارب، سيشتغل برنامج نصّي كمدير للنظام.",
     "prompt.logout_detail": "سيتم ايقاف التحميلات الجاريه حتى تقوم بتسجيل الدخول مجددا.",
-    "prompt.show_error.send_report": "قم بإرسال تقرير للمساعدة في حل هذه المشكلة."
+    "prompt.show_error.send_report": "قم بإرسال تقرير للمساعدة في حل هذه المشكلة.",
+    "prompt.revert.no_other_version": "لا يوجد اصدارات اخرى متوفرة.",
+    "prompt.manage_game.no_other_uploads": "لا يوجد عناصر اخرى متوفرة حاليا.",
+    "prompt.blessing.message": "امتيازات المسؤول مطلوبه لإدارة {{title}}",
+    "prompt.forget_session.detail": "يمكنك دائماً اعادة اضافتها لاحقاً.",
+    "prompt.deb_policy.message": "{{title}}  يقوم باستخدام ملف من نوع deb. , ولا يمكن تنصيبه باستخدام itch حتي يتم اعادة اصداره.",
+    "prompt.clear_browsing_data.category.cache": "الصور و الملفات المخزنة مؤقتاً"
 }
