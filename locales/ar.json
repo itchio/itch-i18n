@@ -429,5 +429,6 @@
     "prompt.deb_policy.detail": "موقع itch يستطيع فقط تنصيب نسخ محمولة من برامج لينوكس.",
     "prompt.show_error.details_for_nerds.event_log": "سجل الأحداث",
     "prompt.dangerous_discard_download.detail": "في المرة القادمة عند محاولة استخدام {{title}} سنقوم باستعادتها لآخر اصدار.",
-    "prompt.dangerous_discard_download.message": "ايقاف التحميل سيجعل {{title}} في حالة غير مستقرة."
+    "prompt.dangerous_discard_download.message": "ايقاف التحميل سيجعل {{title}} في حالة غير مستقرة.",
+    "sandbox.setup.linux.message": "من أجل تشغيل ألعاب itch.io في صندوق التجارب، سيشتغل برنامج نصّي كمدير للنظام."
 }
