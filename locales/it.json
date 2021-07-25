@@ -444,5 +444,8 @@
     "game.install.libraries_missing": "Alcune librerie richieste {{arch}} risultano mancanti: {{libraries}}",
     "preferences.install_location.navigate": "Visualizza i contenuti di questa cartella",
     "preferences.scan_install_locations.confirm_import": "Conferma l'importazione",
-    "preferences.scan_install_locations.import_items": "Importa {{numItems}} elementi"
+    "preferences.scan_install_locations.import_items": "Importa {{numItems}} elementi",
+    "preferences.scan_install_locations.no_items_found": "Nessun elemento aggiuntivo è stato trovato nei percorsi di installazione",
+    "preferences.scan_install_locations.message": "I seguenti elementi possono essere importati:",
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} elementi sono stati importati correttamente"
 }
