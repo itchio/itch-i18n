@@ -441,5 +441,6 @@
     "grid.item.discard_download": "Annulla il download",
     "login.action.retry_setup": "Riprova l'installazione",
     "preferences.install_location.disk_usage": "Utilizzo del disco",
-    "game.install.libraries_missing": "Alcune librerie richieste {{arch}} risultano mancanti: {{libraries}}"
+    "game.install.libraries_missing": "Alcune librerie richieste {{arch}} risultano mancanti: {{libraries}}",
+    "preferences.install_location.navigate": "Visualizza i contenuti di questa cartella"
 }
