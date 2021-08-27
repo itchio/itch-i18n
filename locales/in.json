@@ -400,5 +400,18 @@
     "duration.seconds": "{{x}} detik",
     "download.outcome.reverted": "Pindah ke versi lain",
     "docs.how_to_help": "Bagaimana saya bisa membantu?",
-    "download.reason.install": "untuk memasang"
+    "download.reason.install": "untuk memasang",
+    "send_feedback.send.do_send": "Kirim laporan",
+    "send_feedback.send.secret_url": "Sebuah URL rahasia akan dibuat untuk laporan Anda.",
+    "send_feedback.questions.where_does_report_go": "Kemana perginya laporan saya?",
+    "send_feedback.reminders.thanks": "Terima kasih telah mengirimkan masukan kepada kami!",
+    "send_feedback.reminders.mention_itchio_account": "Sebutkan nama akun itch.io Anda dan/atau halaman yang sedang bermasalah, jika berkaitan.",
+    "send_feedback.reminders.include_reproduce_steps": "Sertakan langkah-langkah untuk mengulang kembali masalah jika Anda bisa.",
+    "send_feedback.reminders.be_precise": "Tulislah setepat mungkin. Kami ingin menangani masalah ini seperti Anda!",
+    "send_feedback.reminders.we_are_humans": "Apapun yang Anda tulis akan dibaca oleh manusia.",
+    "send_feedback.reminders.header": "Beberapa peringatan:",
+    "send_feedback.describe_issue": "Tolong utarakan apa yang Anda lakukan saat masalah terjadi:",
+    "send_feedback.title": "Kirim umpan balik",
+    "collection.info.updated": "Diperbarui",
+    "dashboard.game_stats.downloads": "Unduhan"
 }
