@@ -413,5 +413,6 @@
     "send_feedback.describe_issue": "Tolong utarakan apa yang Anda lakukan saat masalah terjadi:",
     "send_feedback.title": "Kirim umpan balik",
     "collection.info.updated": "Diperbarui",
-    "dashboard.game_stats.downloads": "Unduhan"
+    "dashboard.game_stats.downloads": "Unduhan",
+    "dashboard.game_stats.purchases": "Pembelian"
 }
