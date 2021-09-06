@@ -528,5 +528,6 @@
     "prompt.show_error.details_for_nerds.stack_trace": "Trasování zásobníku",
     "prompt.show_error.details_for_nerds.event_log": "Protokol událostí",
     "new_tab.devlogs": "Vývojářské protokoly",
-    "preferences.install_location.navigate": "Zobrazit obsah tohoto umístění"
+    "preferences.install_location.navigate": "Zobrazit obsah tohoto umístění",
+    "prompt.discard_download.message": "Opravdu chcete zastavit stahování {{title}}?"
 }
