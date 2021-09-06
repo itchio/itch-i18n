@@ -527,5 +527,6 @@
     "prompt.clear_browsing_data.cookies_info": "Budete odhlášení ze všech webových stránek, do kterých jste se přihlásili v aplikaci itch.",
     "prompt.show_error.details_for_nerds.stack_trace": "Trasování zásobníku",
     "prompt.show_error.details_for_nerds.event_log": "Protokol událostí",
-    "new_tab.devlogs": "Vývojářské protokoly"
+    "new_tab.devlogs": "Vývojářské protokoly",
+    "preferences.install_location.navigate": "Zobrazit obsah tohoto umístění"
 }
