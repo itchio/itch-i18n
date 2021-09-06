@@ -535,5 +535,16 @@
     "prompt.show_error.send_report": "Pošlete hlášení, aby jste pomohli vyřešit tento problém",
     "prompt.show_error.details_for_nerds": "Detaily pro šprty",
     "prompt.show_error.generic_message": "Něco se pokazilo",
-    "prompt.discard_download.action.continue_download": "Pokračovat ve stahování"
+    "prompt.discard_download.action.continue_download": "Pokračovat ve stahování",
+    "send_feedback.reminders.be_precise": "Snažte se být co nejpřesnější. Na vyřešení problému nám záleží stejně jako vám!",
+    "send_feedback.reminders.header": "Několik poznámek:",
+    "send_feedback.describe_issue": "Popište prosím, co jste se snažili udělat, když došlo k problému:",
+    "send_feedback.title": "Poslat zpětnou vazbu",
+    "collection.info.updated": "Aktualizované",
+    "install_locations.manage": "Spravovat umístění instalací",
+    "log.level.error": "Chyba",
+    "log.level.warning": "Upozornění",
+    "log.level.info": "Informace",
+    "prompt.blessing.message": "Správa {{title}} vyžaduje oprávnění správce",
+    "prompt.launch.message": "Kterou verzi chce spustit?"
 }
