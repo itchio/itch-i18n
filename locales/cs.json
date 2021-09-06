@@ -529,5 +529,11 @@
     "prompt.show_error.details_for_nerds.event_log": "Protokol událostí",
     "new_tab.devlogs": "Vývojářské protokoly",
     "preferences.install_location.navigate": "Zobrazit obsah tohoto umístění",
-    "prompt.discard_download.message": "Opravdu chcete zastavit stahování {{title}}?"
+    "prompt.discard_download.message": "Opravdu chcete zastavit stahování {{title}}?",
+    "prompt.clear_browsing_data.category.cookies": "Cookies",
+    "prompt.clear_browsing_data.clear": "Vymazat data",
+    "prompt.show_error.send_report": "Pošlete hlášení, aby jste pomohli vyřešit tento problém",
+    "prompt.show_error.details_for_nerds": "Detaily pro šprty",
+    "prompt.show_error.generic_message": "Něco se pokazilo",
+    "prompt.discard_download.action.continue_download": "Pokračovat ve stahování"
 }
