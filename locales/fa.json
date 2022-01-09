@@ -168,5 +168,10 @@
     "login.action.register": "ثبت نام",
     "login.action.reset_password": "فراموشی گذرواژه",
     "login.action.show_form": "ورود با یک حساب دیگر",
-    "login.action.show_saved_logins": "ورودهای ذخیره شده"
+    "login.action.show_saved_logins": "ورودهای ذخیره شده",
+    "login.status.finalizing_installation": "نهایی کردن نصب",
+    "login.remembered_session.last_connected": "آخرین اتصال",
+    "login.field.username": "نام کاربری یا ایمیل",
+    "login.action.retry_setup": "تلاش دوباره برای نصب",
+    "grid.item.review": "بررسی"
 }
