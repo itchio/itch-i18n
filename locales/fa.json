@@ -173,5 +173,9 @@
     "login.remembered_session.last_connected": "آخرین اتصال",
     "login.field.username": "نام کاربری یا ایمیل",
     "login.action.retry_setup": "تلاش دوباره برای نصب",
-    "grid.item.review": "بررسی"
+    "grid.item.review": "بررسی",
+    "login.messages.welcome_back": "خوش آمدید!",
+    "login.field.password": "گذرواژه",
+    "login.action.hide_password": "مخفی کردن گذرواژه",
+    "login.action.reveal_password": "نمایش گذرواژه"
 }
