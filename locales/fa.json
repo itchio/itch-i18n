@@ -182,5 +182,5 @@
     "login.status.setup_failure": "مشکلی هنگام نصب رخ داد: {{error}}",
     "login.status.login": "در حال ورود…",
     "login.status.dependency_check": "در حال بررسی آماده بودن پیش‌نیازها…",
-    "login.two_factor.title": "تایید دو مرحله ای"
+    "login.two_factor.title": "تایید دو مرحله‌ای"
 }
