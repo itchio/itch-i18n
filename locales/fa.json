@@ -177,5 +177,9 @@
     "login.messages.welcome_back": "خوش آمدید!",
     "login.field.password": "گذرواژه",
     "login.action.hide_password": "مخفی کردن گذرواژه",
-    "login.action.reveal_password": "نمایش گذرواژه"
+    "login.action.reveal_password": "نمایش گذرواژه",
+    "login.status.antivirus_warning": "نرم‌افزارهای آنتی‌ویروس ممکن است با itch تداخل داشته باشند.",
+    "login.status.setup_failure": "مشکلی هنگام نصب رخ داد: {{error}}",
+    "login.status.login": "در حال ورود…",
+    "login.status.dependency_check": "در حال بررسی آماده بودن پیش‌نیازها…"
 }
