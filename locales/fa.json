@@ -190,5 +190,6 @@
     "login.two_factor.verification_code_label": "کد تایید",
     "prereq.status.ready": "آماده‌ی نصب",
     "prereq.status.installing": "در حال نصب… (ممکن است چند دقیقه زمان ببرد)",
-    "prereq.status.done": "انجام شد!"
+    "prereq.status.done": "انجام شد!",
+    "menu.account.account": "حساب کاربری"
 }
