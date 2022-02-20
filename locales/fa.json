@@ -185,5 +185,7 @@
     "login.two_factor.title": "تایید دو مرحله‌ای",
     "prereq.explanation": "جهت اجرای بدون مشکل {{title}}، چند بسته باید نصب شوند.",
     "login.two_factor.learn_more": "اطلاعات بیشتر درباره‌ی تایید دو مرحله‌ای",
-    "login.two_factor.enter_code": "لطفا جهت ادامه‌ی ورود به حساب خود، کدی که در اپلیکیشن تایید دو مرحله‌ای نشان داده شده را وارد کنید."
+    "login.two_factor.enter_code": "لطفا جهت ادامه‌ی ورود به حساب خود، کدی که در اپلیکیشن تایید دو مرحله‌ای نشان داده شده را وارد کنید.",
+    "prereq.status.extracting": "در حال استخراج...",
+    "login.two_factor.verification_code_label": "کد تایید"
 }
