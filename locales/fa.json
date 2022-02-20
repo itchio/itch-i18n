@@ -189,5 +189,6 @@
     "prereq.status.extracting": "در حال استخراج…",
     "login.two_factor.verification_code_label": "کد تایید",
     "prereq.status.ready": "آماده‌ی نصب",
-    "prereq.status.installing": "در حال نصب... (این عملیات ممکن است چند دقیقه زمان ببرد)"
+    "prereq.status.installing": "در حال نصب… (ممکن است چند دقیقه زمان ببرد)",
+    "prereq.status.done": "انجام شد!"
 }
