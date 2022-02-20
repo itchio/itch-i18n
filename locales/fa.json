@@ -188,5 +188,6 @@
     "login.two_factor.enter_code": "لطفا جهت ادامه‌ی ورود به حساب خود، کدی که در اپلیکیشن تایید دو مرحله‌ای نشان داده شده را وارد کنید.",
     "prereq.status.extracting": "در حال استخراج…",
     "login.two_factor.verification_code_label": "کد تایید",
-    "prereq.status.ready": "آماده‌ی نصب"
+    "prereq.status.ready": "آماده‌ی نصب",
+    "prereq.status.installing": "در حال نصب... (این عملیات ممکن است چند دقیقه زمان ببرد)"
 }
