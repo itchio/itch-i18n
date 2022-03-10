@@ -546,5 +546,6 @@
     "log.level.warning": "Upozornění",
     "log.level.info": "Informace",
     "prompt.blessing.message": "Správa {{title}} vyžaduje oprávnění správce",
-    "prompt.launch.message": "Kterou verzi chce spustit?"
+    "prompt.launch.message": "Kterou verzi chce spustit?",
+    "prompt.confirm_quit.message": "Všechny spuštěné hry a aplikace budou uzavřeny."
 }
