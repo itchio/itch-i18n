@@ -548,5 +548,8 @@
     "prompt.blessing.message": "Správa {{title}} vyžaduje oprávnění správce",
     "prompt.launch.message": "Kterou verzi chce spustit?",
     "prompt.confirm_quit.message": "Všechny spuštěné hry a aplikace budou uzavřeny.",
-    "prompt.action.quit_and_close_all": "Ukončit a zavřít vše"
+    "prompt.action.quit_and_close_all": "Ukončit a zavřít vše",
+    "prompt.clear_browsing_data.cache_size_used": "Mezipaměť aktuálně na disku zabírá {{size}}",
+    "prompt.clear_browsing_data.category.cache": "Obrázky a soubory v mezipaměti",
+    "prompt.confirm_quit.title": "Opravdu chcete ukončit aplikaci?"
 }
