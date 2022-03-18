@@ -199,5 +199,7 @@
     "menu.edit.paste": "چسباندن",
     "menu.edit.edit": "ویرایش",
     "menu.edit.cut": "کات",
-    "menu.edit.copy": "کپی"
+    "menu.edit.copy": "کپی",
+    "menu.file.close_all_tabs": "بستن همه زبانه ها",
+    "menu.file.close_tab": "بستن زبانه"
 }
