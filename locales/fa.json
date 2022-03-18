@@ -210,5 +210,10 @@
     "menu.help.search_issue": "جستجوی مشکل",
     "menu.help.release_notes": "تغییرات نسخه‌ها",
     "menu.file.preferences": "تنظیمات...",
-    "menu.file.close_tabs_below": "بستن زبانه‌های پایینی"
+    "menu.file.close_tabs_below": "بستن زبانه‌های پایینی",
+    "menu.help.report_issue": "ارسال بازخورد",
+    "menu.help.about": "درباره",
+    "menu.file.quit": "خروج",
+    "menu.file.file": "فایل",
+    "menu.file.close_window": "بستن پنجره"
 }
