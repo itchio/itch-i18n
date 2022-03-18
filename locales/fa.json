@@ -192,5 +192,6 @@
     "prereq.status.installing": "در حال نصب… (ممکن است چند دقیقه زمان ببرد)",
     "prereq.status.done": "انجام شد!",
     "menu.account.account": "حساب کاربری",
-    "menu.account.change_user": "تغییر حساب کاربری…"
+    "menu.account.change_user": "تغییر حساب کاربری…",
+    "menu.account.not_logged_in": "وارد حساب کاربری نشده اید"
 }
