@@ -201,5 +201,6 @@
     "menu.edit.cut": "کات",
     "menu.edit.copy": "کپی",
     "menu.file.close_all_tabs": "بستن همه‌ی زبانه‌ها",
-    "menu.file.close_tab": "بستن زبانه"
+    "menu.file.close_tab": "بستن زبانه",
+    "menu.file.close_other_tabs": "بستن بقیه زبانه ها"
 }
