@@ -405,5 +405,6 @@
     "menu.file.close_tabs_below": "Alttaki sekmeleri kapat",
     "prereq.explanation": "{{title}}'in düzgün çalışması için önce birkaç paketin kurulması gerekiyor.",
     "grid.item.discard_download": "İndirmeyi iptal et",
-    "grid.item.not_available": "Mevcut değil"
+    "grid.item.not_available": "Mevcut değil",
+    "table.column.name": "İsim"
 }
