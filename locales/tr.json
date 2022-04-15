@@ -412,5 +412,6 @@
     "prompt.confirm_quit.title": "Çıkmak istediğinden emin misin?",
     "pick_update_upload.buttons.update": "Şimdi güncelle",
     "pick_update_upload.buttons.skip_update": "Güncellemeyi atla",
-    "preferences.advanced.prefer_optimized_patches": "Optimize edilmiş yamaları tercih et"
+    "preferences.advanced.prefer_optimized_patches": "Optimize edilmiş yamaları tercih et",
+    "pick_update_upload.tags.demo": "deneme sürümü"
 }
