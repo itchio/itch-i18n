@@ -406,5 +406,11 @@
     "prereq.explanation": "{{title}}'in düzgün çalışması için önce birkaç paketin kurulması gerekiyor.",
     "grid.item.discard_download": "İndirmeyi iptal et",
     "grid.item.not_available": "Mevcut değil",
-    "table.column.name": "İsim"
+    "table.column.name": "İsim",
+    "prompt.action.quit_and_close_all": "Çık ve hepsini kapat",
+    "prompt.confirm_quit.message": "Çalışan tüm oyunlar ve uygulamalar kapatılacak.",
+    "prompt.confirm_quit.title": "Çıkmak istediğinden emin misin?",
+    "pick_update_upload.buttons.update": "Şimdi güncelle",
+    "pick_update_upload.buttons.skip_update": "Güncellemeyi atla",
+    "preferences.advanced.prefer_optimized_patches": "Optimize edilmiş yamaları tercih et"
 }
