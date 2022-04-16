@@ -412,7 +412,7 @@
     "web.context_menu.copy_link": "Kopiuj link",
     "grid.really_empty_state.leader": "Nic tutaj nie ma...",
     "grid.really_empty_state.explanation": "...jeszcze!",
-    "grid.item.running.prepare": "Przygotowywanie...",
+    "grid.item.running.prepare": "Przygotowywanie…",
     "grid.item.running.clean": "Czyszczenie...",
     "grid.item.manage": "Zarządzaj",
     "table.column.installed_size": "Rozmiar",
