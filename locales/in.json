@@ -414,5 +414,7 @@
     "send_feedback.title": "Kirim umpan balik",
     "collection.info.updated": "Diperbarui",
     "dashboard.game_stats.downloads": "Unduhan",
-    "dashboard.game_stats.purchases": "Pembelian"
+    "dashboard.game_stats.purchases": "Pembelian",
+    "dashboard.game_stats.views": "dilihat",
+    "download.outcome.installed": "terpasang"
 }
