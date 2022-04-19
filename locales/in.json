@@ -416,5 +416,8 @@
     "dashboard.game_stats.downloads": "Unduhan",
     "dashboard.game_stats.purchases": "Pembelian",
     "dashboard.game_stats.views": "dilihat",
-    "download.outcome.installed": "terpasang"
+    "download.outcome.installed": "terpasang",
+    "grid.item.not_compatible": "Tidak tersedia untuk platform ini",
+    "grid.item_count": "{{count}} item",
+    "grid.criterion.filter_by": "Saring berdasarkan: "
 }
