@@ -419,5 +419,6 @@
     "download.outcome.installed": "terpasang",
     "grid.item.not_compatible": "Tidak tersedia untuk platform ini",
     "grid.item_count": "{{count}} item",
-    "grid.criterion.filter_by": "Saring berdasarkan: "
+    "grid.criterion.filter_by": "Saring berdasarkan: ",
+    "download.outcome.healed": "sudah diverifikasi dan diperbaiki"
 }
