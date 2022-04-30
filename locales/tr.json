@@ -421,5 +421,12 @@
     "collection_grid.item.updated_at": "Son güncelleme {{time_ago}}",
     "table.column.published": "Paylaşıldı",
     "preferences.advanced.clear_browsing_data": "Tarama verilerini temizle",
-    "preferences.behavior.prevent_display_sleep": "Oyun esnasında uykuya geçmeyi engelle"
+    "preferences.behavior.prevent_display_sleep": "Oyun esnasında uykuya geçmeyi engelle",
+    "prompt.clear_browsing_data.category.cookies": "Çerezler",
+    "prompt.clear_browsing_data.retrieving_cache_size": "Önbellek boyutu alınıyor...",
+    "prompt.clear_browsing_data.category.cache": "Önbellekteki görüntüler ve dosyalar",
+    "prompt.clear_browsing_data.clear": "Veriyi temizle",
+    "pick_update_upload.buttons.just_launch": "Sadece başlat",
+    "pick_update_upload.single.detail": "Not: Otomatik güncellemeleri Tercihler sekmesinden etkinleştirebilirsiniz",
+    "pick_update_upload.single.message": "Şimdi ya da daha sonra güncellemeyi seçebilirsiniz."
 }
