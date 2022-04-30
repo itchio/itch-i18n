@@ -428,5 +428,6 @@
     "prompt.clear_browsing_data.clear": "Veriyi temizle",
     "pick_update_upload.buttons.just_launch": "Sadece başlat",
     "pick_update_upload.single.detail": "Not: Otomatik güncellemeleri Tercihler sekmesinden etkinleştirebilirsiniz",
-    "pick_update_upload.single.message": "Şimdi ya da daha sonra güncellemeyi seçebilirsiniz."
+    "pick_update_upload.single.message": "Şimdi ya da daha sonra güncellemeyi seçebilirsiniz.",
+    "prompt.clear_browsing_data.cache_size_used": "Önbellek diskte {{size}} yer kaplıyor"
 }
