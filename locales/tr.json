@@ -413,5 +413,7 @@
     "pick_update_upload.buttons.update": "Şimdi güncelle",
     "pick_update_upload.buttons.skip_update": "Güncellemeyi atla",
     "preferences.advanced.prefer_optimized_patches": "Optimize edilmiş yamaları tercih et",
-    "pick_update_upload.tags.demo": "deneme sürümü"
+    "pick_update_upload.tags.demo": "deneme sürümü",
+    "preferences.behavior.open_as_hidden": "itch'i arka planda başlat",
+    "grid.filters.options.installed": "Kurulmuş"
 }
