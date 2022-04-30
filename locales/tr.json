@@ -419,5 +419,7 @@
     "pick_update_upload.single.title": "{{title}} için yeni sürüm mevcut",
     "preferences.behavior.open_at_login.causes.no_desktop_file": "Hiç bir .desktop dosyası bulunamadı. Eğer sistem paketinden yüklemediyseniz bu normal. Daha fazla bilgi için {{linux_install_page}} sayfasına göz atın.",
     "collection_grid.item.updated_at": "Son güncelleme {{time_ago}}",
-    "table.column.published": "Paylaşıldı"
+    "table.column.published": "Paylaşıldı",
+    "preferences.advanced.clear_browsing_data": "Tarama verilerini temizle",
+    "preferences.behavior.prevent_display_sleep": "Oyun esnasında uykuya geçmeyi engelle"
 }
