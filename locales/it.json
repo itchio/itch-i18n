@@ -451,5 +451,7 @@
     "new_tab.devlogs": "Note dello sviluppatore",
     "preferences.scan_install_locations.title": "Scansionando...",
     "preferences.install_location.size_used_by_games": "{{installedSize}} usato dai giochi",
-    "preferences.scan_install_locations.looking_for_games": "Ricerca giochi..."
+    "preferences.scan_install_locations.looking_for_games": "Ricerca giochi...",
+    "preferences.advanced.components": "Componenti",
+    "preferences.behavior.open_as_hidden": "Esegui itch minimizzato all'avvio del sistema"
 }
