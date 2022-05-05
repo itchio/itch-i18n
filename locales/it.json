@@ -448,5 +448,7 @@
     "preferences.scan_install_locations.no_items_found": "Nessun elemento aggiuntivo è stato trovato nei percorsi di installazione",
     "preferences.scan_install_locations.message": "I seguenti elementi possono essere importati:",
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} elementi sono stati importati correttamente",
-    "new_tab.devlogs": "Note dello sviluppatore"
+    "new_tab.devlogs": "Note dello sviluppatore",
+    "preferences.scan_install_locations.title": "Scansionando...",
+    "preferences.install_location.size_used_by_games": "{{installedSize}} usato dai giochi"
 }
