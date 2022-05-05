@@ -61,7 +61,7 @@
     "onboarding.owned.reassuring_comment": "Sembra tutto un po' vuoto per ora, ma non preoccuparti!",
     "onboarding.owned.title_warm_welcome": "Ce l'hai fatta!",
     "preferences.install_location.add": "Aggiungi cartella",
-    "preferences.install_location.delete": "Rimuovi questa cartella di installazione e disinstalla il suo contenuto",
+    "preferences.install_location.delete": "Rimuovi questa cartella di installazione",
     "preferences.install_location.empty": "Vuoto",
     "preferences.install_location.free_space": "Spazio libero",
     "preferences.install_location.is_default": "I nuovi oggetti verranno installati automaticamente in questa cartella.",
