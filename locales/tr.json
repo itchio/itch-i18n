@@ -327,7 +327,7 @@
     "collections.empty": "Henüz koleksiyonunuz yok",
     "download.reason.reinstall": "tekrar yüklemek için",
     "docs.how_to_help": "Nasıl yardımcı olabirilim?",
-    "collection.item_count": "öğe",
+    "collection.item_count": "{{itemCount}} öğe",
     "grid.item_count": "{{count}} öğe",
     "grid.criterion.filter_by": "Filtrele: ",
     "game.install.libraries_missing": "Gerekli bazı {{arch}} kütüphaneleri eksik: {{libraries}}",
@@ -396,7 +396,7 @@
     "login.status.finalizing_installation": "Kurulum tamamlanıyor..",
     "browser.disabled": "itch web tarayıcısı devre dışı bırakıldı",
     "grid.item.running.clean": "Temizleniyor..",
-    "grid.item.running.prepare": "Hazırlanıyor..",
+    "grid.item.running.prepare": "Hazırlanıyor…",
     "grid.item.revert_to_version": "Başka bir sürüme geç..",
     "table.column.play_time": "Oynama süresi",
     "prereq.status.extracting": "Ayıklanıyor…",
@@ -430,5 +430,12 @@
     "pick_update_upload.single.detail": "Not: Otomatik güncellemeleri Tercihler sekmesinden etkinleştirebilirsiniz",
     "pick_update_upload.single.message": "Şimdi ya da daha sonra güncellemeyi seçebilirsiniz.",
     "prompt.clear_browsing_data.cache_size_used": "Önbellek diskte {{size}} yer kaplıyor",
-    "grid.item.install_title": "Yükle: {{title}}"
+    "grid.item.install_title": "Kur: {{title}}",
+    "grid.item.open_file_location.osx": "Aramada göster",
+    "grid.item.launch_title": "Başlat {{title}}",
+    "grid.item.queueing": "Sıraya alınıyor…",
+    "grid.empty_state.explanation": "Seçimleriniz burada olan her şeyi gizliyor",
+    "prompt.show_error.details_for_nerds": "Meraklısı için detaylar",
+    "login.status.antivirus_warning": "Virüsten koruma yazılımı itch'i engelliyor olabilir.",
+    "table.column.installed": "Kuruldu"
 }
