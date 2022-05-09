@@ -491,5 +491,6 @@
     "prompt.show_error.send_report": "Bu sorunun çözülmesine yardımcı olmak için bir rapor gönderin",
     "prompt.dangerous_discard_download.detail": "{{title}} yazılımını bir dahaki açışında en güncel sürümüne yenileyeceğiz.",
     "prompt.dangerous_discard_download.message": "Bu indirmeyi durdurmak {{title}} yazılımını kararsız bir halde bırakacak.",
-    "login.action.reveal_password": "Şifreyi görüntüle"
+    "login.action.reveal_password": "Şifreyi görüntüle",
+    "preferences.scan_install_locations.title": "Taranıyor.."
 }
