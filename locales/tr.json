@@ -588,5 +588,6 @@
     "prompt.action.back": "Geri",
     "preferences.advanced.check_game_updates": "Oyun güncellemelerini kontrol et",
     "preferences.advanced.components": "Bileşenler",
-    "preferences.advanced.disable_browser": "Web tarayıcısını devre dışı bırak"
+    "preferences.advanced.disable_browser": "Web tarayıcısını devre dışı bırak",
+    "preferences.advanced.disable_hardware_acceleration": "Donanım hızlandırmayı devre dışı bırak (Linux'taki bazı çökme sorunlarını çözer)"
 }
