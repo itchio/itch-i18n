@@ -455,5 +455,5 @@
     "preferences.advanced.components": "Componenti",
     "preferences.behavior.open_as_hidden": "Esegui itch minimizzato all'avvio del sistema",
     "preferences.advanced.disable_hardware_acceleration": "Disabilita l'accelerazione hardware (risolve alcuni crash su Linux)",
-    "preferences.behavior.enable_tabs": "Abilita finestre"
+    "preferences.behavior.enable_tabs": "Abilita schede"
 }
