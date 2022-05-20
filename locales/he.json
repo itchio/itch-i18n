@@ -166,5 +166,6 @@
     "grid.criterion.filter_by": "סנן לפי:",
     "game.install.no_uploads_available.message": "לא נמצאו הורדות מתאימות עבור '{{title}}' , כך שהוא לא הותקן.",
     "game.install.no_uploads_available.detail": "אולי זה לא מתאים לפלטפורמה שלך או עם תוכנת itch עדיין!",
-    "game.install.no_html_index_found": "קובץ אינדקס מסוג HTML לא נמצא"
+    "game.install.no_html_index_found": "קובץ אינדקס מסוג HTML לא נמצא",
+    "grid.criterion.only_compatible": "רק מתאים"
 }
