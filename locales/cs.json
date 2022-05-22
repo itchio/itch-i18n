@@ -584,5 +584,6 @@
     "send_feedback.questions.where_does_report_go": "Kam zpětnou vazbu posílám?",
     "send_feedback.reminders.mention_itchio_account": "Uveďte své uživatelské jméno itch.io nebo stránku, se kterou jste měli problém.",
     "send_feedback.reminders.include_reproduce_steps": "Pokud možno uveďte, jak problém reprodukovat.",
-    "send_feedback.reminders.we_are_humans": "Odeslaný popis čtou lidi."
+    "send_feedback.reminders.we_are_humans": "Odeslaný popis čtou lidi.",
+    "preferences.scan_install_locations.no_items_found": "V místech instalace nebyly nalezeny žádné další položky"
 }
