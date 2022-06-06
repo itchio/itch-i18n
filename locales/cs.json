@@ -588,5 +588,6 @@
     "preferences.scan_install_locations.no_items_found": "V místech instalace nebyly nalezeny žádné další položky",
     "prereq.status.installing": "Instalace... (může to trvat několik minut)",
     "prompt.dangerous_discard_download.message": "Zastavením stahování zůstane položka {{title}} v nedokončeném stavu.",
-    "prompt.discard_download.detail": "Položku {{title}} budete moci znovu kdykoliv nainstalovat, ale stahování se spustí od počátku."
+    "prompt.discard_download.detail": "Položku {{title}} budete moci znovu kdykoliv nainstalovat, ale stahování se spustí od počátku.",
+    "prompt.dangerous_discard_download.detail": "Obnovíme {{title}} na poslední verzi kdykoliv se ji pokusíte použít."
 }
