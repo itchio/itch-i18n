@@ -460,5 +460,7 @@
     "preferences.install_location.free_of_total": "{{freeSize}} spazio libero di {{totalSize}}",
     "prompt.action.continue": "Continua",
     "preferences.advanced.check_game_updates": "Controlla aggiornamenti gioco",
-    "preferences.scan_install_locations": "Scansiona giochi nei percorsi di installazione"
+    "preferences.scan_install_locations": "Scansiona giochi nei percorsi di installazione",
+    "prompt.action.back": "Indietro",
+    "prompt.confirm_quit.title": "Sicuro di voler uscire?"
 }
