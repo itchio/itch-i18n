@@ -29,7 +29,7 @@
     "game.install.no_html_index_found": "找不到網頁",
     "game.install.libraries_missing": "缺少所需的{{arch}}庫：{{libraries}}",
     "game.install.no_executables_found": "找不到可執行文件",
-    "game.install.could_not_launch.missing_jre": "執行需要安裝Java",
+    "game.install.could_not_launch.missing_jre": "執行需要安裝Java。",
     "game.install.could_not_launch.detail": "傳送錯誤報告給我們！",
     "game.install.could_not_launch.message": "錯誤訊息：{{errorMessage}}",
     "game.install.could_not_launch": "{{title}}執行時發生錯誤",
