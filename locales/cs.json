@@ -589,5 +589,6 @@
     "prereq.status.installing": "Instalace... (může to trvat několik minut)",
     "prompt.dangerous_discard_download.message": "Zastavením stahování zůstane položka {{title}} v nedokončeném stavu.",
     "prompt.discard_download.detail": "Položku {{title}} budete moci znovu kdykoliv nainstalovat, ale stahování se spustí od počátku.",
-    "prompt.dangerous_discard_download.detail": "Obnovíme {{title}} na poslední verzi kdykoliv se ji pokusíte použít."
+    "prompt.dangerous_discard_download.detail": "Obnovíme {{title}} na poslední verzi kdykoliv se ji pokusíte použít.",
+    "send_feedback.reminders.thanks": "Děkujeme Vám za zaslání zpětné vazby!"
 }
