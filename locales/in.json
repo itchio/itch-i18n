@@ -425,5 +425,6 @@
     "grid.item.open_title": "Buka {{title}}",
     "grid.item.not_available": "Tidak tersedia",
     "grid.item.install_title": "Pasang {{title}}",
-    "download.outcome.reinstalled": "terpasang ulang"
+    "download.outcome.reinstalled": "terpasang ulang",
+    "game.install.could_not_launch.message": "Pesan yang kami terima adalah: {{errorMessage}}"
 }
