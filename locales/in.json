@@ -426,5 +426,9 @@
     "grid.item.not_available": "Tidak tersedia",
     "grid.item.install_title": "Pasang {{title}}",
     "download.outcome.reinstalled": "terpasang ulang",
-    "game.install.could_not_launch.message": "Pesan yang kami terima adalah: {{errorMessage}}"
+    "game.install.could_not_launch.message": "Pesan yang kami terima adalah: {{errorMessage}}",
+    "grid.item.launch_title": "Memulai {{title}}",
+    "grid.really_empty_state.explanation": "...pun!",
+    "grid.really_empty_state.leader": "Tidak ada apapun disini...",
+    "grid.empty_state.leader": "Semuanya sudah disaring..."
 }
