@@ -430,5 +430,6 @@
     "grid.item.launch_title": "Memulai {{title}}",
     "grid.really_empty_state.explanation": "...pun!",
     "grid.really_empty_state.leader": "Tidak ada apapun disini...",
-    "grid.empty_state.leader": "Semuanya sudah disaring..."
+    "grid.empty_state.leader": "Semuanya sudah disaring...",
+    "grid.item.discard_download": "Hapus unduhan"
 }
