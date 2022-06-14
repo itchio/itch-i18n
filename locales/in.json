@@ -343,7 +343,7 @@
     "usage_stats.never_played": "Tak pernah dimainkan",
     "usage_stats.never_used": "Tak pernah digunakan",
     "grid.item.verify_integrity": "Verifikasi integritas",
-    "grid.item.revert_to_version": "Kembali ke versi...",
+    "grid.item.revert_to_version": "Ubah ke versi lain...",
     "grid.item.view_details": "Lihat detail...",
     "prereq.explanation": "Beberapa paket perlu diinstall sekali untuk {{title}} agar dapat berjalan dengan baik.",
     "prereq.status.downloading": "Sedang mendownload…",
@@ -431,5 +431,6 @@
     "grid.really_empty_state.explanation": "...pun!",
     "grid.really_empty_state.leader": "Tidak ada apapun disini...",
     "grid.empty_state.leader": "Semuanya sudah disaring...",
-    "grid.item.discard_download": "Hapus unduhan"
+    "grid.item.discard_download": "Hapus unduhan",
+    "grid.item.running.prepare": "Mempersiapkan..."
 }
