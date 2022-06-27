@@ -215,5 +215,7 @@
     "menu.help.about": "درباره",
     "menu.file.quit": "خروج",
     "menu.file.file": "فایل",
-    "menu.file.close_window": "بستن پنجره"
+    "menu.file.close_window": "بستن پنجره",
+    "menu.view.view": "نمایش",
+    "menu.view.downloads": "دانلودها"
 }
