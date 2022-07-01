@@ -445,5 +445,9 @@
     "grid.item.manage": "Mengatur",
     "grid.item.open_file_location.windows": "Buka folder di explorer",
     "grid.item.running.clean": "Membersihkan...",
-    "grid.item.open_file_location.osx": "Tampilkan di Finder"
+    "grid.item.open_file_location.osx": "Tampilkan di Finder",
+    "preferences.install_location.empty": "Kosong",
+    "login.action.hide_password": "Sembunyikan kata sandi",
+    "login.action.reveal_password": "Tampilkan kata sandi",
+    "browser.open_devtools": "Buka alat pengembang"
 }
