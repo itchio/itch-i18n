@@ -432,5 +432,6 @@
     "grid.really_empty_state.leader": "Tidak ada apapun disini...",
     "grid.empty_state.leader": "Semuanya sudah disaring...",
     "grid.item.discard_download": "Hapus unduhan",
-    "grid.item.running.prepare": "Mempersiapkan..."
+    "grid.item.running.prepare": "Mempersiapkan...",
+    "grid.item.open_page": "Buka halaman"
 }
