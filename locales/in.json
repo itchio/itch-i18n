@@ -437,5 +437,11 @@
     "table.column.installed": "Terpasang",
     "table.column.installed_size": "Ukuran",
     "grid.item.status.installed": "Terpasang",
-    "grid.item.open_file_location.linux": "Tampilkan di manajer file"
+    "grid.item.open_file_location.linux": "Tampilkan di manajer file",
+    "preferences.scan_install_locations": "Pindai lokasi install untuk game",
+    "preferences.install_location.navigate": "Lihat konten pada lokasi ini",
+    "browser.reenable": "Mengaktifkan ulang",
+    "table.column.powered_by": "Dipersembahkan oleh",
+    "grid.item.manage": "Mengatur",
+    "grid.item.open_file_location.windows": "Buka folder di explorer"
 }
