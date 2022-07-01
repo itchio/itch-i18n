@@ -443,5 +443,7 @@
     "browser.reenable": "Mengaktifkan ulang",
     "table.column.powered_by": "Dipersembahkan oleh",
     "grid.item.manage": "Mengatur",
-    "grid.item.open_file_location.windows": "Buka folder di explorer"
+    "grid.item.open_file_location.windows": "Buka folder di explorer",
+    "grid.item.running.clean": "Membersihkan...",
+    "grid.item.open_file_location.osx": "Tampilkan di Finder"
 }
