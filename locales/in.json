@@ -433,5 +433,9 @@
     "grid.empty_state.leader": "Semuanya sudah disaring...",
     "grid.item.discard_download": "Hapus unduhan",
     "grid.item.running.prepare": "Mempersiapkan...",
-    "grid.item.open_page": "Buka halaman"
+    "grid.item.open_page": "Buka laman",
+    "table.column.installed": "Terpasang",
+    "table.column.installed_size": "Ukuran",
+    "grid.item.status.installed": "Terpasang",
+    "grid.item.open_file_location.linux": "Tampilkan di manajer file"
 }
