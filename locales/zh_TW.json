@@ -72,5 +72,6 @@
     "grid.item.running": "執行中…",
     "grid.item.retry": "再次下載/安裝/執行",
     "grid.item.report_problem": "意見回饋",
-    "grid.item.purchase_or_donate": "購買或贊助項目"
+    "grid.item.purchase_or_donate": "購買或贊助項目",
+    "grid.clear_filters": "清除篩選條件"
 }
