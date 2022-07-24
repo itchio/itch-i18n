@@ -462,5 +462,8 @@
     "preferences.advanced.check_game_updates": "Controlla aggiornamenti gioco",
     "preferences.scan_install_locations": "Scansiona giochi nei percorsi di installazione",
     "prompt.action.back": "Indietro",
-    "prompt.confirm_quit.title": "Sicuro di voler uscire?"
+    "prompt.confirm_quit.title": "Sicuro di voler uscire?",
+    "prompt.show_error.details_for_nerds.event_log": "Registro eventi",
+    "prompt.show_error.generic_message": "Qualcosa è andato storto",
+    "pick_update_upload.buttons.skip_update": "Salta aggiornamento"
 }
