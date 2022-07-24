@@ -465,5 +465,6 @@
     "prompt.confirm_quit.title": "Sicuro di voler uscire?",
     "prompt.show_error.details_for_nerds.event_log": "Registro eventi",
     "prompt.show_error.generic_message": "Qualcosa è andato storto",
-    "pick_update_upload.buttons.skip_update": "Salta aggiornamento"
+    "pick_update_upload.buttons.skip_update": "Salta aggiornamento",
+    "prompt.confirm_quit.message": "Tutti i giochi e le applicazioni ancora aperte verranno chiusi."
 }
