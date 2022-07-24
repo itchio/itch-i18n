@@ -466,5 +466,8 @@
     "prompt.show_error.details_for_nerds.event_log": "Registro eventi",
     "prompt.show_error.generic_message": "Qualcosa è andato storto",
     "pick_update_upload.buttons.skip_update": "Salta aggiornamento",
-    "prompt.confirm_quit.message": "Tutti i giochi e le applicazioni ancora aperte verranno chiusi."
+    "prompt.confirm_quit.message": "Tutti i giochi e le applicazioni ancora aperte verranno chiusi.",
+    "prompt.discard_download.action.continue_download": "Continua il download",
+    "prompt.discard_download.action.stop_download": "Ferma il download",
+    "prompt.action.nevermind": "Annulla"
 }
