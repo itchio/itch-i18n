@@ -84,5 +84,6 @@
     "grid.item.install_title": "ติดตั้ง {{title}}",
     "grid.item.discard_download": "ยกเลิกการดาวน์โหลด",
     "grid.item.prioritize_download": "จัดลำดับความสำคัญ",
-    "grid.item.uninstall": "ถอนการติดตั้ง"
+    "grid.item.uninstall": "ถอนการติดตั้ง",
+    "grid.item.purchase_or_donate": "ซื้อหรือบริจาคเงินให้กับสินค้า"
 }
