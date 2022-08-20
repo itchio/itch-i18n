@@ -112,5 +112,6 @@
     "login.messages.welcome_back": "ยินดีต้อนรับกลับมา!",
     "login.field.username": "ชื่อผู้ใช้หรืออีเมล์",
     "login.field.password": "รหัสผ่าน",
-    "login.action.hide_password": "ซ่อนรหัสผ่าน"
+    "login.action.hide_password": "ซ่อนรหัสผ่าน",
+    "grid.item.retry": "ดาวน์โหลด / ติดตั้ง / เริ่ม รายการนี้อีกครั้ง"
 }
