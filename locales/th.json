@@ -8,7 +8,7 @@
     "grid.item.downloads_paused": "หยุดการดาวน์โหลดชั่วคราว",
     "grid.item.report_problem": "ส่งความคิดเห็น",
     "grid.item.queued": "อยู่ในคิว",
-    "grid.item.probe": "ตรวจสอบสาเหตุของความผิดพลาด",
+    "grid.item.probe": "ตรวจสอบสาเหตุของความล้มเหลว",
     "grid.clear_filters": "ลบตัวกรอง",
     "grid.filters.options.no_results": "ไม่พบผลลัพธ์",
     "grid.filters.options.owned": "ที่เป็นเจ้าของ",
