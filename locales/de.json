@@ -453,7 +453,7 @@
     "prompt.action.back": "Zurück",
     "grid.item.discard_download": "Download abbrechen",
     "table.column.installed": "Installiert",
-    "table.column.powered_by": "Unterstützt durch {{name}}",
+    "table.column.powered_by": "Unterstützt durch",
     "login.action.hide_password": "Passwort verstecken",
     "login.status.antivirus_warning": "Antivirus-Programme könnten itch behindern.",
     "prereq.status.pending": "Vorbereiten…",
