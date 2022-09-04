@@ -473,5 +473,6 @@
     "empty_state.nothing_to_see_here": "Niente da vedere qui",
     "prompt.launch.title": "Avvia {{title}}",
     "prompt.show_error.details_for_nerds": "Dettagli da nerd",
-    "prompt.dangerous_discard_download.detail": "Ripristineremo l'ultima versione di {{title}} la prossima volta che proverai ad usarlo."
+    "prompt.dangerous_discard_download.detail": "Ripristineremo l'ultima versione di {{title}} la prossima volta che proverai ad usarlo.",
+    "preferences.advanced.disable_browser": "Disabilita il browser web"
 }
