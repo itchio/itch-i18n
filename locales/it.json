@@ -476,5 +476,14 @@
     "prompt.dangerous_discard_download.detail": "Ripristineremo l'ultima versione di {{title}} la prossima volta che proverai ad usarlo.",
     "preferences.advanced.disable_browser": "Disabilita il browser web",
     "prompt.dangerous_discard_download.message": "Fermare il download lascierà {{title}} in uno stato inutilizzabile.",
-    "prompt.discard_download.message": "Vuoi interrompere il download di {{title}}?"
+    "prompt.discard_download.message": "Vuoi interrompere il download di {{title}}?",
+    "install_location.property.size_on_disk": "{{size}} su disco",
+    "web.context_menu.inspect": "Ispeziona",
+    "setup.action.browse": "Sfoglia",
+    "status.downloads.no_active_downloads_subtext": "Quello che scarichi o installi sarà mostrato qui",
+    "status.downloads.update_all": "Aggiorna tutto",
+    "status.downloads.updates_available": "Aggiornamenti disponibili",
+    "status.downloads.category.recent_activity": "Attività recenti",
+    "status.cancelled.message": "L'operazione è stata annullata.",
+    "prompt.sla.title": "Accordo di licenza per il software"
 }
