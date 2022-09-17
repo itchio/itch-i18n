@@ -514,5 +514,7 @@
     "sort_by.games.play_time": "Tempo di gioco",
     "sort_by.games.purchases": "Acquisti",
     "sort_by.games.views": "Visualizzazioni",
-    "sort_by.games.title": "Titolo"
+    "sort_by.games.title": "Titolo",
+    "prompt.show_error.details_for_nerds.stack_trace": "Stack trace",
+    "prompt.discard_download.detail": "Potrai installare di nuovo {{title}} quando vorrai, ma i salvataggi andranno persi."
 }
