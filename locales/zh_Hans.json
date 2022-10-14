@@ -27,5 +27,6 @@
     "download.outcome.healed": "已验证并修复\n",
     "download.outcome.reverted": "已切换到另一版本\n",
     "download.outcome.installed": "已安装",
-    "download.ongoing.reinstall": "正在重新安装 {{title}}…"
+    "download.ongoing.reinstall": "正在重新安装 {{title}}…",
+    "download.ongoing.update": "更新{{标题}}…"
 }
