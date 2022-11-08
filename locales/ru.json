@@ -175,7 +175,7 @@
     "usage_stats.description.bought_time_ago": "Приобретено {{time_ago}}",
     "install_location.empty": "В этой папке пока ничего не установлено",
     "grid.item.open_debug_log": "Показать журнал...",
-    "usage_stats.description.physical_game": "Физическая игра",
+    "usage_stats.description.physical_game": "Аналоговая игра",
     "game.install.no_executables_found": "Не найдено ни одного исполняемого файла",
     "prompt.uninstall.uninstall": "Удалить",
     "status.downloads.clear_all_finished": "Скрыть все завершённые",
@@ -591,5 +591,6 @@
     "plan_install.disk_space_available": "Свободно дискового пространства",
     "prompt.sla.title": "Лицензионное соглашение",
     "prompt.sla.message": "Чтобы использовать данное ПО, необходимо принять условия лицензионного соглашения:",
-    "prompt.sla.accept": "Принять"
+    "prompt.sla.accept": "Принять",
+    "filter_by.games.classification.physical_game": "Аналоговые игры"
 }
