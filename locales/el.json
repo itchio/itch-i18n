@@ -448,5 +448,7 @@
     "grid.item.install_title": "Εγκατάσταση {{title}}",
     "game.install.no_html_index_found": "Δε βρέθηκε αρχείο HTML index",
     "dashboard.game_stats.downloads": "Λήψεις",
-    "grid.item.developer": "Προγραμματιστης"
+    "grid.item.developer": "Προγραμματιστης",
+    "prompt.show_error.generic_message": "Κάτι πήγε στραβά",
+    "prompt.confirm_quit.message": "Όλα τα τρεχούμενα παιχνίδια και εφαρμογές θα κλείσουν."
 }
