@@ -431,5 +431,7 @@
     "download.started": "Ξεκίνησε",
     "download.reason.install": "προς εγκατάσταση",
     "download.reason.revert": "για αλλαγή σε άλλη έκδοση",
-    "download.ongoing.install": "Εγκατάσταση του {{title}}…"
+    "download.ongoing.install": "Εγκατάσταση του {{title}}…",
+    "browser.popout": "Άνοιγμα σελίδας σε εξωτερικό πρόγραμμα περιήγησης",
+    "download.ongoing.reinstall": "Επανεγκατάσταση του {{title}}…"
 }
