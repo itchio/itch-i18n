@@ -447,5 +447,6 @@
     "grid.item.launch_title": "Εκκίνηση {{title}}",
     "grid.item.install_title": "Εγκατάσταση {{title}}",
     "game.install.no_html_index_found": "Δε βρέθηκε αρχείο HTML index",
-    "dashboard.game_stats.downloads": "Λήψεις"
+    "dashboard.game_stats.downloads": "Λήψεις",
+    "grid.item.developer": "Προγραμματιστης"
 }
