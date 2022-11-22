@@ -517,5 +517,6 @@
     "sort_by.games.title": "Titolo",
     "prompt.show_error.details_for_nerds.stack_trace": "Stack trace",
     "prompt.discard_download.detail": "Potrai installare di nuovo {{title}} quando vorrai, ma i salvataggi andranno persi.",
-    "prompt.show_error.send_report": "Invia una segnalazione per aiutarci a risolvere il problema"
+    "prompt.show_error.send_report": "Invia una segnalazione per aiutare a risolvere il problema",
+    "prompt.clear_browsing_data.category.cache": "Immagini e file memorizzati nella cache"
 }
