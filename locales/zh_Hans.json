@@ -19,7 +19,7 @@
     "download.reason.update": "更新到最新版本",
     "docs.learn_more": "了解更多",
     "collection.summary": "有{{itemCount}}个项目的收藏夹",
-    "download.ongoing.heal": "正在修复 {{title}}...\n",
+    "download.ongoing.heal": "正在修复 {{title}}…",
     "download.ongoing.revert": "正在将 {{title}} 切换到另一版本...\n",
     "docs.how_to_help": "我能帮到什么？\n",
     "collections.empty_sub": "找一些游戏添加到收藏夹吧！\n",
