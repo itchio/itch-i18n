@@ -49,5 +49,6 @@
     "duration.seconds": "{{x}} 秒\n",
     "duration.minutes": "{{x}} 分钟\n",
     "duration.minute": "1 分钟以内\n",
-    "dashboard.game_stats.downloads": "下载数\n"
+    "dashboard.game_stats.downloads": "下载数\n",
+    "grid.hidden_count": "+ {{count}} 项物品已被过滤器隐藏"
 }
