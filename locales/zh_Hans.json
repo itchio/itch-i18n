@@ -29,5 +29,6 @@
     "download.outcome.installed": "已安装",
     "download.ongoing.reinstall": "正在重新安装 {{title}}…",
     "download.ongoing.update": "更新{{标题}}…",
-    "download.outcome.updated": "已更新到最新版本"
+    "download.outcome.updated": "已更新到最新版本",
+    "dashboard.game_stats.views": "浏览数"
 }
