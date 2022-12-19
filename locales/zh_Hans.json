@@ -50,5 +50,10 @@
     "duration.minutes": "{{x}} 分钟\n",
     "duration.minute": "1 分钟以内\n",
     "dashboard.game_stats.downloads": "下载数\n",
-    "grid.hidden_count": "+ {{count}} 项物品已被过滤器隐藏"
+    "grid.hidden_count": "+ {{count}} 项物品已被过滤器隐藏",
+    "grid.clear_filters": "清除过滤条件",
+    "grid.filters.options.owned": "已拥有",
+    "grid.filters.options.installed": "已安装",
+    "grid.filters.options.compatible": "兼容",
+    "grid.criterion.only_compatible": "仅兼容"
 }
