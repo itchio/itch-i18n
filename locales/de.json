@@ -355,7 +355,7 @@
     "setup.error_dialog.title": "Etwas ist fehlgeschlagen",
     "setup.window.welcome": "Willkommen beim {{app_name}} Installer! Schnapp dir ein Getränk, wähle ein Installationsverzeichnis und fahre fort.",
     "grid.item.verify_integrity": "Integrität prüfen",
-    "grid.item.revert_to_version": "Wechseln auf eine andere Version...",
+    "grid.item.revert_to_version": "Zu anderer Version wechseln …",
     "grid.item.view_details": "Details anzeigen ...",
     "prompt.revert.title": "Ändere {{title}} auf eine andere Version",
     "prereq.explanation": "Es müssen einmalig Pakete installiert werden, damit {{title}} ordnungsgemäß läuft.",
