@@ -396,7 +396,7 @@
     "download.outcome.updated": "auf die neueste Version aktualisiert",
     "download.outcome.installed": "installiert",
     "prompt.uninstall_error.message": "Deinstallation fehlgeschlagen. Eintrag trotzdem entfernen?",
-    "grid.item.open_file_location.windows": "Ordner öffnen",
+    "grid.item.open_file_location.windows": "Ordner im Explorer öffnen",
     "grid.item.open_file_location.linux": "In Dateimanager öffnen",
     "grid.item.open_file_location.osx": "Im Finder öffnen",
     "menu.file.close_tabs_below": "Tabs unterhalb schließen",
