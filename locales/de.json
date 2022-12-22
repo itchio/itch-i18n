@@ -403,7 +403,7 @@
     "prompt.blessing.detail": "Fahre nur fort, wenn Du dem Autor vertraust.",
     "status.downloads.category.recent_activity": "Letze Aktivitäten",
     "install_location.property.size_on_disk": "{{size}} auf Laufwerk",
-    "collection.summary": "Eine Sammlung mit {{itemCount}} Artikeln",
+    "collection.summary": "Ein Sammlung mit {{itemCount}} Einträgen",
     "download.ongoing.install": "{{title}} wird installiert…",
     "download.ongoing.update": "Aktualisiere {{title}}…",
     "download.ongoing.reinstall": "{{title}} wird erneut installiert…",
