@@ -55,5 +55,10 @@
     "grid.filters.options.owned": "已拥有",
     "grid.filters.options.installed": "已安装",
     "grid.filters.options.compatible": "兼容",
-    "grid.criterion.only_compatible": "仅兼容"
+    "grid.criterion.only_compatible": "仅兼容",
+    "grid.item.buy_now_again": "购买额外的副本",
+    "grid.item_count": "{{count}}项目",
+    "grid.criterion.filter_by": "筛选条件：",
+    "download.outcome.reinstalled": "重新安装",
+    "dashboard.game_stats.purchases": "购买"
 }
