@@ -60,5 +60,7 @@
     "grid.item_count": "{{count}}项目",
     "grid.criterion.filter_by": "筛选条件：",
     "download.outcome.reinstalled": "重新安装",
-    "dashboard.game_stats.purchases": "购买"
+    "dashboard.game_stats.purchases": "购买",
+    "duration.hours": "{{x}}小时",
+    "duration.hour": "一小时"
 }
