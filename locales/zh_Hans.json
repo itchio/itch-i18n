@@ -62,5 +62,11 @@
     "download.outcome.reinstalled": "重新安装",
     "dashboard.game_stats.purchases": "购买",
     "duration.hours": "{{x}}小时",
-    "duration.hour": "一小时"
+    "duration.hour": "一小时",
+    "grid.item.developer": "开发者",
+    "grid.item.check_for_update": "检查更新",
+    "grid.really_empty_state.leader": "这里什么也没有...",
+    "grid.empty_state.explanation": "您的过滤器已隐藏掉此处所有项目",
+    "grid.empty_state.leader": "所有项目都被过滤掉了",
+    "grid.filters.options.no_results": "未发现结果"
 }
