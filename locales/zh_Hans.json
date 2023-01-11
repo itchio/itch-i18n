@@ -70,5 +70,6 @@
     "grid.empty_state.leader": "所有项目都被过滤掉了",
     "grid.filters.options.no_results": "未发现结果",
     "game.install.no_uploads_available.message": "未找到“{{title}}”兼容的下载包，因此没有安装\n",
-    "grid.really_empty_state.explanation": "...暂时！"
+    "grid.really_empty_state.explanation": "...暂时！",
+    "grid.item.prioritize_download": "优先考虑"
 }
