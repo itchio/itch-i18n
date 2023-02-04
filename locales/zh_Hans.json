@@ -72,5 +72,9 @@
     "game.install.no_uploads_available.message": "未找到“{{title}}”兼容的下载包，因此没有安装\n",
     "grid.really_empty_state.explanation": "...暂时！",
     "grid.item.prioritize_download": "优先考虑",
-    "grid.item.discard_download": "取消下载"
+    "grid.item.discard_download": "取消下载",
+    "grid.item.launch_title": "启动 {{title}}",
+    "grid.item.update": "更新",
+    "grid.item.queueing": "排队中...",
+    "grid.item.install_title": "安装 {{title}}"
 }
