@@ -76,5 +76,6 @@
     "grid.item.launch_title": "启动 {{title}}",
     "grid.item.update": "更新",
     "grid.item.queueing": "排队中...",
-    "grid.item.install_title": "安装 {{title}}"
+    "grid.item.install_title": "安装 {{title}}",
+    "grid.item.advanced": "高级..."
 }
