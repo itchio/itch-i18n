@@ -217,5 +217,6 @@
     "menu.file.file": "فایل",
     "menu.file.close_window": "بستن پنجره",
     "menu.view.view": "نمایش",
-    "menu.view.downloads": "دانلودها"
+    "menu.view.downloads": "دانلودها",
+    "preferences.install_location.used_space": "فضای استفاده شده"
 }
