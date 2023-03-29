@@ -77,5 +77,6 @@
     "grid.item.update": "更新",
     "grid.item.queueing": "排队中...",
     "grid.item.install_title": "安装 {{title}}",
-    "grid.item.advanced": "高级..."
+    "grid.item.advanced": "高级...",
+    "grid.item.uninstalling": "卸载中..."
 }
