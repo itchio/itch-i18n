@@ -438,5 +438,6 @@
     "prompt.blessing.message": "امتيازات المسؤول مطلوبه لإدارة {{title}}",
     "prompt.forget_session.detail": "يمكنك دائماً اعادة اضافتها لاحقاً.",
     "prompt.deb_policy.message": "{{title}}  يقوم باستخدام ملف من نوع deb. , ولا يمكن تنصيبه باستخدام itch حتي يتم اعادة اصداره.",
-    "prompt.clear_browsing_data.category.cache": "الصور و الملفات المخزنة مؤقتاً"
+    "prompt.clear_browsing_data.category.cache": "الصور و الملفات المخزنة مؤقتاً",
+    "prompt.self_update_ready.action.snooze": "غفوة"
 }
