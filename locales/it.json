@@ -110,7 +110,7 @@
     "sidebar.dashboard": "Le mie creazioni",
     "sidebar.getting_started": "Avviamento",
     "sidebar.installed": "Installati",
-    "sidebar.owned": "Libreria",
+    "sidebar.owned": "Elementi che possiedi",
     "status.checking": "In cerca di aggiornamenti…",
     "status.downloaded": "Clicca per ricominciare ed applicare l'aggiornamento!",
     "status.downloading": "Scaricando l'aggiornamento…",
@@ -530,5 +530,12 @@
     "prompt.revert.title": "Passa ad un'altra versione di {{title}}",
     "prompt.manage_game.title": "Gestisci {{title}}",
     "prompt.blessing.detail": "Procedi solo se ti fidi dell'autore.",
-    "prompt.blessing.message": "Sono richiesti permessi da amministratore per gestire {{title}}"
+    "prompt.blessing.message": "Sono richiesti permessi da amministratore per gestire {{title}}",
+    "butlerd.codes.5000": "Non è stato trovato nulla che possa essere avviato.",
+    "status.downloads.pause_downloads": "Ferma download",
+    "status.downloads.resume_downloads": "Riprendi download",
+    "status.repairing_game": "{{title}} deve completare l'aggiornamento prima di essere aperto",
+    "prompt.uninstall_error.message": "Disinstallazione fallita. Rimuovere comunque l'elemento?",
+    "prompt.manage_game.no_other_uploads": "Non sono presenti altri elementi al momento.",
+    "prompt.manage_game.available_uploads": "Sono inoltre disponibili questi elementi:"
 }
