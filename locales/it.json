@@ -544,5 +544,7 @@
     "prompt.uninstall_error.message_permissions": "Alcuni file di {{title}} non possono essere rimossi. Riprovare come amministratore?",
     "prompt.self_update_ready.short": "Nuova versione disponibile",
     "prompt.revert.no_other_version": "Nessun'altra versione disponibile.",
-    "prompt.revert.version": "versione {{version}}"
+    "prompt.revert.version": "versione {{version}}",
+    "log.level": "Livello",
+    "butlerd.codes.2001": "Nessun upload compatibile trovato per questo titolo"
 }
