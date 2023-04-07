@@ -332,7 +332,7 @@
     "pick_update_upload.buttons.update": "Aggiorna ora",
     "pick_update_upload.buttons.just_launch": "Avvia soltanto",
     "pick_update_upload.tags.demo": "demo",
-    "prompt.install_error.title": "Si è verificato un errore durante l'installazione:",
+    "prompt.install_error.title": "Si è verificato un errore durante l'installazione",
     "prompt.install_error.find_upload": "Durante la ricerca di un download: {{message}}",
     "login.two_factor.enter_code": "Inserisci il codice indicato sul tuo autenticatore per accedere.",
     "preferences.notifications.ready_notification": "Avvisami quando uno scaricamento ha finito di aggiornare o installare",
@@ -519,5 +519,16 @@
     "prompt.discard_download.detail": "Potrai installare di nuovo {{title}} quando vorrai, ma i salvataggi andranno persi.",
     "prompt.show_error.send_report": "Invia una segnalazione per aiutare a risolvere il problema",
     "prompt.clear_browsing_data.category.cache": "Immagini e file memorizzati nella cache",
-    "pick_update_upload.single.detail": "Avviso: è possibile abilitare gli aggiornamenti automatici dalla sezione Preferenze"
+    "pick_update_upload.single.detail": "Avviso: è possibile abilitare gli aggiornamenti automatici dalla sezione Preferenze",
+    "butlerd.codes.9000": "Nessuna connesione Internet.",
+    "butlerd.codes.3000": "Questo programma è compresso in un formato non compatibile con l'app itch.io.",
+    "butlerd.codes.404": "La cartella di installazione è sparita",
+    "status.installing_game.cancelled": "Installazione di {{title}} annullata!",
+    "search.results.game.no_description": "Nessuna descrizione",
+    "prompt.uninstall_error.action_permissions": "Rimuovi come amministratore",
+    "prompt.uninstall_error.title": "Errore di disinstallazione",
+    "prompt.revert.title": "Passa ad un'altra versione di {{title}}",
+    "prompt.manage_game.title": "Gestisci {{title}}",
+    "prompt.blessing.detail": "Procedi solo se ti fidi dell'autore.",
+    "prompt.blessing.message": "Sono richiesti permessi da amministratore per gestire {{title}}"
 }
