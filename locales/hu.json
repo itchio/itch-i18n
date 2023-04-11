@@ -116,5 +116,6 @@
     "download.reason.reinstall": "újratelepítés",
     "empty_state.nothing_to_see_here": "Nincs itt semmi látnivaló",
     "plan_install.select_upload": "Telepítés",
-    "prompt.url_install.credit": "Egy {{classification}} tőle: {{username}}"
+    "prompt.url_install.credit": "Egy {{classification}} tőle: {{username}}",
+    "prompt.logout_title": "Kijelentkezés"
 }
