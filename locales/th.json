@@ -162,5 +162,9 @@
     "toast.title": "แย่จัง!",
     "menu.view.downloads": "ดาวน์โหลด",
     "menu.help.view_license": "ดูใบอนุญาต",
-    "dashboard.game_stats.purchases": "การซื้อ"
+    "dashboard.game_stats.purchases": "การซื้อ",
+    "notification.download_updated": "{{title}} ได้รับการอัปเดตแล้ว!",
+    "notification.download_installed": "{{title}} ได้ถูกติดตั้งแล้ว!",
+    "new_tab.random": "สุ่มเกม",
+    "browser.disabled": "เว็บบราวเซอร์ของ itch ถูกปิดใช้งาน"
 }
