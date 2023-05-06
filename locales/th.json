@@ -166,5 +166,7 @@
     "notification.download_updated": "{{title}} ได้รับการอัปเดตแล้ว!",
     "notification.download_installed": "{{title}} ได้ถูกติดตั้งแล้ว!",
     "new_tab.random": "สุ่มเกม",
-    "browser.disabled": "เว็บบราวเซอร์ของ itch ถูกปิดใช้งาน"
+    "browser.disabled": "เว็บบราวเซอร์ของ itch ถูกปิดใช้งาน",
+    "new_tab.devlogs": "บันทึกผู้พัฒนา",
+    "toast.no_info_available": "ไม่มีข้อมูล"
 }
