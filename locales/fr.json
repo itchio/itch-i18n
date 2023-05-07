@@ -591,5 +591,6 @@
     "prompt.sla.title": "Accord de Licence Logicielle",
     "prompt.sla.accept": "Accepter les conditions d'utilisation",
     "prompt.sla.message": "Pour utiliser ce logiciel, vous devez accepter la licence suivante :",
-    "plan_install.computing_space_requirements": "Calcul de l'espace nécessaire"
+    "plan_install.computing_space_requirements": "Calcul de l'espace nécessaire",
+    "filter_by.games.classification.physical_game": "Jeux physiques"
 }
