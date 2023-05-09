@@ -168,5 +168,7 @@
     "new_tab.random": "สุ่มเกม",
     "browser.disabled": "เว็บบราวเซอร์ของ itch ถูกปิดใช้งาน",
     "new_tab.devlogs": "บันทึกผู้พัฒนา",
-    "toast.no_info_available": "ไม่มีข้อมูล"
+    "toast.no_info_available": "ไม่มีข้อมูล",
+    "notification.download_healed": "{{title}} ได้รับการตรวจสอบและซ่อมแซมแล้ว!",
+    "sandbox.setup.proceed": "ดำเนินการต่อ"
 }
