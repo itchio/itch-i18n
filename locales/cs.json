@@ -431,7 +431,7 @@
     "preferences.advanced.components": "Komponenty",
     "preferences.behavior.enable_tabs": "Povolit karty",
     "preferences.scan_install_locations.title": "Skenuji...",
-    "preferences.scan_install_locations.message": "Následující položky mohou být importovány: ",
+    "preferences.scan_install_locations.message": "Následující položky mohou být importovány:",
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} položek bylo úspěšně importováno",
     "preferences.scan_install_locations.import_items": "Importovat {{numItems}} položek",
     "preferences.scan_install_locations.confirm_import": "Potvrdit import",
