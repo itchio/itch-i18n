@@ -127,7 +127,7 @@
     "grid.item.queueing": "กำลังรอคิว…",
     "grid.really_empty_state.leader": "ไม่มีอะไรที่นี่…",
     "game.install.no_html_index_found": "ไม่พบไฟล์อินเด็กซ์ HTML",
-    "collections.empty_sub": "ค้นหาเกมแล้วมาเพิ่มลงในคอลเลคชันใหม่กันเลย!",
+    "collections.empty_sub": "ค้นหาเกมแล้วมาเพิ่มลงในคอลเลคชันใหม่กันเลย",
     "preferences.install_location.empty": "ว่างเปล่า",
     "preferences.install_location.disk_usage": "การใช้งานดิสก์",
     "preferences.install_location.path": "ตำแหน่ง",
@@ -170,5 +170,8 @@
     "new_tab.devlogs": "บันทึกผู้พัฒนา",
     "toast.no_info_available": "ไม่มีข้อมูล",
     "notification.download_healed": "{{title}} ได้รับการตรวจสอบและซ่อมแซมแล้ว!",
-    "sandbox.setup.proceed": "ดำเนินการต่อ"
+    "sandbox.setup.proceed": "ดำเนินการต่อ",
+    "prereq.status.done": "เรียบร้อย!",
+    "login.action.reveal_password": "เปิดเผยรหัสผ่าน",
+    "table.column.powered_by": "ขับเคลื่อนโดย"
 }
