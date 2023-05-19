@@ -182,5 +182,6 @@
     "login.status.antivirus_warning": "โปรแกรมป้องกันไวรัสอาจจะขัดขวางการทำงานของ itch",
     "login.status.login": "กำลังเข้าสู่ระบบ…",
     "login.status.finalizing_installation": "ติดตั้งใกล้เสร็จสมบูรณ์…",
-    "i18n.failed_downloading_locales": "อัพเดทการแปลของภาษา {{lang}} ไม่สามารถดาวน์โหลดได้"
+    "i18n.failed_downloading_locales": "อัพเดทการแปลของภาษา {{lang}} ไม่สามารถดาวน์โหลดได้",
+    "login.action.register": "ลงทะเบียน"
 }
