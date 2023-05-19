@@ -173,5 +173,7 @@
     "sandbox.setup.proceed": "ดำเนินการต่อ",
     "prereq.status.done": "เรียบร้อย!",
     "login.action.reveal_password": "เปิดเผยรหัสผ่าน",
-    "table.column.powered_by": "ขับเคลื่อนโดย"
+    "table.column.powered_by": "ขับเคลื่อนโดย",
+    "grid.item.running.clean": "กำลังเก็บกวาด…",
+    "grid.item.open_file_location.linux": "แสดงในตัวจัดการไฟล์"
 }
