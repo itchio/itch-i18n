@@ -175,5 +175,12 @@
     "login.action.reveal_password": "เปิดเผยรหัสผ่าน",
     "table.column.powered_by": "ขับเคลื่อนโดย",
     "grid.item.running.clean": "กำลังเก็บกวาด…",
-    "grid.item.open_file_location.linux": "แสดงในตัวจัดการไฟล์"
+    "grid.item.open_file_location.linux": "แสดงในตัวจัดการไฟล์",
+    "prereq.status.installing": "กำลังติดตั้ง… (นี่อาจใช้เวลาสักครู่)",
+    "prereq.status.extracting": "กำลังแตกไฟล์…",
+    "prereq.status.downloading": "กำลังดาวน์โหลด…",
+    "login.status.antivirus_warning": "โปรแกรมป้องกันไวรัสอาจจะขัดขวางการทำงานของ itch",
+    "login.status.login": "กำลังเข้าสู่ระบบ…",
+    "login.status.finalizing_installation": "ติดตั้งใกล้เสร็จสมบูรณ์…",
+    "i18n.failed_downloading_locales": "อัพเดทการแปลของภาษา {{lang}} ไม่สามารถดาวน์โหลดได้"
 }
