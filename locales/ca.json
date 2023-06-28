@@ -145,7 +145,7 @@
     "duration.minutes": "{{x}} minuts",
     "duration.seconds": "{{x}} segons",
     "game.install.could_not_launch.detail": "Enviar-nos-en un informe és la millor manera d'assegurar-vos que es resolgui!",
-    "game.install.could_not_launch.missing_jre": "Necessita el Java, que no s'ha trobat al vostre sistema.",
+    "game.install.could_not_launch.missing_jre": "Requereix Java, que no s'ha trobat al vostre sistema.",
     "grid.criterion.filter": "Filtra...",
     "grid.item.advanced": "Avançat...",
     "grid.item.download_java": "Descarrega el Java",
