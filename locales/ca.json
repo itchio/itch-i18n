@@ -106,7 +106,7 @@
     "dashboard.game_stats.views": "visualitzacions",
     "dashboard.game_stats.downloads": "descàrregues",
     "dashboard.game_stats.purchases": "compres",
-    "grid.item.purchase_or_donate": "Compra o dóna diners a aquest element",
+    "grid.item.purchase_or_donate": "Compra o fes un donatiu a aquest article",
     "grid.item.report_problem": "Envia comentaris",
     "grid.item.retry": "Proveu de tornar a descarregar / instal·lar / executar aquest element",
     "grid.item.uninstall": "Desinstal·la",
