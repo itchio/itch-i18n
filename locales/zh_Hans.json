@@ -78,5 +78,13 @@
     "grid.item.queueing": "排队中...",
     "grid.item.install_title": "安装 {{title}}",
     "grid.item.advanced": "高级...",
-    "grid.item.uninstalling": "卸载中..."
+    "grid.item.uninstalling": "卸载中...",
+    "grid.item.open_debug_log": "查看日志...",
+    "grid.item.open_demo": "打开体验版",
+    "grid.item.open": "打开",
+    "grid.item.not_available": "不可用",
+    "grid.item.open_page": "打开页面",
+    "grid.item.share": "分享",
+    "grid.item.launch_demo": "启动体验版",
+    "grid.item.finalize_installation": "完成安装"
 }
