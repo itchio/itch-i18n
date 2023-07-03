@@ -95,5 +95,7 @@
     "sidebar.log_out": "退出登录",
     "search.empty.tagline": "需要灵感？试试搜索 “{{example}}”",
     "search.results.game.no_description": "没有描述",
-    "filter_by.games.classification.physical_game": "实体游戏"
+    "filter_by.games.classification.physical_game": "实体游戏",
+    "send_feedback.questions.where_does_report_go": "我的反馈会发送到哪里？",
+    "log.level": "级别"
 }
