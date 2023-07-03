@@ -94,5 +94,6 @@
     "prompt.action.close": "关闭",
     "sidebar.log_out": "退出登录",
     "search.empty.tagline": "需要灵感？试试搜索 “{{example}}”",
-    "search.results.game.no_description": "没有描述"
+    "search.results.game.no_description": "没有描述",
+    "filter_by.games.classification.physical_game": "实体游戏"
 }
