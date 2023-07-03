@@ -91,5 +91,8 @@
     "prompt.url_install.title": "安装请求",
     "prompt.uninstall.uninstall": "立即卸载",
     "prompt.uninstall.cancel": "取消",
-    "prompt.action.close": "关闭"
+    "prompt.action.close": "关闭",
+    "sidebar.log_out": "退出登录",
+    "search.empty.tagline": "需要灵感？试试搜索 “{{example}}”",
+    "search.results.game.no_description": "没有描述"
 }
