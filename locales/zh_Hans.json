@@ -101,5 +101,6 @@
     "send_feedback.send.dont_send": "算了，不发送了",
     "send_feedback.send.secret_url": "我们会为您的反馈生成一个特殊的链接。",
     "send_feedback.consent.include_in_report": "在报告中包含这些信息",
-    "send_feedback.consent.system_info_helps_us": "您的基本系统信息可以帮助我们找到问题发生的原因。"
+    "send_feedback.consent.system_info_helps_us": "您的基本系统信息可以帮助我们找到问题发生的原因。",
+    "grid.item.buy_now": "立即购买"
 }
