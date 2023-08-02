@@ -183,5 +183,8 @@
     "login.status.login": "กำลังเข้าสู่ระบบ…",
     "login.status.finalizing_installation": "ติดตั้งใกล้เสร็จสมบูรณ์…",
     "i18n.failed_downloading_locales": "อัพเดทการแปลของภาษา {{lang}} ไม่สามารถดาวน์โหลดได้",
-    "login.action.register": "ลงทะเบียน"
+    "login.action.register": "ลงทะเบียน",
+    "prompt.uninstall.uninstall": "ถอนการติดตั้งเดี๋ยวนี้",
+    "download.reason.revert": "เพื่อเปลี่ยนเป็นเวอร์ชันอื่น",
+    "download.reason.install": "เพื่อติดตั้ง"
 }
