@@ -316,7 +316,7 @@
     "download.ongoing.update": "{{title}} güncelleniyor…",
     "download.ongoing.reinstall": "{{title}} tekrar yükleniyor…",
     "download.ongoing.revert": "{{title}} başka bir sürümle değiştiriliyor…",
-    "download.ongoing.heal": "{{title} onarılıyor…",
+    "download.ongoing.heal": "{{title}} onarılıyor…",
     "download.outcome.installed": "yüklendi",
     "download.outcome.updated": "son sürüme güncellendi",
     "download.outcome.reinstalled": "tekrar yüklendi",
