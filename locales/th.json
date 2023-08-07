@@ -186,5 +186,6 @@
     "login.action.register": "ลงทะเบียน",
     "prompt.uninstall.uninstall": "ถอนการติดตั้งเดี๋ยวนี้",
     "download.reason.revert": "เพื่อเปลี่ยนเป็นเวอร์ชันอื่น",
-    "download.reason.install": "เพื่อติดตั้ง"
+    "download.reason.install": "เพื่อติดตั้ง",
+    "search.results.game.no_description": "ไม่มีคำอธิบาย"
 }
