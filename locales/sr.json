@@ -319,5 +319,6 @@
     "download.ongoing.install": "Инсталирање {{title}}...",
     "download.outcome.reverted": "промењено на другу верзију",
     "download.outcome.updated": "ажурирано на најновију верзију",
-    "download.ongoing.revert": "Мењање {{title}} на другу верзију"
+    "download.ongoing.revert": "Мењање {{title}} на другу верзију",
+    "grid.item.update": "Ажурирај"
 }
