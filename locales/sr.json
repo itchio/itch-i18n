@@ -316,5 +316,8 @@
     "grid.item.launch_title": "Покрени {{title}}",
     "download.outcome.healed": "верификовано и поправљено",
     "download.outcome.reinstalled": "реинсталирано",
-    "download.ongoing.install": "Инсталирање {{title}}..."
+    "download.ongoing.install": "Инсталирање {{title}}...",
+    "download.outcome.reverted": "промењено на другу верзију",
+    "download.outcome.updated": "ажурирано на најновију верзију",
+    "download.ongoing.revert": "Мењање {{title}} на другу верзију"
 }
