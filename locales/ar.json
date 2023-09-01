@@ -410,9 +410,9 @@
     "sandbox.setup.windows.message": "من أجل تشغيل ألعاب itch.io في صندوق التجارب، يجب تشغيله كمسؤول لمرة واحدة.",
     "sandbox.setup.windows.detail": "بعد النقر علي 'التالي'، سينبثق لك طلب الإذن للموافقة. هذا سيضيف حساب المستخدم \"itch-player\" لحماية ألعابك التي في نظامك.",
     "sandbox.setup.linux.detail": "بعد النقر فوق \"التالي\"، ستنبثق نافدة تطلب كلمة المرور خاصتك. هذا مطلوب فقط عند استخدام \"صندوق التجارب\" أو تحديثه لأول مرة، ولا يتم تخزين كلمة المرور الخاصة بك مطلقًا.",
-    "prompt.sla.message": "لاستخدام هذا البرنامج يجب ان تقوم بالموافقه على شروط اتفاقية ترخيص البرنامج : ",
+    "prompt.sla.message": "لاستخدام هذا البرنامج  يجب ان تقوم بالموافقه على شروط اتفاقية ترخيص البرنامج:",
     "prompt.launch.message": "ايهم تريد ان تقوم بفتحه ؟ ",
-    "prompt.clear_browsing_data.cookies_info": "هذا الخيار سيقوم بتسجيل خروجك من كل المواقع التي قمت بتسجيل الدخول اليها من خلال تطبيق itch",
+    "prompt.clear_browsing_data.cookies_info": "هذا الخيار سيقوم بتسجيل خروجك من كل المواقع التي قمت بتسجيل الدخول اليها من خلال تطبيق itch.",
     "prompt.self_update.action.view": "فتح في المتصفح",
     "prompt.rpm_policy.title": "حزم YUM غير مدعومة",
     "prompt.install_error.find_upload": "خلال البحث عن تحميل : {{message}}",
@@ -440,5 +440,6 @@
     "prompt.deb_policy.message": "{{title}}  يقوم باستخدام ملف من نوع deb. , ولا يمكن تنصيبه باستخدام itch حتي يتم اعادة اصداره.",
     "prompt.clear_browsing_data.category.cache": "الصور و الملفات المخزنة مؤقتاً",
     "prompt.self_update_ready.action.snooze": "غفوة",
-    "pick_update_upload.detail": "نحن نسأل فقط لانك اخترت ملفًا في وقت التثبيت."
+    "pick_update_upload.detail": "نحن نسأل فقط لانك اخترت ملفًا في وقت التثبيت.",
+    "prompt.show_error.details_for_nerds.stack_trace": "تخطي التتبع"
 }
