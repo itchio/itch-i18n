@@ -150,7 +150,7 @@
     "download.ongoing.install": "جاري تثبيت {{title}}…",
     "download.ongoing.update": "جاري تحديث {{title}}…",
     "download.ongoing.revert": "يُغيير {{title}} إلي نسخة أخرى…",
-    "download.ongoing.heal": "يُصلح {{title}}…",
+    "download.ongoing.heal": "إصلاح {{title}}…",
     "download.outcome.installed": "مُثبت",
     "download.outcome.updated": "مُحدث إلي أخر نسخة",
     "download.outcome.reinstalled": "تمت إعادة تثبيته",
@@ -439,5 +439,6 @@
     "prompt.forget_session.detail": "يمكنك دائماً اعادة اضافتها لاحقاً.",
     "prompt.deb_policy.message": "{{title}}  يقوم باستخدام ملف من نوع deb. , ولا يمكن تنصيبه باستخدام itch حتي يتم اعادة اصداره.",
     "prompt.clear_browsing_data.category.cache": "الصور و الملفات المخزنة مؤقتاً",
-    "prompt.self_update_ready.action.snooze": "غفوة"
+    "prompt.self_update_ready.action.snooze": "غفوة",
+    "pick_update_upload.detail": "نحن نسأل فقط لانك اخترت ملفًا في وقت التثبيت."
 }
