@@ -107,7 +107,7 @@
     "sidebar.dashboard": "إبداعاتي",
     "sidebar.getting_started": "كيف تبدأ",
     "sidebar.installed": "الأدوات المثبتة",
-    "sidebar.owned": "الأدوات المملوكة",
+    "sidebar.owned": "العناصر المملوكة",
     "status.checking": "جار البحث عن تحديثات…",
     "status.downloaded": "اضغط لإعادة التشغيل وتطبيق التحديث!",
     "status.downloading": "جار تحميل التحديث…",
@@ -443,5 +443,8 @@
     "pick_update_upload.detail": "نحن نسأل فقط لانك اخترت ملفًا في وقت التثبيت.",
     "prompt.show_error.details_for_nerds.stack_trace": "تخطي التتبع",
     "prompt.rpm_policy.detail": "يستطيع ITCH تثبيت اصدارات محمولة فقط لبرامج لينوكس.",
-    "prompt.forget_session.message": "هل انت متأكد من ازالة {{username}} من الجلسات المحفوظة ؟"
+    "prompt.forget_session.message": "هل انت متأكد من ازالة {{username}} من الجلسات المحفوظة ؟",
+    "sidebar.category.tabs": "علامات التبويب",
+    "prompt.uninstall.uninstall": "إلغاء التثبيت الآن",
+    "prompt.uninstall.cancel": "إلغاء"
 }
