@@ -448,7 +448,7 @@
     "status.downloads.no_active_downloads_subtext": "Les choses que vous installez ou téléchargez apparaîtront ici",
     "status.downloads.find_games_button": "Téléchargez des trucs!",
     "preferences.advanced.prefer_optimized_patches": "Utiliser de préférence les mises à jour optimisées",
-    "collections.empty": "Vous n'avez aucune collection pour l'instant",
+    "collections.empty": "Vous n'avez actuellement aucune collection",
     "collections.empty_sub": "Cherche quelques jeux et ajoutes-les à une nouvelle collection !",
     "duration.seconds": "{{x}} secondes",
     "grid.item_count": "{{count}} items",
