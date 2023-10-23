@@ -103,5 +103,7 @@
     "send_feedback.consent.include_in_report": "在报告中包含这些信息",
     "send_feedback.consent.system_info_helps_us": "您的基本系统信息可以帮助我们找到问题发生的原因。",
     "grid.item.buy_now": "立即购买",
-    "grid.item.uninstall": "卸载"
+    "grid.item.uninstall": "卸载",
+    "grid.item.launch": "启动",
+    "grid.item.install": "安装"
 }
