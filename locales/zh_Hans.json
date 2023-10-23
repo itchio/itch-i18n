@@ -105,5 +105,8 @@
     "grid.item.buy_now": "立即购买",
     "grid.item.uninstall": "卸载",
     "grid.item.launch": "启动",
-    "grid.item.install": "安装"
+    "grid.item.install": "安装",
+    "grid.item.donate": "打赏创作者",
+    "grid.item.open_file_location.linux": "在文件管理器中显示",
+    "grid.item.installing": "安装中……"
 }
