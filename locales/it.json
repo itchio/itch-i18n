@@ -570,5 +570,6 @@
     "send_feedback.send.secret_url.feature_list.delete": "Eliminarlo, se decidi di farlo.",
     "send_feedback.reminders.include_reproduce_steps": "Se puoi, includi i passaggi per riprodurre il problema.",
     "filter_by.games.paid_status.free": "Gratis",
-    "sort_by.games.size_on_disk": "Spazio su disco"
+    "sort_by.games.size_on_disk": "Spazio su disco",
+    "filter_by.games.classification.physical_game": "Giochi Fisici"
 }
