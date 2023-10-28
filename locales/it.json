@@ -470,7 +470,7 @@
     "prompt.discard_download.action.continue_download": "Continua il download",
     "prompt.discard_download.action.stop_download": "Ferma il download",
     "prompt.action.nevermind": "Annulla",
-    "empty_state.nothing_to_see_here": "Niente da vedere qui",
+    "empty_state.nothing_to_see_here": "Non c'è niente qui",
     "prompt.launch.title": "Avvia {{title}}",
     "prompt.show_error.details_for_nerds": "Dettagli da nerd",
     "prompt.dangerous_discard_download.detail": "Ripristineremo l'ultima versione di {{title}} la prossima volta che proverai ad usarlo.",
