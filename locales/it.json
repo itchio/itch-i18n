@@ -346,7 +346,7 @@
     "download.reason.reinstall": "per reinstallare",
     "download.reason.revert": "per passare ad un'altra versione",
     "download.reason.heal": "per verificare e riparare",
-    "download.ongoing.install": "Installazione di {{title}}...",
+    "download.ongoing.install": "Installazione di {{title}}…",
     "download.outcome.installed": "installato",
     "download.outcome.updated": "aggiornato all'ultima versione",
     "download.outcome.reinstalled": "reinstallato",
@@ -476,7 +476,7 @@
     "prompt.dangerous_discard_download.detail": "Ripristineremo l'ultima versione di {{title}} la prossima volta che proverai ad usarlo.",
     "preferences.advanced.disable_browser": "Disabilita il browser web",
     "prompt.dangerous_discard_download.message": "Fermare il download lascierà {{title}} in uno stato inutilizzabile.",
-    "prompt.discard_download.message": "Vuoi interrompere il download di {{title}}?",
+    "prompt.discard_download.message": "Annullare il download di {{title}}?",
     "install_location.property.size_on_disk": "{{size}} su disco",
     "web.context_menu.inspect": "Ispeziona",
     "setup.action.browse": "Sfoglia",
@@ -582,5 +582,7 @@
     "send_feedback.send.secret_url": "Un URL segreto verrà generato per la tua segnalazione.",
     "send_feedback.consent.include_in_report": "Includi queste informazioni nella segnalazione",
     "send_feedback.questions.where_does_report_go": "Dove va la mia segnalazione?",
-    "send_feedback.reminders.thanks": "Grazie per il feedback!"
+    "send_feedback.reminders.thanks": "Grazie per il feedback!",
+    "send_feedback.send.secret_url.feature_list.view": "Vedere tutto ciò che noi vediamo nella segnalazione",
+    "setup.window.title": "Setup di {{app_name}}"
 }
