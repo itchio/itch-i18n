@@ -558,5 +558,6 @@
     "send_feedback.reminders.be_precise": "Sii il più preciso possibile. Vogliamo risolvere il problema tanto quanto te!",
     "prompt.manage_game.installed_uploads": "I seguenti elementi sono installati:",
     "prompt.launch.message": "Quale vuoi aprire?",
-    "preferences.advanced.prefer_optimized_patches": "Dai la priorità alle patch ottimizzate"
+    "preferences.advanced.prefer_optimized_patches": "Dai la priorità alle patch ottimizzate",
+    "prompt.sla.accept": "Accetta i termini"
 }
