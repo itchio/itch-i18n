@@ -489,7 +489,7 @@
     "send_feedback.reminders.mention_itchio_account": "Menziona il nome del tuo account itch.io e/o la pagina che ti stava dando problemi, se rilevante.",
     "send_feedback.title": "Invia feedback",
     "install_locations.manage": "Gestici percorsi di installazione",
-    "log.level.info": "Informazioni",
+    "log.level.info": "Info",
     "game_stripe.view_all": "Vedi tutti...",
     "filter_by.games.paid_status.paid": "A pagamento",
     "filter_by.games.classification.assets": "Asset di gioco",
