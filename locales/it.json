@@ -419,7 +419,7 @@
     "prompt.clear_browsing_data.notification": "Dati di navigazione cancellati!",
     "setup.window.welcome": "Benvenuto nell'installazione di {{app_name}}! Prenditi un aperitivo, punta ad una destinazione di installazione e procedi.",
     "setup.tooltip.location": "Clicca per modificare la posizione di installazione",
-    "setup.location.message": "Scegli dove l'applicazione dovrebbe essere installata",
+    "setup.location.message": "Scegli dove vorresti installare l'applicazione",
     "setup.action.install": "Installa ora",
     "setup.status.preparing": "In preparazione...",
     "setup.status.progress": "completato al {{percent}}",
