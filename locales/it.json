@@ -274,7 +274,7 @@
     "status.downloads.no_active_downloads": "Nessun download attivo",
     "status.downloads.unknown_size": "Sconosciuto",
     "status.game_update.check_failed": "Controllo aggiornamenti fallito: {{err}}",
-    "status.game_update.found": "Trovata una nuova versione di {{title}}!",
+    "status.game_update.found": "Una nuova versione di {{title}} è disponibile! ",
     "status.game_update.not_found": "{{title}} è aggiornato.",
     "status.offline_mode.active": "Modalità offline attivata",
     "status.offline_mode.inactive": "Clicca per abilitare la modalità offline",
