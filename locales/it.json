@@ -587,5 +587,5 @@
     "setup.window.title": "Setup di {{app_name}}",
     "send_feedback.reminders.we_are_humans": "Ciò che scrivi verrà letto da esseri umani.",
     "sort_by.games.acquired_at": "Ottenuto recentemente",
-    "prompt.clear_browsing_data.cookies_info": "Questa azione ti farà uscire da ogni sito dal quale hai eseguito l'accesso all'app itch. "
+    "prompt.clear_browsing_data.cookies_info": "Questo ti disconnetterà da tutti i siti Web a cui hai effettuato l'accesso dall'app itch."
 }
