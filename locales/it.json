@@ -584,5 +584,6 @@
     "send_feedback.questions.where_does_report_go": "Dove va la mia segnalazione?",
     "send_feedback.reminders.thanks": "Grazie per il feedback!",
     "send_feedback.send.secret_url.feature_list.view": "Vedere tutto ciò che noi vediamo nella segnalazione",
-    "setup.window.title": "Setup di {{app_name}}"
+    "setup.window.title": "Setup di {{app_name}}",
+    "send_feedback.reminders.we_are_humans": "Ciò che scrivi verrà letto da esseri umani."
 }
