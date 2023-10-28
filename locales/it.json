@@ -559,5 +559,16 @@
     "prompt.manage_game.installed_uploads": "I seguenti elementi sono installati:",
     "prompt.launch.message": "Quale vuoi aprire?",
     "preferences.advanced.prefer_optimized_patches": "Dai la priorità alle patch ottimizzate",
-    "prompt.sla.accept": "Accetta i termini"
+    "prompt.sla.accept": "Accetta i termini",
+    "plan_install.select_install_location": "Nel percorso",
+    "plan_install.select_upload": "Installa",
+    "plan_install.computing_space_requirements": "Calcolando spazio necessario",
+    "send_feedback.steps.system_info": "Informazioni di sistema",
+    "send_feedback.steps.your_message": "Il tuo messaggio",
+    "send_feedback.nav.close": "Chiudi",
+    "send_feedback.nav.previous": "Precedente",
+    "send_feedback.send.secret_url.feature_list.delete": "Eliminarlo, se decidi di farlo.",
+    "send_feedback.reminders.include_reproduce_steps": "Se puoi, includi i passaggi per riprodurre il problema.",
+    "filter_by.games.paid_status.free": "Gratis",
+    "sort_by.games.size_on_disk": "Spazio su disco"
 }
