@@ -585,5 +585,7 @@
     "send_feedback.reminders.thanks": "Grazie per il feedback!",
     "send_feedback.send.secret_url.feature_list.view": "Vedere tutto ciò che noi vediamo nella segnalazione",
     "setup.window.title": "Setup di {{app_name}}",
-    "send_feedback.reminders.we_are_humans": "Ciò che scrivi verrà letto da esseri umani."
+    "send_feedback.reminders.we_are_humans": "Ciò che scrivi verrà letto da esseri umani.",
+    "sort_by.games.acquired_at": "Ottenuto recentemente",
+    "prompt.clear_browsing_data.cookies_info": "Questa azione ti farà uscire da ogni sito dal quale hai eseguito l'accesso all'app itch. "
 }
