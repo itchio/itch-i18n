@@ -571,5 +571,16 @@
     "send_feedback.reminders.include_reproduce_steps": "Se puoi, includi i passaggi per riprodurre il problema.",
     "filter_by.games.paid_status.free": "Gratis",
     "sort_by.games.size_on_disk": "Spazio su disco",
-    "filter_by.games.classification.physical_game": "Giochi Fisici"
+    "filter_by.games.classification.physical_game": "Giochi Fisici",
+    "send_feedback.final_thanks": "Grazie per la tua segnalazione, aiuterà tutti!",
+    "send_feedback.error.intro": "Ci dispiace, non è stato possibile inviare la tua segnalazione.",
+    "send_feedback.success.promise": "Verrà analizzata il più presto possibile, convertita in un problema da risolvere, e idealmente risolta in una versione futura.",
+    "send_feedback.success.view_report.delete": "(Puoi eliminarla da questa pagina)",
+    "send_feedback.success.view_report": "Vedi segnalazione",
+    "send_feedback.success.intro": "La tua segnalazione è stata inviata con successo!",
+    "send_feedback.send.do_send": "Invia segnalazione",
+    "send_feedback.send.secret_url": "Un URL segreto verrà generato per la tua segnalazione.",
+    "send_feedback.consent.include_in_report": "Includi queste informazioni nella segnalazione",
+    "send_feedback.questions.where_does_report_go": "Dove va la mia segnalazione?",
+    "send_feedback.reminders.thanks": "Grazie per il feedback!"
 }
