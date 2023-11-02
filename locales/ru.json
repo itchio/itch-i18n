@@ -299,7 +299,7 @@
     "toast.no_info_available": "Информация недоступна",
     "collection.empty": "В этой коллекции нет игр",
     "download.started": "Начато",
-    "download.reason.install": "первая установка",
+    "download.reason.install": "установка",
     "download.reason.update": "обновление до последней версии",
     "grid.clear_filters": "Отменить фильтр",
     "new_tab.titles.buttons": "Выберите что-нибудь:",
