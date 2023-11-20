@@ -454,5 +454,7 @@
     "prompt.self_update.message.linux": "يمكنك اما تحميله يدويًا، او استعمال مدير حزم التوزيع الخاص بك للترقية: توجه الى الموقع لتعليمات اكثر.",
     "prompt.self_update.detail": "{{notes}}\n\n:تاريخ: تم النشر في {{pubDate}}.",
     "prompt.rpm_policy.message": "{{title}} يستخدم تنسيق .rpm ، لا تستطيع تحميله بـ itch الا باعادة تكوين الحزمة.",
-    "prompt.self_update_ready.message": "اختر \"{{restart}}\" لتطبيق التحديث فورًا.\n\nان لم تفعل، سيتم تفعيل التحديث في المرة القادمة تعيد تشغيل التطبيق فيها."
+    "prompt.self_update_ready.message": "اختر \"{{restart}}\" لتطبيق التحديث فورًا.\n\nان لم تفعل، سيتم تفعيل التحديث في المرة القادمة تعيد تشغيل التطبيق فيها.",
+    "prompt.uninstall.reinstall": "إعادة المحاولة",
+    "prompt.uninstall.message": "هل تريد حقاً إلغاء تثبيت {{title}}؟"
 }
