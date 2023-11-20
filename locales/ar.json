@@ -102,7 +102,7 @@
     "prompt.payments_disabled.title": "تم تعطيل عملية الدفع",
     "prompt.url_install.credit": "{{classification}} من {{username}}",
     "prompt.url_install.message": "هل ترغب بتنصيب {{title}}؟",
-    "prompt.url_install.title": "اطلب التنصيب",
+    "prompt.url_install.title": "تثبيت",
     "sidebar.broken": "لا تعمل حاليا",
     "sidebar.dashboard": "إبداعاتي",
     "sidebar.getting_started": "كيف تبدأ",
