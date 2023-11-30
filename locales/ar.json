@@ -457,5 +457,6 @@
     "prompt.self_update_ready.message": "اختر \"{{restart}}\" لتطبيق التحديث فورًا.\n\nان لم تفعل، سيتم تفعيل التحديث في المرة القادمة تعيد تشغيل التطبيق فيها.",
     "prompt.uninstall.reinstall": "أعد التثبيت",
     "prompt.uninstall.message": "هل تريد حقاً إلغاء تثبيت {{title}}؟",
-    "search.results.title": "نتائج البحث عن '{{query}}'"
+    "search.results.title": "نتائج البحث عن '{{query}}'",
+    "prompt.install_error.message": "فشل التثبيت."
 }
