@@ -474,5 +474,7 @@
     "sidebar.log_out": "تسجيل الخروج",
     "sidebar.empty": "هيا بنا!",
     "sidebar.applog": "سجل التطبيق",
-    "sidebar.downloads": "التنزيلات"
+    "sidebar.downloads": "التنزيلات",
+    "status.downloads.resume_downloads": "استئناف التنزيلات",
+    "sidebar.loading": "جارٍ التحميل..."
 }
