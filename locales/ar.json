@@ -459,6 +459,20 @@
     "prompt.uninstall.message": "هل تريد حقاً إلغاء تثبيت {{title}}؟",
     "search.results.title": "نتائج البحث عن '{{query}}'",
     "prompt.install_error.message": "فشل التثبيت",
-    "search.open_as_tab": "فتح كعلامة تبويب",
-    "search.results.creators": "منشئون"
+    "search.open_as_tab": "‬فتح كعلامة تبويب",
+    "search.results.creators": "منشئون",
+    "status.downloads.click_to_manage": "اضغط لأدارة التنزيلات",
+    "status.downloads.unknown_size": "غير معروف",
+    "status.downloads.update_all": "تحديث الكل",
+    "status.downloads.clear_finished": "مسح",
+    "status.downloads.clear_all_finished": "مسح الكل",
+    "sidebar.view_creator_profile": "عرض ملف المنشئ",
+    "sidebar.view_community_profile": "عرض ملف المجتمع",
+    "sidebar.preferences": "الاعدادات",
+    "sidebar.library": "المكتبة",
+    "sidebar.new_tab": "صفحة جديدة",
+    "sidebar.log_out": "تسجيل الخروج",
+    "sidebar.empty": "هيا بنا!",
+    "sidebar.applog": "سجل التطبيق",
+    "sidebar.downloads": "التنزيلات"
 }
