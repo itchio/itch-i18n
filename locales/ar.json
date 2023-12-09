@@ -458,5 +458,7 @@
     "prompt.uninstall.reinstall": "أعد التثبيت",
     "prompt.uninstall.message": "هل تريد حقاً إلغاء تثبيت {{title}}؟",
     "search.results.title": "نتائج البحث عن '{{query}}'",
-    "prompt.install_error.message": "فشل التثبيت"
+    "prompt.install_error.message": "فشل التثبيت",
+    "search.open_as_tab": "فتح كعلامة تبويب",
+    "search.results.creators": "منشئون"
 }
