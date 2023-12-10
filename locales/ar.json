@@ -476,5 +476,9 @@
     "sidebar.applog": "سجل التطبيق",
     "sidebar.downloads": "التنزيلات",
     "status.downloads.resume_downloads": "استئناف التنزيلات",
-    "sidebar.loading": "جارٍ التحميل..."
+    "sidebar.loading": "جارٍ التحميل...",
+    "sidebar.featured": "متميز",
+    "sidebar.collection": "المجموعات",
+    "search.placeholder": "بحث",
+    "search.empty.no_results": "لم يتم العثور على نتائج"
 }
