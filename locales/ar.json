@@ -481,5 +481,6 @@
     "sidebar.collection": "المجموعات",
     "search.placeholder": "بحث",
     "search.empty.no_results": "لم يتم العثور على نتائج",
-    "sidebar.explore": "استكشف"
+    "sidebar.explore": "استكشف",
+    "status.available": "يتوفر اصدار جديد من اتش الآن!"
 }
