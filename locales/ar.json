@@ -480,5 +480,6 @@
     "sidebar.featured": "متميز",
     "sidebar.collection": "المجموعات",
     "search.placeholder": "بحث",
-    "search.empty.no_results": "لم يتم العثور على نتائج"
+    "search.empty.no_results": "لم يتم العثور على نتائج",
+    "sidebar.explore": "استكشف"
 }
