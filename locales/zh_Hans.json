@@ -109,5 +109,6 @@
     "grid.item.donate": "打赏创作者",
     "grid.item.open_file_location.linux": "在文件管理器中显示",
     "grid.item.installing": "安装中……",
-    "grid.item.downloading": "下载中……"
+    "grid.item.downloading": "下载中……",
+    "grid.item.downloads_paused": "下载已暂停"
 }
