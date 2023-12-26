@@ -538,7 +538,7 @@
     "install_locations.manage": "Gérer les emplacements d'installation",
     "collection.info.updated": "Mis à jour",
     "send_feedback.title": "Envoyer un commentaire",
-    "send_feedback.describe_issue": "Décrivez ce que vous étiez en train de faire quand le problème s'est produit  :",
+    "send_feedback.describe_issue": "Décrivez ce que vous étiez en train de faire quand le problème s'est produit :",
     "send_feedback.reminders.header": "Quelques rappels :",
     "send_feedback.reminders.we_are_humans": "Vous serez lu par des êtres humains.",
     "send_feedback.reminders.be_precise": "Soyez aussi précis que possible. Nous voulons régler le problème tout autant que vous !",
