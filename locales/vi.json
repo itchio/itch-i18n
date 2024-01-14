@@ -9,5 +9,6 @@
     "action.name.manual": "Hướng dẫn sử dụng",
     "action.name.editor": "Trình biên tập",
     "duration.hours": "{{x}} giờ",
-    "search.results.title": "Kết quả tìm kiếm cho '{{query}}'"
+    "search.results.title": "Kết quả tìm kiếm cho '{{query}}'",
+    "prompt.url_install.credit": "{{classification}} do {{username}} tạo ra"
 }
