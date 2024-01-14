@@ -10,7 +10,7 @@
     "action.name.editor": "Trình biên tập",
     "duration.hours": "{{x}} giờ",
     "search.results.title": "Kết quả tìm kiếm cho '{{query}}'",
-    "prompt.url_install.credit": "{{classification}} do {{username}} tạo ra",
+    "prompt.url_install.credit": "Một {{classification}} bởi {{username}}",
     "game.install.no_executables_found": "Không có tập thực thi nào được tìm thấy",
     "duration.seconds": "{{x}} giây",
     "duration.minutes": "{{x}} phút",
