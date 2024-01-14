@@ -88,5 +88,7 @@
     "download.ongoing.install": "Đang cài đặt {{title}}…",
     "download.reason.install": "để cài đặt",
     "download.started": "Đã bắt đầu",
-    "collection.empty": "Không có trò chơi nào trong bộ sưu tập này"
+    "collection.empty": "Không có trò chơi nào trong bộ sưu tập này",
+    "grid.item.install_title": "Cài đặt {{title}}",
+    "grid.item.developer": "Nhà phát triển"
 }
