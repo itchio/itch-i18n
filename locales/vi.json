@@ -10,5 +10,12 @@
     "action.name.editor": "Trình biên tập",
     "duration.hours": "{{x}} giờ",
     "search.results.title": "Kết quả tìm kiếm cho '{{query}}'",
-    "prompt.url_install.credit": "{{classification}} do {{username}} tạo ra"
+    "prompt.url_install.credit": "{{classification}} do {{username}} tạo ra",
+    "game.install.no_executables_found": "Không có tập thực thi nào được tìm thấy",
+    "duration.seconds": "{{x}} giây",
+    "duration.minutes": "{{x}} phút",
+    "download.reason.heal": "để xác nhận và sửa chữa",
+    "download.reason.reinstall": "để cài đặt lại",
+    "download.reason.update": "để cập nhật lên phiên bản mới nhất",
+    "label.experimental": "Thử nghiệm"
 }
