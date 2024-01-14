@@ -7,5 +7,7 @@
     "action.name.forums": "Diễn đàn",
     "action.name.play": "Chơi ngay",
     "action.name.manual": "Hướng dẫn sử dụng",
-    "action.name.editor": "Trình biên tập"
+    "action.name.editor": "Trình biên tập",
+    "duration.hours": "{{x}} giờ",
+    "search.results.title": "Kết quả tìm kiếm cho '{{query}}'"
 }
