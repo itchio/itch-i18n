@@ -92,5 +92,6 @@
     "grid.item.install_title": "Cài đặt {{title}}",
     "grid.item.developer": "Nhà phát triển",
     "collection.item_count": "{{itemCount}} vật phẩm",
-    "grid.item.update": "Cập nhật"
+    "grid.item.update": "Cập nhật",
+    "grid.item.open_debug_log": "Xem nhật kí hệ thống..."
 }
