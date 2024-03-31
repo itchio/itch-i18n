@@ -91,5 +91,6 @@
     "collection.empty": "Không có trò chơi nào trong bộ sưu tập này",
     "grid.item.install_title": "Cài đặt {{title}}",
     "grid.item.developer": "Nhà phát triển",
-    "collection.item_count": "{{itemCount}} vật phẩm"
+    "collection.item_count": "{{itemCount}} vật phẩm",
+    "grid.item.update": "Cập nhật"
 }
