@@ -111,5 +111,13 @@
     "grid.item.installing": "安装中……",
     "grid.item.downloading": "下载中……",
     "grid.item.downloads_paused": "下载已暂停",
-    "grid.item.download_java": "下载Java"
+    "grid.item.download_java": "下载Java",
+    "collection_grid.item.updated_at": "上次更新于 {{time_ago}}",
+    "table.column.powered_by": "作品来自",
+    "table.column.installed": "安装于",
+    "table.column.published": "发布于",
+    "table.column.last_played": "上次游玩于",
+    "table.column.play_time": "游戏时长",
+    "grid.item.donate_again": "再次打赏创作者！",
+    "grid.item.running": "运行中……"
 }
