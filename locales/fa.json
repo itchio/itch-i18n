@@ -219,5 +219,7 @@
     "menu.view.view": "نمایش",
     "menu.view.downloads": "دانلودها",
     "preferences.install_location.used_space": "فضای استفاده شده",
-    "preferences.install_location.empty": "خالی"
+    "preferences.install_location.empty": "خالی",
+    "toast.actions.reload": "بارگذاری مجدد",
+    "toast.call_to_action": "برای ادامه، دوباره بارگذاری کنید یا به صفحه دیگری بروید."
 }
