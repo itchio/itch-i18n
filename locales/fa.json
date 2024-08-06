@@ -34,7 +34,7 @@
     "collections.empty": "شما در حال حاضر هیچ مجموعه‌ای ندارید",
     "collections.empty_sub": "چند بازی پیدا کرده و به یک مجموعه‌ی جدید اضافه کنید!",
     "desktop.shortcut.comment": "بازی‌های itch.io را به راحتی نصب و اجرا کنید",
-    "docs.learn_more": "توضیح بیشتر",
+    "docs.learn_more": "اطلاعات بیشتر",
     "docs.how_to_help": "چطور می‌توانم کمک کنم؟",
     "download.started": "شروع شده",
     "download.reason.install": "برای نصب",
@@ -221,5 +221,6 @@
     "preferences.install_location.used_space": "فضای استفاده شده",
     "preferences.install_location.empty": "خالی",
     "toast.actions.reload": "بارگذاری مجدد",
-    "toast.call_to_action": "برای ادامه، دوباره بارگذاری کنید یا به صفحه دیگری بروید."
+    "toast.call_to_action": "برای ادامه، دوباره بارگذاری کنید یا به صفحه دیگری بروید.",
+    "toast.actions.learn_more": "اطلاعات بیشتر"
 }
