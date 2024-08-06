@@ -222,5 +222,6 @@
     "preferences.install_location.empty": "خالی",
     "toast.actions.reload": "بارگذاری مجدد",
     "toast.call_to_action": "برای ادامه، دوباره بارگذاری کنید یا به صفحه دیگری بروید.",
-    "toast.actions.learn_more": "اطلاعات بیشتر"
+    "toast.actions.learn_more": "اطلاعات بیشتر",
+    "moment.now": "اکنون"
 }
