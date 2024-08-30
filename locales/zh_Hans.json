@@ -119,5 +119,6 @@
     "table.column.last_played": "上次游玩于",
     "table.column.play_time": "游戏时长",
     "grid.item.donate_again": "再次打赏创作者！",
-    "grid.item.running": "运行中……"
+    "grid.item.running": "运行中……",
+    "grid.item.verify_integrity": "检验完整性"
 }
