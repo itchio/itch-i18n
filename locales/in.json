@@ -452,5 +452,7 @@
     "browser.open_devtools": "Buka alat pengembang",
     "preferences.scan_install_locations.confirm_import": "Konfirmasi impor",
     "preferences.install_location.free_of_total": "{{freeSize}} tersisa dari {{totalSize}}",
-    "preferences.install_location.disk_usage": "Penggunaan disk"
+    "preferences.install_location.disk_usage": "Penggunaan disk",
+    "preferences.scan_install_locations.items_imported": "{{numImportedItems}} item telah berhasil diimpor",
+    "preferences.scan_install_locations.import_items": "Memasukan {{numItems}} item"
 }
