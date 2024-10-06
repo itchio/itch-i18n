@@ -128,5 +128,14 @@
     "i18n.failed_downloading_locales": "无法下载 {{lang}} 语言翻译的更新。",
     "browser.popout": "在外部浏览器中打开页面",
     "grid.item.uninstall_request": "卸载或重新安装……",
-    "grid.item.running.prepare": "准备中……"
+    "grid.item.running.prepare": "准备中……",
+    "login.action.reset_password": "忘记密码",
+    "login.action.register": "注册",
+    "login.action.login": "登录",
+    "browser.reenable": "重新启用",
+    "browser.open_devtools": "打开开发者工具",
+    "table.column.installed_size": "大小",
+    "table.column.name": "名称",
+    "grid.item.status.installed": "已安装",
+    "grid.item.manage": "管理"
 }
