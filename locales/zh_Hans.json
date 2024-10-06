@@ -121,5 +121,6 @@
     "grid.item.donate_again": "再次打赏创作者！",
     "grid.item.running": "运行中……",
     "grid.item.verify_integrity": "检验完整性",
-    "grid.item.review": "Review"
+    "grid.item.review": "Review",
+    "grid.item.open_file_location.osx": "文件夹中打开"
 }
