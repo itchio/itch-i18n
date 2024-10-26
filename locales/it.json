@@ -371,7 +371,7 @@
     "prereq.status.done": "Fatto!",
     "menu.file.close_tabs_below": "Chiudi le schede in basso",
     "grid.item.advanced": "Avanzate...",
-    "grid.item.uninstall_request": "Disinstalla o reinstalla...",
+    "grid.item.uninstall_request": "Disinstalla o reinstalla…",
     "grid.item.manage": "Gestisci",
     "grid.item.status.installed": "Installato",
     "table.column.installed_size": "Dimensioni",
@@ -407,8 +407,8 @@
     "grid.really_empty_state.leader": "Qui non c'è nulla...",
     "grid.really_empty_state.explanation": "...ancora!",
     "grid.item.queueing": "In coda...",
-    "grid.item.launch_title": "Avvia {{titolo}}",
-    "grid.item.open_title": "Apri {{titolo}}",
+    "grid.item.launch_title": "Avvia {{title}}",
+    "grid.item.open_title": "Apri {{title}}",
     "menu.file.close_other_tabs": "Chiudi le altre schede",
     "preferences.behavior.prevent_display_sleep": "Impedisci la disattivazione dello schermo mentre sei in gioco",
     "preferences.advanced.clear_browsing_data": "Cancella i dati di navigazione",
@@ -590,5 +590,6 @@
     "prompt.clear_browsing_data.cookies_info": "Questo ti disconnetterà da tutti i siti Web a cui hai effettuato l'accesso dall'app itch.",
     "sidebar.library": "Libreria",
     "send_feedback.describe_issue": "Per favore descrivi cosa stavi tentando di fare quando è accaduto l'errore",
-    "send_feedback.nav.next": "Avanti"
+    "send_feedback.nav.next": "Avanti",
+    "send_feedback.steps.send": "Invia segnalazione"
 }
