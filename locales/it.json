@@ -588,5 +588,6 @@
     "send_feedback.reminders.we_are_humans": "Ciò che scrivi verrà letto da esseri umani.",
     "sort_by.games.acquired_at": "Ottenuto recentemente",
     "prompt.clear_browsing_data.cookies_info": "Questo ti disconnetterà da tutti i siti Web a cui hai effettuato l'accesso dall'app itch.",
-    "sidebar.library": "Libreria"
+    "sidebar.library": "Libreria",
+    "send_feedback.describe_issue": "Per favore descrivi cosa stavi tentando di fare quando è accaduto l'errore"
 }
