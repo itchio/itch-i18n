@@ -223,5 +223,15 @@
     "toast.actions.reload": "بارگذاری مجدد",
     "toast.call_to_action": "برای ادامه، دوباره بارگذاری کنید یا به صفحه دیگری بروید.",
     "toast.actions.learn_more": "اطلاعات بیشتر",
-    "moment.now": "اکنون"
+    "moment.now": "اکنون",
+    "new_tab.twitter": "محبوب در توییتر",
+    "new_tab.devlogs": "گزارش های توسعه دهنده",
+    "new_tab.top_sellers": "فروشندگان برتر",
+    "new_tab.titles.input": "...یا",
+    "new_tab.titles.browser_placeholder": "آدرس وبی را وارد کنید",
+    "new_tab.random": "بازی های تصادفی",
+    "new_tab.on_sale": "تخفیف خورده",
+    "new_tab.community": "انجمن",
+    "new_tab.titles.buttons": "یکی از این ها را امتحان کنید:",
+    "toast.no_info_available": "اطلاعاتی در دسترس نیست"
 }
