@@ -233,5 +233,8 @@
     "new_tab.on_sale": "تخفیف خورده",
     "new_tab.community": "انجمن",
     "new_tab.titles.buttons": "یکی از این ها را امتحان کنید:",
-    "toast.no_info_available": "اطلاعاتی در دسترس نیست"
+    "toast.no_info_available": "اطلاعاتی در دسترس نیست",
+    "usage_stats.description.game": "بازی",
+    "usage_stats.description.book": "کتاب",
+    "toast.message": "اتفاق غیرمنتظره‌ای افتاد."
 }
