@@ -236,5 +236,6 @@
     "toast.no_info_available": "اطلاعاتی در دسترس نیست",
     "usage_stats.description.game": "بازی",
     "usage_stats.description.book": "کتاب",
-    "toast.message": "اتفاق غیرمنتظره‌ای افتاد."
+    "toast.message": "اتفاق غیرمنتظره‌ای افتاد.",
+    "toast.actions.report": "ارسال بازخورد برای کمک به بهبود itch"
 }
