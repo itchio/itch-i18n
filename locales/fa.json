@@ -225,17 +225,18 @@
     "toast.actions.learn_more": "اطلاعات بیشتر",
     "moment.now": "اکنون",
     "new_tab.twitter": "محبوب در توییتر",
-    "new_tab.devlogs": "گزارش های توسعه دهنده",
+    "new_tab.devlogs": "گزارش‌های توسعه‌دهنده",
     "new_tab.top_sellers": "فروشندگان برتر",
     "new_tab.titles.input": "...یا",
-    "new_tab.titles.browser_placeholder": "آدرس وبی را وارد کنید",
-    "new_tab.random": "بازی های تصادفی",
+    "new_tab.titles.browser_placeholder": "یک آدرس وب وارد کنید",
+    "new_tab.random": "بازی‌های تصادفی",
     "new_tab.on_sale": "تخفیف خورده",
     "new_tab.community": "انجمن",
-    "new_tab.titles.buttons": "یکی از این ها را امتحان کنید:",
+    "new_tab.titles.buttons": "یکی از این‌ها را امتحان کنید:",
     "toast.no_info_available": "اطلاعاتی در دسترس نیست",
     "usage_stats.description.game": "بازی",
     "usage_stats.description.book": "کتاب",
     "toast.message": "اتفاق غیرمنتظره‌ای افتاد.",
-    "toast.actions.report": "ارسال بازخورد برای کمک به بهبود itch"
+    "toast.actions.report": "ارسال بازخورد برای کمک به بهبود itch",
+    "usage_stats.description.free_download": "دانلود رایگان"
 }
