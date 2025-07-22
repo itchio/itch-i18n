@@ -406,7 +406,7 @@
     "grid.criterion.filter_by": "Filtra per: ",
     "grid.really_empty_state.leader": "Qui non c'è nulla...",
     "grid.really_empty_state.explanation": "...ancora!",
-    "grid.item.queueing": "In coda...",
+    "grid.item.queueing": "Mettendo in coda…",
     "grid.item.launch_title": "Avvia {{title}}",
     "grid.item.open_title": "Apri {{title}}",
     "menu.file.close_other_tabs": "Chiudi le altre schede",
