@@ -36,6 +36,15 @@
   "duration.hours": "{{x}} hours",
   "duration.minute": "a minute or less",
   "duration.minutes": "{{x}} minutes",
+  "duration.precise.hour_minute": "1 hour 1 minute",
+  "duration.precise.hour_minutes": "1 hour {{minutes}} minutes",
+  "duration.precise.hour_only": "1 hour",
+  "duration.precise.hours_minute": "{{hours}} hours 1 minute",
+  "duration.precise.hours_minutes": "{{hours}} hours {{minutes}} minutes",
+  "duration.precise.hours_only": "{{hours}} hours",
+  "duration.precise.minute_only": "1 minute",
+  "duration.precise.minutes_only": "{{minutes}} minutes",
+  "duration.precise.seconds_only": "{{seconds}} seconds",
   "duration.seconds": "{{x}} seconds",
   "errors.api.login.incorrect_username_or_password":
     "Incorrect username or password",
@@ -216,7 +225,6 @@
   "new_tab.titles.input": "...or",
   "new_tab.top_sellers": "Top sellers",
   "new_tab.devlogs": "Developer logs",
-  "new_tab.twitter": "Popular on Twitter",
   "notification.see_you_soon.message":
     "itch is now running in the background. Use the menu to quit it completely.",
   "notification.see_you_soon.title": "See you soon!",
@@ -489,6 +497,7 @@
   "prompt.uninstall.cancel": "Cancel",
   "prompt.uninstall.message": "Are you sure you want to uninstall {{title}}?",
   "prompt.uninstall.reinstall": "Re-install",
+  "prompt.uninstall.title": "Confirm uninstall",
   "prompt.uninstall.uninstall": "Uninstall now",
   "prompt.url_install.credit": "A {{classification}} by {{username}}",
   "prompt.url_install.message": "Do you want to install {{title}}?",
@@ -700,6 +709,8 @@
 
   "plan_install.disk_space_required": "Disk space required",
   "plan_install.disk_space_available": "Disk space available",
+
+  "plan_install.no_available_downloads": "No compatible downloads were found",
 
   "empty_state.nothing_to_see_here": "Nothing to see here"
 }
