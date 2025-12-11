@@ -2,4 +2,4 @@
 
 Translations for <https://github.com/itchio/itch>
 
-Contribute at: https://weblate.itch.ovh/projects/itchio/
+Contribute at: <https://weblate.itch.zone/projects/itchio/>
