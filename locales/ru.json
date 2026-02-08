@@ -171,7 +171,6 @@
     "game.install.visit_web_page": "Открыть веб-страницу",
     "prompt.self_update.action.view": "Открыть в браузере",
     "search.placeholder": "Поиск",
-    "new_tab.twitter": "Популярное в Твиттере",
     "usage_stats.description.bought_time_ago": "Приобретено {{time_ago}}",
     "install_location.empty": "В этой папке пока ничего не установлено",
     "grid.item.open_debug_log": "Показать журнал...",
