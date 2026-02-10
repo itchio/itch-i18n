@@ -591,5 +591,16 @@
     "plan_install.select_upload": "Zainstaluj",
     "plan_install.select_install_location": "Do lokacji",
     "empty_state.nothing_to_see_here": "Nic tu nie ma",
-    "filter_by.games.classification.physical_game": "Gry fizyczne"
+    "filter_by.games.classification.physical_game": "Gry fizyczne",
+    "plan_install.no_available_downloads": "Nie znaleziono kompatybilnych pobrań",
+    "prompt.uninstall.title": "Potwierdź odinstalowanie",
+    "duration.precise.seconds_only": "{{seconds}} sekund",
+    "duration.precise.minutes_only": "{{minutes}} minut",
+    "duration.precise.minute_only": "1 minuta",
+    "duration.precise.hours_only": "{{hours}} godzin",
+    "duration.precise.hours_minutes": "{{hours}} godzin {{minutes}} minut",
+    "duration.precise.hours_minute": "{{hours}} godzin 1 minuta",
+    "duration.precise.hour_only": "1 godzina",
+    "duration.precise.hour_minutes": "1 godzina {{minutes}} minut",
+    "duration.precise.hour_minute": "1 godzina 1 minuta"
 }
