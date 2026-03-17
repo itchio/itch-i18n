@@ -602,5 +602,7 @@
     "duration.precise.hours_minute": "{{hours}} часов 1 минута",
     "duration.precise.hour_only": "1 час",
     "duration.precise.hour_minutes": "1 час {{minutes}} минут",
-    "duration.precise.hour_minute": "1 час 1 минута"
+    "duration.precise.hour_minute": "1 час 1 минута",
+    "preferences.security.sandbox.type.label": "Тип песочницы",
+    "preferences.security.sandbox.type.auto": "Авто"
 }
