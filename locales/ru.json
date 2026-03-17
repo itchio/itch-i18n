@@ -604,5 +604,13 @@
     "duration.precise.hour_minutes": "1 час {{minutes}} минут",
     "duration.precise.hour_minute": "1 час 1 минута",
     "preferences.security.sandbox.type.label": "Тип песочницы",
-    "preferences.security.sandbox.type.auto": "Авто"
+    "preferences.security.sandbox.type.auto": "Автоматически",
+    "preferences.security.sandbox.no_network.title": "Отключить сетевой доступ в песочнице",
+    "preferences.security.sandbox.save_warning": "Изменение настроек песочницы может повлиять на доступ к существующим файлам сохранения игры.",
+    "browser.back": "Назад",
+    "browser.forward": "Вперёд",
+    "browser.stop": "Остановить загрузку",
+    "browser.reload": "Перезагрузить страницу",
+    "browser.more_menu": "Больше настроек",
+    "game.manage": "Управление игрой"
 }
