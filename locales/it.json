@@ -590,5 +590,7 @@
     "sidebar.library": "Libreria",
     "send_feedback.describe_issue": "Per favore descrivi cosa stavi tentando di fare quando è accaduto l'errore",
     "send_feedback.nav.next": "Avanti",
-    "send_feedback.steps.send": "Invia la segnalzione"
+    "send_feedback.steps.send": "Invia la segnalzione",
+    "duration.precise.hour_minute": "1 ora 1 minuto",
+    "duration.precise.hour_minutes": "1 ora {{minutes}} minuti"
 }
