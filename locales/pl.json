@@ -604,5 +604,6 @@
     "duration.precise.hour_minutes": "1 godzina {{minutes}} minut",
     "duration.precise.hour_minute": "1 godzina 1 minuta",
     "preferences.security.sandbox.type.label": "Typ piaskownicy",
-    "preferences.security.sandbox.save_warning": "Zmiany w ustawieniach piaskownicy mogą zmienić dostęp do już istniejących plików zapisu gry."
+    "preferences.security.sandbox.save_warning": "Zmiany w ustawieniach piaskownicy mogą zmienić dostęp do już istniejących plików zapisu gry.",
+    "preferences.security.sandbox.no_network.title": "Wyłącz dostęp do sieci w piaskownicy"
 }
