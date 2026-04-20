@@ -602,5 +602,7 @@
     "duration.precise.hours_minute": "{{hours}} godzin 1 minuta",
     "duration.precise.hour_only": "1 godzina",
     "duration.precise.hour_minutes": "1 godzina {{minutes}} minut",
-    "duration.precise.hour_minute": "1 godzina 1 minuta"
+    "duration.precise.hour_minute": "1 godzina 1 minuta",
+    "preferences.security.sandbox.type.label": "Typ piaskownicy",
+    "preferences.security.sandbox.save_warning": "Zmiany w ustawieniach piaskownicy mogą zmienić dostęp do już istniejących plików zapisu gry."
 }
