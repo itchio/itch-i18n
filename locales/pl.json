@@ -609,5 +609,7 @@
     "browser.back": "Wstecz",
     "browser.forward": "Do przodu",
     "browser.stop": "Zatrzymaj ładowanie",
-    "browser.reload": "Odśwież stronę"
+    "browser.reload": "Odśwież stronę",
+    "browser.more_menu": "Więcej opcji",
+    "game.manage": "Zarządzaj grą"
 }
