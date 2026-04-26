@@ -1,1 +1,7 @@
-{}
+{
+    "grid.item.install": "Instalar",
+    "grid.item.installing": "Instalando…",
+    "grid.item.uninstall": "Desinstalar",
+    "grid.item.uninstalling": "Desinstalando…",
+    "grid.item.downloading": "Descargando…"
+}
