@@ -51,5 +51,7 @@
     "errors.api.login.incorrect_username_or_password": "Nome de usuario ou contrasinal incorrectos",
     "grid.item.purchase_or_donate": "Mercar ou doar cartos para este artigo",
     "download.reason.heal": "para verificar e reparar",
-    "game.install.could_not_launch.message": "A mensaxe recibida foi: {{errorMessage}}"
+    "game.install.could_not_launch.message": "A mensaxe recibida foi: {{errorMessage}}",
+    "download.reason.update": "para actualizar á última versión",
+    "download.outcome.updated": "actualizado á versión máis recente"
 }
