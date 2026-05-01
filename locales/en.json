@@ -281,6 +281,8 @@
   "preferences.security.sandbox.type.auto": "Auto",
   "preferences.security.sandbox.no_network.title":
     "Disable network access in sandbox",
+  "preferences.security.sandbox.allow_env.label":
+    "Allowed environment variable names (comma or whitespace separated)",
   "preferences.security.sandbox.description":
     "The itch.io sandbox will try to prevent games you download from doing harmful things or stealing sensitive data. While it's not a complete safety guarantee, running games in the itch.io sandbox is much safer.",
   "preferences.security.sandbox.save_warning":
@@ -694,6 +696,7 @@
   "butlerd.codes.3000": "This title is packaged in a way that is not compatible with the itch.io app.",
   "butlerd.codes.5000": "Nothing that can be launched was found.",
   "butlerd.codes.9000": "There is no Internet connection.",
+  "butlerd.codes.19000": "{{message}}",
 
   "sort_by.games.acquired_at": "Acquired recently",
   "sort_by.games.title": "Title",
