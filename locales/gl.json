@@ -53,5 +53,6 @@
     "download.reason.heal": "para verificar e reparar",
     "game.install.could_not_launch.message": "A mensaxe recibida foi: {{errorMessage}}",
     "download.reason.update": "para actualizar á última versión",
-    "download.outcome.updated": "actualizado á versión máis recente"
+    "download.outcome.updated": "actualizado á versión máis recente",
+    "grid.item.retry": "Tentar descargar/instalar/executar este artigo de novo"
 }
