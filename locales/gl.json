@@ -54,5 +54,11 @@
     "game.install.could_not_launch.message": "A mensaxe recibida foi: {{errorMessage}}",
     "download.reason.update": "para actualizar á última versión",
     "download.outcome.updated": "actualizado á versión máis recente",
-    "grid.item.retry": "Tentar descargar/instalar/executar este artigo de novo"
+    "grid.item.retry": "Tentar descargar/instalar/executar este artigo de novo",
+    "grid.item.buy_now": "Mercar",
+    "action.name.play": "Xogar",
+    "download.started": "Iniciada",
+    "download.reason.revert": "para mudar a outra versión",
+    "game.install.could_not_launch.missing_jre": "Require Java, o cal non se atopou no sistema.",
+    "game.install.no_html_index_found": "Non se atopou ningún ficheiro index HTML"
 }
