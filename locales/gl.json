@@ -60,5 +60,19 @@
     "download.started": "Iniciada",
     "download.reason.revert": "para mudar a outra versión",
     "game.install.could_not_launch.missing_jre": "Require Java, o cal non se atopou no sistema.",
-    "game.install.no_html_index_found": "Non se atopou ningún ficheiro index HTML"
+    "game.install.no_html_index_found": "Non se atopou ningún ficheiro index HTML",
+    "errors.api.login.password_must_be_provided": "Debes inserir o contrasinal",
+    "errors.api.login.username_must_be_provided": "Debes inserir o nome de usuario",
+    "game.install.could_not_launch": "Produciuse un erro ao iniciar {{title}}",
+    "game.install.could_not_launch.detail": "Enviarnos un informe é a mellor forma de asegurar que isto se solucione!",
+    "prompt.url_install.credit": "Unha {{classification}} de {{username}}",
+    "game.install.no_executables_found": "Non se atoparon executables",
+    "game.install.libraries_missing": "Faltan algunhas bibliotecas {{arch}} necesarias: {{libraries}}",
+    "game.install.no_uploads_available.detail": "Quizais non sexa compatible coa túa plataforma ou coa aplicación de itch aínda!",
+    "game.install.no_uploads_available.message": "Non se atoparon descargas compatibles para '{{title}}', polo que non se instalou.",
+    "game.install.try_again": "Tentar de novo",
+    "game.install.visit_web_page": "Visitar a páxina web",
+    "grid.criterion.search": "Buscar...",
+    "grid.criterion.filter": "Filtrar...",
+    "grid.criterion.filter_by": "Filtrar por: "
 }
