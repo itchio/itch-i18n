@@ -666,5 +666,8 @@
     "upload.preview.modified": "променено",
     "upload.preview.deleted": "изтрито",
     "upload.preview.same": "непроменено",
-    "butlerd.codes.19000": "{{message}}"
+    "butlerd.codes.19000": "{{message}}",
+    "upload.file_type.patch_hint": "Кръпка във формата Wharf (.pwr) — използва се за надграждане въз основа на предходна компилация.",
+    "upload.file_type.signature": "Подпис",
+    "upload.file_type.signature_hint": "Подпис във формата Wharf (.pws) — използва се за потвърждаване и прилагане на кръпки."
 }
