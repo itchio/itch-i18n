@@ -667,5 +667,16 @@
     "butlerd.codes.19000": "{{message}}",
     "upload.file_type.patch_hint": "Кръпка във формата Wharf (.pwr) — използва се за надграждане въз основа на предходна компилация.",
     "upload.file_type.signature": "Подпис",
-    "upload.file_type.signature_hint": "Подпис във формата Wharf (.pws) — използва се за потвърждаване и прилагане на кръпки."
+    "upload.file_type.signature_hint": "Подпис във формата Wharf (.pws) — използва се за потвърждаване и прилагане на кръпки.",
+    "upload.file_type.manifest": "Манифест",
+    "upload.file_type.manifest_hint": "Метаданни от манифеста на компилацията.",
+    "upload.file_type.unpacked": "Разпакетиран файл",
+    "upload.file_type.unpacked_hint": "Единственият разкомпресиран файл вътре в тази компилация, ако това е приложимо.",
+    "upload.status.live": "Публично",
+    "upload.status.inactive": "Неактивно",
+    "upload.status.inactive_hint": "Тази компилация е била заменена от по-нова версия в същия канал.",
+    "upload.status.processing": "В процес на обработка",
+    "upload.status.failed": "Неуспешно",
+    "upload.status.pushing": "В процес на изпращане",
+    "upload.status.cancelled": "Отменено"
 }
