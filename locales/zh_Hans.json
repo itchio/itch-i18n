@@ -137,5 +137,6 @@
     "table.column.installed_size": "大小",
     "table.column.name": "名称",
     "grid.item.status.installed": "已安装",
-    "grid.item.manage": "管理"
+    "grid.item.manage": "管理",
+    "grid.item.not_compatible": "在此平台不可用"
 }
