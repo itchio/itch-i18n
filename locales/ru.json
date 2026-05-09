@@ -599,7 +599,7 @@
     "duration.precise.minute_only": "1 минута",
     "duration.precise.hours_only": "{{hours}} часов",
     "duration.precise.hours_minutes": "{{hours}} часов {{minutes}} минут",
-    "duration.precise.hours_minute": "{{hours}} часов 1 минута",
+    "duration.precise.hours_minute": "{{hours}} ч. 1 минута",
     "duration.precise.hour_only": "1 час",
     "duration.precise.hour_minutes": "1 час {{minutes}} мин.",
     "duration.precise.hour_minute": "1 час 1 минута",
