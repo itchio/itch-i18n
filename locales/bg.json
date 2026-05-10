@@ -678,5 +678,17 @@
     "upload.status.processing": "В процес на обработка",
     "upload.status.failed": "Неуспешно",
     "upload.status.pushing": "В процес на изпращане",
-    "upload.status.cancelled": "Отменено"
+    "upload.status.cancelled": "Отменено",
+    "notification.push_processing": "{{title}}: изпратено към {{channel}}, сървърът обработва компилацията",
+    "upload.dismiss": "Премахване",
+    "upload.menu.push_new_build": "Изпращане на нова компилация",
+    "upload.menu.view_project": "Преглед на страницата на проекта",
+    "upload.menu.copy_command": "Копиране на команда за изпращане чрез butler",
+    "upload.menu.copy_build_id": "Копиране на ид. на компилацията",
+    "upload.menu.remove": "Премахване от списъка",
+    "upload.recent_folders": "Последно ползвани папки",
+    "upload.recent_folders.clear": "Изчистване на последно ползваните папки",
+    "upload.pick_game": "Проект:",
+    "upload.pick_channel": "Канал",
+    "upload.no_channels": "Все още няма канали — въведете име по-долу, за да създадете канал."
 }
