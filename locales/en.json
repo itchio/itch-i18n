@@ -615,8 +615,6 @@
   "upload.user_version": "Version (optional):",
   "upload.hidden_on_creation": "Mark new channel as hidden",
   "upload.pick_source_hint": "Drop a folder or .zip here",
-  "upload.browse": "Browse…",
-  "upload.change_source": "Change…",
   "upload.select_folder": "Select Folder",
   "upload.select_zip": "Select .zip",
   "upload.push": "Push build",
