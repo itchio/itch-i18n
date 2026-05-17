@@ -679,8 +679,6 @@
     "upload.pick_channel": "Канал",
     "upload.no_channels": "Пока каналов нет - впишите название ниже, чтобы создать.",
     "upload.pick_source_hint": "Перетащите папку или .zip сюда, или выберите",
-    "upload.browse": "Обзор…",
-    "upload.change_source": "Изменить…",
     "upload.push": "Загрузить сборку",
     "upload.push_without_preview": "Загрузить без предпросмотра",
     "upload.preview": "Предпросмотр",
