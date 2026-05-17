@@ -591,5 +591,7 @@
     "prompt.sla.title": "Acuerdo de licencia de software",
     "prompt.sla.accept": "Aceptar condiciones",
     "prompt.sla.message": "Para usar este programa debe aceptar las condiciones del acuerdo de licencia de software:",
-    "filter_by.games.classification.physical_game": "Juegos Físicos"
+    "filter_by.games.classification.physical_game": "Juegos Físicos",
+    "duration.precise.hour_minute": "1 hora 1 minuto",
+    "duration.precise.hour_only": "1 hora"
 }
