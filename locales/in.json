@@ -455,5 +455,8 @@
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} item telah berhasil diimpor",
     "preferences.scan_install_locations.import_items": "Memasukan {{numItems}} item",
     "preferences.scan_install_locations.title": "Memindai...",
-    "browser.disabled": "Halaman web itch dinonaktifkan"
+    "browser.disabled": "Halaman web itch dinonaktifkan",
+    "login.action.retry_setup": "Coba ulang pengaturan",
+    "prereq.status.pending": "Memuat…",
+    "preferences.scan_install_locations.message": "Hal-hal berikut dapat diimpor:"
 }
