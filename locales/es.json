@@ -602,5 +602,6 @@
     "duration.precise.minutes_only": "{{minutes}} minutos",
     "duration.precise.seconds_only": "{{seconds}} segundos",
     "prompt.uninstall.title": "Confirmar desinstalación",
-    "preferences.security.sandbox.save_warning": "Cambiar la configuración del entorno de prueba puede afectar el acceso a los archivos de partidas guardadas existentes."
+    "preferences.security.sandbox.save_warning": "Cambiar la configuración del entorno de prueba puede afectar el acceso a los archivos de partidas guardadas existentes.",
+    "plan_install.no_available_downloads": "No se encontraron descargas compatibles"
 }
