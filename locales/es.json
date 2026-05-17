@@ -608,5 +608,8 @@
     "browser.forward": "Continuar",
     "browser.reload": "Actualizar la página",
     "browser.more_menu": "Ver más opciones",
-    "game.manage": "Gestionar el juego"
+    "game.manage": "Gestionar el juego",
+    "preferences.security.sandbox.type.label": "Tipo de entorno de prueba",
+    "preferences.security.sandbox.type.auto": "Auto",
+    "preferences.security.sandbox.no_network.title": "Desactivar el acceso a la red en el entorno de prueba"
 }
