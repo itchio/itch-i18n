@@ -460,5 +460,7 @@
     "prereq.status.pending": "Memuat…",
     "preferences.scan_install_locations.message": "Hal-hal berikut dapat diimpor:",
     "prompt.confirm_quit.title": "Apakah Anda yakin ingin keluar?",
-    "prompt.action.quit_and_close_all": "Keluar dan tutup semua"
+    "prompt.action.quit_and_close_all": "Keluar dan tutup semua",
+    "prompt.confirm_quit.message": "Semua game dan aplikasi yang berjalan akan ditutup.",
+    "prompt.action.back": "Kembali"
 }
