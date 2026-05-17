@@ -593,5 +593,13 @@
     "prompt.sla.message": "Para usar este programa debe aceptar las condiciones del acuerdo de licencia de software:",
     "filter_by.games.classification.physical_game": "Juegos Físicos",
     "duration.precise.hour_minute": "1 hora 1 minuto",
-    "duration.precise.hour_only": "1 hora"
+    "duration.precise.hour_only": "1 hora",
+    "duration.precise.hour_minutes": "1 hora {{minutes}} minutos",
+    "duration.precise.hours_minute": "{{hours}} horas 1 minuto",
+    "duration.precise.hours_minutes": "{{hours}} horas {{minutes}} minutos",
+    "duration.precise.hours_only": "{{hours}} horas",
+    "duration.precise.minute_only": "1 minuto",
+    "duration.precise.minutes_only": "{{minutes}} minutos",
+    "duration.precise.seconds_only": "{{seconds}} segundos",
+    "prompt.uninstall.title": "Confirmar desinstalación"
 }
