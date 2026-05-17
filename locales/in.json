@@ -455,5 +455,5 @@
     "preferences.scan_install_locations.items_imported": "{{numImportedItems}} item telah berhasil diimpor",
     "preferences.scan_install_locations.import_items": "Memasukan {{numItems}} item",
     "preferences.scan_install_locations.title": "Memindai...",
-    "browser.disabled": "Web browser itch dinonaktifkan"
+    "browser.disabled": "Halaman web itch dinonaktifkan"
 }
