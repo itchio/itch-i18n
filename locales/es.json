@@ -601,5 +601,6 @@
     "duration.precise.minute_only": "1 minuto",
     "duration.precise.minutes_only": "{{minutes}} minutos",
     "duration.precise.seconds_only": "{{seconds}} segundos",
-    "prompt.uninstall.title": "Confirmar desinstalación"
+    "prompt.uninstall.title": "Confirmar desinstalación",
+    "preferences.security.sandbox.save_warning": "Cambiar la configuración del entorno de prueba puede afectar el acceso a los archivos de partidas guardadas existentes."
 }
