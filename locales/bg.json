@@ -697,12 +697,17 @@
     "upload.preview.first_build": "Първа компилация на този канал",
     "upload.user_version": "Версия (незадължително):",
     "upload.hidden_on_creation": "Отбелязване на новия канал като скрит",
-    "upload.pick_source_hint": "Пуснете тук папка или файл zip, или разгледайте файловете си",
+    "upload.pick_source_hint": "Пуснете тук папка или файл .zip",
     "upload.push": "Изпращане на компилация",
     "upload.push_without_preview": "Изпращане без преглед",
     "upload.preview": "Предварителен преглед",
     "upload.cancel": "Отказ",
     "upload.preview.header": "Преглед",
     "upload.preview.placeholder": "Направете предварителен преглед преди изпращането, за да видите какво ще се промени.",
-    "upload.preview.running": "Преглеждане на променете…"
+    "upload.preview.running": "Преглеждане на променете…",
+    "upload.size.patch_optimized_hint": "Оптимизирана кръпка",
+    "upload.file_type.patch_optimized": "Оптимизирана кръпка",
+    "upload.file_type.patch_optimized_hint": "Оптимизирана версия на кръпката, която се създава асинхронно след публикуването на компилацията.",
+    "upload.select_folder": "Изберете папка",
+    "upload.select_zip": "Изберете файл .zip"
 }
