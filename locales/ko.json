@@ -648,5 +648,10 @@
     "upload.file_type.archive": "보관",
     "upload.file_type.archive_hint": "빌드 (.zip)의 전체 아카이브입니다.",
     "upload.file_type.patch": "패치",
-    "upload.file_type.patch_hint": "Wharf patch (.pwr) — 이전 빌드에서 점진적으로 업데이트를 진행할 때에"
+    "upload.file_type.patch_hint": "Wharf patch (.pwr) — 이전 빌드에서 순차로 업데이트를 진행할 때에 사용됩니다.",
+    "upload.file_type.patch_optimized": "최적화된 패치",
+    "upload.file_type.patch_optimized_hint": "빌드가 게시된 후 비동기적으로 생성된 최적화된 패치 버전입니다.",
+    "upload.file_type.signature": "서명",
+    "upload.file_type.signature_hint": "Wharf 서명 (.pws) — 패치를 검증하고 적용하는 데에 사용됩니다.",
+    "upload.file_type.manifest": "매니페스트"
 }
