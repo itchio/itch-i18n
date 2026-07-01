@@ -370,7 +370,7 @@
     "download.outcome.updated": "actualizado a la última versión",
     "download.outcome.reinstalled": "reinstalado",
     "download.outcome.healed": "verificado y arreglado",
-    "game.install.could_not_launch.message": "El mensaje obtenido fué: {{errorMessage}}",
+    "game.install.could_not_launch.message": "El mensaje obtenido fue: {{errorMessage}}",
     "game.install.libraries_missing": "Algunas librerías {{arch}} requeridas no se han encontrado: {{libraries}}",
     "grid.filters.options.owned": "Adquirido",
     "grid.item.not_compatible": "No disponible en esta plataforma",
