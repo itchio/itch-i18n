@@ -628,6 +628,6 @@
     "upload.progress.phase.preparing": "Preparando",
     "upload.progress.phase.uploading": "Subiendo",
     "upload.progress.phase.finishing": "Terminando",
-    "upload.progress.read": "Leer",
+    "upload.progress.read": "Leído",
     "upload.progress.uploaded": "Subido"
 }
