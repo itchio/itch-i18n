@@ -596,5 +596,6 @@
     "duration.precise.minute_only": "1 minuto",
     "duration.precise.minutes_only": "{{minutes}} minuti",
     "duration.precise.seconds_only": "{{seconds}} secondi",
-    "bundle.item_count": "{{itemCount}} giochi"
+    "bundle.item_count": "{{itemCount}} giochi",
+    "duration.precise.hours_minute": "{{hours}} ore 1 minuto"
 }
