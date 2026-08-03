@@ -450,9 +450,8 @@
   "prompt.logout_title": "Log out",
   "prompt.manage_game.title": "Manage {{title}}",
   "prompt.manage_game.installed_uploads": "The following items are installed:",
-  "prompt.manage_game.available_uploads": "These items are also available:",
-  "prompt.manage_game.no_other_uploads":
-    "No other items are currently available.",
+  "prompt.manage_game.install_other": "Install another file",
+  "prompt.manage_game.not_installed": "This game is not installed.",
   "prompt.no_compatible_version.detail":
     "Perhaps this {{classification}} isn't compatible with it yet?",
   "prompt.no_compatible_version.message":
@@ -765,12 +764,16 @@
   "sort_by.collections.title": "Title",
   "sort_by.collections.updated_at": "Updated",
 
+  "filter_by.games.classification.all": "All content types",
   "filter_by.games.classification.games": "Games",
   "filter_by.games.classification.tools": "Tools",
   "filter_by.games.classification.assets": "Game assets",
   "filter_by.games.classification.comics": "Comics",
   "filter_by.games.classification.books": "Books",
   "filter_by.games.classification.physical_game": "Physical Games",
+  "filter_by.games.classification.soundtracks": "Soundtracks",
+  "filter_by.games.classification.game_mods": "Game Mods",
+  "filter_by.games.classification.other": "Other",
 
   "filter_by.games.status.installed": "Installed",
 
@@ -848,6 +851,18 @@
   "plan_install.disk_space_available": "Disk space available",
 
   "plan_install.no_available_downloads": "No compatible downloads were found",
+
+  "plan_install.no_compatible_downloads":
+    "None of this game's downloads are marked as compatible with {{platform}}.",
+  "plan_install.show_all_downloads": "Show all downloads",
+  "plan_install.other_downloads": "Other downloads",
+  "plan_install.install_anyway": "Install anyway",
+  "plan_install.untagged_warning":
+    "{{title}} isn't tagged for any platform. It might still work on {{platform}}.",
+  "plan_install.incompatible_warning":
+    "{{title}} is for {{uploadPlatforms}} and may not run on {{platform}}. It could fail to launch after installing.",
+  "plan_install.system_incompatible_warning":
+    "{{title}} may not be compatible with this system. It could fail to launch after installing.",
 
   "empty_state.nothing_to_see_here": "Nothing to see here",
 
