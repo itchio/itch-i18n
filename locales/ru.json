@@ -266,7 +266,7 @@
     "action.name.forums": "Форумы",
     "game.install.could_not_launch.detail": "Отправление отчёта об ошибке поможет нам её исправить!",
     "grid.criterion.only_compatible": "Только совместимые",
-    "grid.hidden_count": "+ {count} проектов отфильтровано",
+    "grid.hidden_count": "+ {count, plural, one{# проект скрыт} few{# проекта скрыто} other{# проектов скрыто}} фильтрами",
     "grid.criterion.filter": "Фильтр…",
     "grid.item.prioritize_download": "Повысить приоритет",
     "grid.item.downloads_paused": "Приостановленные скачивания",
@@ -732,5 +732,18 @@
     "filter_by.games.platform.windows": "Windows",
     "filter_by.games.platform.osx": "macOS",
     "filter_by.games.platform.linux": "Linux",
-    "filter_by.games.platform.web": "Web"
+    "filter_by.games.platform.web": "Web",
+    "prompt.manage_game.install_other": "Установить другой файл",
+    "prompt.manage_game.not_installed": "Эта игра не установлена.",
+    "filter_by.games.classification.all": "Все типы контента",
+    "filter_by.games.classification.soundtracks": "Саундтреки",
+    "filter_by.games.classification.game_mods": "Игровые моды",
+    "filter_by.games.classification.other": "Другое",
+    "plan_install.no_compatible_downloads": "Файлы этой игры не совместимы с {platform}.",
+    "plan_install.show_all_downloads": "Показать все файлы",
+    "plan_install.other_downloads": "Другие файлы",
+    "plan_install.install_anyway": "Установить всё равно",
+    "plan_install.untagged_warning": "{title} не отмечен как совместимый с какой-либо платформой. Возможно, он всё же может работать на {platform}.",
+    "plan_install.incompatible_warning": "{title} - для {uploadPlatforms}, и возможно не будет работать на {platform} после установки.",
+    "plan_install.system_incompatible_warning": "{title} возможно не совместимо с данной системой, и не будет работать после установки."
 }
