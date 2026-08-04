@@ -232,7 +232,6 @@
     "duration.hours": "{x}時間",
     "duration.minutes": "{x}分",
     "duration.minute": "1分以内",
-    "duration.hour": "1時間",
     "download.reason.update": "最新の状態にアップデート",
     "game.install.could_not_launch.detail": "不具合を解決するためにはレポートを送信してください！",
     "menu.help.about": "itchとは",

@@ -1,6 +1,5 @@
 {
     "desktop.shortcut.comment": "Installer et jouer à des jeux itch.io facilement",
-    "duration.hour": "une heure",
     "duration.hours": "{x} heures",
     "duration.minute": "moins d'une minute",
     "duration.minutes": "{x} minutes",
@@ -586,6 +585,5 @@
     "prompt.sla.accept": "Accepter les conditions d'utilisation",
     "prompt.sla.message": "Pour utiliser ce logiciel, vous devez accepter la licence suivante :",
     "plan_install.computing_space_requirements": "Calcul de l'espace nécessaire",
-    "filter_by.games.classification.physical_game": "Jeux physiques",
-    "duration.precise.hour_minute": "1 heure 1 minute"
+    "filter_by.games.classification.physical_game": "Jeux physiques"
 }

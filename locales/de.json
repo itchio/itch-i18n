@@ -162,7 +162,6 @@
     "login.remembered_session.last_connected": "Zuletzt verbunden",
     "prompt.deb_policy.detail": "Itch kann nur portable Linux-Anwendungen installieren.",
     "prompt.deb_policy.title": "APT-Pakete werden nicht unterstützt",
-    "duration.hour": "eine Stunde",
     "new_tab.titles.browser_placeholder": "Beliebige Webadresse eingeben",
     "usage_stats.description.soundtrack": "Ein Soundtrack",
     "menu.view.downloads": "Downloads",
