@@ -732,5 +732,18 @@
     "filter_by.games.platform.windows": "Уиндоус",
     "filter_by.games.platform.osx": "МакОС",
     "filter_by.games.platform.linux": "Линукс",
-    "filter_by.games.platform.web": "Уеб"
+    "filter_by.games.platform.web": "Уеб",
+    "prompt.manage_game.install_other": "Инсталиране на друг файл",
+    "prompt.manage_game.not_installed": "Тази игра не е инсталирана.",
+    "filter_by.games.classification.all": "Всички видове съдържание",
+    "filter_by.games.classification.soundtracks": "Саундтракове",
+    "filter_by.games.classification.game_mods": "Модификации за игри",
+    "filter_by.games.classification.other": "Други",
+    "plan_install.no_compatible_downloads": "Нито една от възможностите за сваляне на тази игра не е отбелязана като съвместима с {platform}.",
+    "plan_install.show_all_downloads": "Показване на всички файлове за сваляне",
+    "plan_install.other_downloads": "Други файлове за сваляне",
+    "plan_install.install_anyway": "Инсталиране въпреки това",
+    "plan_install.untagged_warning": "{title} не е отбелязано като подходящо за определена система. Възможно е все пак да работи и на {platform}.",
+    "plan_install.incompatible_warning": "{title} е за {uploadPlatforms} и може да не работи под {platform}. Възможно е след инсталирането да не може да се пусне.",
+    "plan_install.system_incompatible_warning": "{title} може да не е съвместимо с тази система. Възможно е след инсталирането да не може да се пусне."
 }
