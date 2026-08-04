@@ -295,7 +295,7 @@
     "download.ongoing.update": "Se actualizează {title}…",
     "download.ongoing.reinstall": "Se reinstalează {title}…",
     "download.ongoing.revert": "Se comută {title} la o altă versiune…",
-    "download.ongoing.heal": "Se repară {titlu}...",
+    "download.ongoing.heal": "Se repară {titlu}…",
     "game.install.could_not_launch.missing_jre": "Are nevoie de Java, care nu a fost găsit pe sistemul tău.",
     "download.outcome.installed": "instalat",
     "download.outcome.updated": "actualizat la ultima versiune",
