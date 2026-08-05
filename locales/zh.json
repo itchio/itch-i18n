@@ -590,5 +590,7 @@
     "duration.precise.hours_only": "{hours} 小时",
     "duration.precise.minutes_only": "{minutes} 分钟",
     "duration.precise.seconds_only": "{seconds} 秒",
-    "notification.push_processing": "{title}：已向 {channel} 推送，服务器正在处理构建版本"
+    "notification.push_processing": "{title}：已向 {channel} 推送，服务器正在处理构建版本",
+    "bundle.item_count": "{{itemCount}} 款游戏",
+    "bundle.info.acquired": "已拥有"
 }
