@@ -590,5 +590,6 @@
     "duration.precise.minutes_only": "{minutes} minuti",
     "duration.precise.seconds_only": "{seconds} secondi",
     "bundle.item_count": "{itemCount} giochi",
-    "bundle.info.acquired": "Acquisito"
+    "bundle.info.acquired": "Acquisito",
+    "preferences.security.sandbox.type.auto": "Auto"
 }
