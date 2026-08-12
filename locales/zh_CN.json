@@ -7,5 +7,8 @@
     "action.name.manual": "用户手册",
     "grid.item.buy_now": "立即购买",
     "action.name.play": "立即游玩",
-    "grid.item.downloading": "正在下载…"
+    "grid.item.downloading": "正在下载…",
+    "grid.item.launch": "启动",
+    "grid.item.probe": "检查故障原因",
+    "grid.item.purchase_or_donate": "购买或捐赠物品"
 }
