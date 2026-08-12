@@ -6,5 +6,6 @@
     "grid.item.uninstall": "卸载",
     "action.name.manual": "用户手册",
     "grid.item.buy_now": "立即购买",
-    "action.name.play": "立即游玩"
+    "action.name.play": "立即游玩",
+    "grid.item.downloading": "正在下载…"
 }
