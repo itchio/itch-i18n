@@ -283,7 +283,7 @@
     "sandbox.setup.title": "Configuració de l’entorn d’aïllament d’itch",
     "sandbox.setup.proceed": "Continua",
     "sandbox.setup.windows.message": "Per a poder executar jocs a l’entorn d’aïllament d’itch, la primera vegada cal executar un procediment de configuració com a Administrador.",
-    "sandbox.setup.windows.detail": "En fer clic a ’Continua’, és possible que aparegui una petició de permisos demanant-vos l’aprovació. Es crearà un compte d’usuari anomenat `itch-player` per a aïllar els vostres jocs de la resta del sistema.",
+    "sandbox.setup.windows.detail": "En fer clic a ’Continua’, és possible que aparegui una petició de permisos demanant-vos l’aprovació. Es crearà un compte d’usuari anomenat <code>itch-player</code> per a aïllar els vostres jocs de la resta del sistema.",
     "sandbox.setup.linux.message": "Per a poder executar jocs a l’entorn d’aïllament d’itch, cal executar un script de configuració com a root.",
     "web.context_menu.cut": "Retalla",
     "sandbox.setup.linux.detail": "En fer clic a ’Continua’, apareixerà una sol·licitud de contrasenya. Això només és necessari quan s’instal·la per primera vegada l’entorn d’aïllament o quan s’actualitza, i la vostra contrasenya no es recordarà.",
