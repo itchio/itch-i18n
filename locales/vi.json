@@ -1,7 +1,7 @@
 {
     "grid.item.downloading": "Đang tải...",
     "grid.item.install": "Cài đặt",
-    "grid.item.installing": "Đang cài đặt",
+    "grid.item.installing": "Đang cài đặt…",
     "grid.item.launch": "Khởi chạy",
     "grid.item.probe": "Kiểm tra nguyên nhân lỗi",
     "action.name.forums": "Diễn đàn",
@@ -108,5 +108,6 @@
     "grid.item.download_java": "Tải Java",
     "table.column.published": "Được phát hành",
     "download.reason.revert": "để đổi sang phiên bản khác",
-    "grid.criterion.filter_by": "Lọc theo: "
+    "grid.criterion.filter_by": "Lọc theo: ",
+    "grid.item.advanced": "Cài đặt nâng cao..."
 }
