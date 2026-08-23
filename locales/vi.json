@@ -106,5 +106,6 @@
     "docs.how_to_help": "Tôi có thể giúp gì cho bạn?",
     "game.install.no_html_index_found": "Không có tệp HTML nào được tìm thấy",
     "grid.item.download_java": "Tải Java",
-    "table.column.published": "Được phát hành"
+    "table.column.published": "Được phát hành",
+    "download.reason.revert": "để đổi sang phiên bản khác"
 }
