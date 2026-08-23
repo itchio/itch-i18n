@@ -101,5 +101,10 @@
     "grid.item.open_debug_log": "Xem nhật kí hệ thống...",
     "prompt.logout_title": "Đăng xuất",
     "grid.item.buy_now": "Mua ngay",
-    "docs.learn_more": "Tìm hiểu thêm"
+    "docs.learn_more": "Tìm hiểu thêm",
+    "collection.summary": "Bộ sưu tập gồm {{itemCount}} vật phẩm",
+    "docs.how_to_help": "Tôi có thể giúp gì cho bạn?",
+    "game.install.no_html_index_found": "Không có tệp HTML nào được tìm thấy",
+    "grid.item.download_java": "Tải Java",
+    "table.column.published": "Được phát hành"
 }
