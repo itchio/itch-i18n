@@ -527,5 +527,15 @@
     "plan_install.install_anyway": "Установить всё равно",
     "plan_install.untagged_warning": "{title} не отмечен как совместимый с какой-либо платформой. Возможно, он всё же может работать на {platform}.",
     "plan_install.incompatible_warning": "{title} - для {uploadPlatforms}, и возможно не будет работать на {platform} после установки.",
-    "plan_install.system_incompatible_warning": "{title} возможно не совместимо с данной системой, и не будет работать после установки."
+    "plan_install.system_incompatible_warning": "{title} возможно не совместимо с данной системой, и не будет работать после установки.",
+    "game.install.folder_disappeared.message": "Папка, где <strong>{title}</strong> была установлена, больше не существует.",
+    "game.install.folder_disappeared.detail": "Это означает, что мы не можем её открыть.",
+    "login.captcha_unsupported.title": "Требуется капча",
+    "login.captcha_unsupported.message": "itch.io запрашивает прохождение капчи для входа, и приложение это не поддерживает.",
+    "login.captcha_unsupported.detail": "Пожалуйста, используйте кнопку <strong>Вход через itch.io</strong> чтобы войти, используя браузер.",
+    "pick_update_upload.buttons.select_update": "Выберите обновление...",
+    "sidebar.duplicate_tab": "Дублировать вкладку",
+    "sidebar.close_tab": "Закрыть вкладку",
+    "sidebar.close_other_tabs": "Закрыть другие вкладки",
+    "sidebar.close_tabs_below": "Закрыть вкладки ниже"
 }
