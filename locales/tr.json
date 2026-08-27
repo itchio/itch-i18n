@@ -181,7 +181,7 @@
     "upload.preview.files_to_upload": "{count} dosya yüklenecek ({size}).",
     "game.install.could_not_launch.message": "Bu hatayı aldık: {errorMessage}",
     "preferences.scan_install_locations.items_imported": "{numImportedItems} tane öğe başarıyla içe aktarıldı",
-    "preferences.install_location.free_of_total": "{totalSize} kadar alanın {totalSize} kadarı boş",
+    "preferences.install_location.free_of_total": "{totalSize} kadar alanın {freeSize} kadarı boş",
     "new_tab.devlogs": "Geliştirici kayıtları",
     "login.two_factor.learn_more": "İki adımlı kimlik doğrulama hakkında bilgi edinin",
     "login.two_factor.enter_code": "Devam etmek için lütfen doğrulama uygulamanızda gösterilen kodu girin.",

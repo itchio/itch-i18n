@@ -207,7 +207,7 @@
     "prompt.clear_browsing_data.category.cookies": "Kukis",
     "prompt.clear_browsing_data.cookies_info": "Ini akan mengeluarkan Anda dari semua website yang Anda masuki dari aplikasi itch.",
     "prompt.clear_browsing_data.notification": "Data browsing telah dihapus!",
-    "prompt.revert.title": "Kembali ke build yang diberikan",
+    "prompt.revert.title": "Kembali ke build yang diberikan untuk {title}",
     "table.column.published": "Diterbitkan",
     "web.context_menu.cut": "Potong",
     "web.context_menu.copy": "Salin",

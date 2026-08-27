@@ -93,7 +93,7 @@
     "prompt.self_update.title": "itch v{version} kan hentes",
     "prompt.self_update_ready.action.restart": "Genstart nu",
     "prompt.self_update_ready.action.snooze": "Udsæt",
-    "prompt.self_update_ready.message": "Vælg \"Genstart nu\" for at få opdateringen med det samme.\n\nHvis du ikke gør det, vil opdateringen være klar og aktiv næste gang du genstarter programmet",
+    "prompt.self_update_ready.message": "Vælg \"{restart}\" for at få opdateringen med det samme.\n\nHvis du ikke gør det, vil opdateringen være klar og aktiv næste gang du genstarter programmet",
     "prompt.uninstall.message": "Er du sikker på at du vil afinstallére {title}?",
     "prompt.uninstall.reinstall": "Gen-installér",
     "prompt.uninstall.uninstall": "Afinstallér nu",
