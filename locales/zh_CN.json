@@ -7,5 +7,6 @@
     "action.name.play": "立即游玩",
     "grid.item.downloading": "正在下载…",
     "grid.item.launch": "启动",
-    "grid.item.queued": "等待"
+    "grid.item.queued": "等待",
+    "collection.item_count": "{{itemCount}}个物品"
 }
