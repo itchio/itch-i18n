@@ -408,5 +408,6 @@
     "upload.progress.phase.uploading": "Subiendo",
     "upload.progress.phase.finishing": "Terminando",
     "upload.progress.read": "Leído",
-    "upload.progress.uploaded": "Subido"
+    "upload.progress.uploaded": "Subido",
+    "bundle.info.acquired": "Obtenidos"
 }
