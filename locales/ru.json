@@ -560,7 +560,7 @@
     "steam.dialog.summary_update": "{count, plural, one {# обновление} few {# обновления} other {# обновлений}}",
     "steam.dialog.mode_itch": "через itch",
     "steam.dialog.mode_direct": "напрямую",
-    "steam.dialog.mode_itch_hint": "Запускать через приложение itch. Нажмите, чтобы переключиться на запуск напрямую.",
+    "steam.dialog.mode_itch_hint": "Запускать через приложение itch, с работающим оверлеем Steam. Нажмите, чтобы переключиться на запуск напрямую.",
     "steam.dialog.mode_direct_hint": "Запускать игру напрямую, с работающим оверлеем Steam. Нажмите, чтобы переключиться на запуск через приложение itch.",
     "steam.dialog.mode_direct_unavailable_hint": "Прямой запуск больше не доступен. Сохраните, чтобы переключиться обратно на запуск через приложение itch.",
     "steam.dialog.not_installed": "Не установлено",
