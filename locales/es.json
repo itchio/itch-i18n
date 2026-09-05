@@ -417,5 +417,6 @@
     "upload.select_zip": "Selecciona .zip",
     "upload.preview.modified": "modificado",
     "upload.preview.deleted": "eliminado",
-    "upload.preview.same": "sin cambios"
+    "upload.preview.same": "sin cambios",
+    "upload.push_new_build": "Subir nueva compilación"
 }
