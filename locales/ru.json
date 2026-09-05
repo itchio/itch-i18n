@@ -561,7 +561,7 @@
     "steam.dialog.mode_itch": "через itch",
     "steam.dialog.mode_direct": "напрямую",
     "steam.dialog.mode_itch_hint": "Запускать через приложение itch, с работающим оверлеем Steam. Нажмите, чтобы переключиться на запуск напрямую.",
-    "steam.dialog.mode_direct_hint": "Запускать игру напрямую, с работающим оверлеем Steam. Нажмите, чтобы переключиться на запуск через приложение itch.",
+    "steam.dialog.mode_direct_hint": "Запускать игру напрямую, не используя конфигурацию itch. Нажмите, чтобы переключиться на запуск через itch.",
     "steam.dialog.mode_direct_unavailable_hint": "Прямой запуск больше не доступен. Сохраните, чтобы переключиться обратно на запуск через приложение itch.",
     "steam.dialog.not_installed": "Не установлено",
     "steam.dialog.not_installed_hint": "не установлено",
@@ -612,5 +612,7 @@
     "adopt_install.link_button": "Привязать папку",
     "adopt_install.linking_folder": "Привязываем папку...",
     "adopt_install.success": "Папка для {title} привязана",
-    "steam.dialog.details.entries": "Список"
+    "steam.dialog.details.entries": "Список",
+    "grid.item.collections": "Добавить или удалить коллекции...",
+    "steam.dialog.mode_direct_proton_hint": "Запускать Windows исполняемый файл игры через Proton (инструмент совместимости Steam), не используя конфигурацию itch. Нажмите, чтобы переключиться на запуск через itch."
 }
