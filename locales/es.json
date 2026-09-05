@@ -409,5 +409,13 @@
     "upload.progress.phase.finishing": "Terminando",
     "upload.progress.read": "Leído",
     "upload.progress.uploaded": "Subido",
-    "bundle.info.acquired": "Obtenidos"
+    "bundle.info.acquired": "Obtenidos",
+    "upload.col.version": "Versión",
+    "upload.user_version": "Versión (opcional):",
+    "upload.pick_source_hint": "Arrastra una carpeta o un .zip aquí",
+    "upload.select_folder": "Selecciona carpeta",
+    "upload.select_zip": "Selecciona .zip",
+    "upload.preview.modified": "modificado",
+    "upload.preview.deleted": "eliminado",
+    "upload.preview.same": "sin cambios"
 }
