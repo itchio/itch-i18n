@@ -418,5 +418,6 @@
     "upload.preview.modified": "modificado",
     "upload.preview.deleted": "eliminado",
     "upload.preview.same": "sin cambios",
-    "upload.push_new_build": "Subir nueva compilación"
+    "upload.push_new_build": "Subir nueva compilación",
+    "game.install.folder_disappeared.message": "La carpeta donde <strong>{title}</strong> fue instalado ya no existe."
 }
