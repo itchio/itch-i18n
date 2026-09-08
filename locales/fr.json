@@ -20,7 +20,7 @@
     "grid.item.uninstalling": "Désinstallation en cours…",
     "login.action.login": "Connexion",
     "login.action.register": "Inscription",
-    "login.action.reset_password": "Mot de passe oublié ?",
+    "login.action.reset_password": "Mot de passe oublié",
     "login.action.show_form": "Connexion via un autre compte",
     "login.action.show_saved_logins": "Comptes sauvegardés",
     "login.field.password": "Mot de passe",
@@ -379,5 +379,6 @@
     "prompt.sla.accept": "Accepter les conditions d'utilisation",
     "prompt.sla.message": "Pour utiliser ce logiciel, vous devez accepter la licence suivante :",
     "plan_install.computing_space_requirements": "Calcul de l'espace nécessaire",
-    "filter_by.games.classification.physical_game": "Jeux physiques"
+    "filter_by.games.classification.physical_game": "Jeux physiques",
+    "preferences.security.sandbox.type.auto": "Auto"
 }
