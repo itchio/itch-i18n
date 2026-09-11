@@ -387,5 +387,9 @@
     "grid.item.steam_shortcuts": "Raccourcis Steam...",
     "grid.item.collections": "Ajouter ou modifier les collections...",
     "preferences.advanced.steam_shortcuts": "Gérer les raccourcis Steam...",
-    "steam.dialog.title": "Raccourcis Steam"
+    "steam.dialog.title": "Raccourcis Steam",
+    "browser.back": "Précédent",
+    "browser.forward": "Suivant",
+    "browser.more_menu": "Plus d'options",
+    "browser.reload": "Recharger la page"
 }
