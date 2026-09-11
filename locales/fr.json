@@ -380,5 +380,12 @@
     "prompt.sla.message": "Pour utiliser ce logiciel, vous devez accepter la licence suivante :",
     "plan_install.computing_space_requirements": "Calcul de l'espace nécessaire",
     "filter_by.games.classification.physical_game": "Jeux physiques",
-    "preferences.security.sandbox.type.auto": "Auto"
+    "preferences.security.sandbox.type.auto": "Auto",
+    "bundle.info.acquired": "Acquis",
+    "game.install.folder_disappeared.message": "Le dossier où <strong>{title}</strong> as été installe n'existe plus.",
+    "game.install.folder_disappeared.detail": "Cela signifie que nous ne pouvons pas l'ouvrir.",
+    "grid.item.steam_shortcuts": "Raccourcis Steam...",
+    "grid.item.collections": "Ajouter ou modifier les collections...",
+    "preferences.advanced.steam_shortcuts": "Gérer les raccourcis Steam...",
+    "steam.dialog.title": "Raccourcis Steam"
 }
