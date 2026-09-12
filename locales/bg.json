@@ -585,7 +585,7 @@
     "steam.dialog.details.size": "Размер",
     "steam.dialog.details.modified": "Променено",
     "steam.error.not_found": "Не е намерена инсталация на Steam",
-    "steam.error.no_user": "Не може да се определи за кой потребител на Steam да се добавят преки пътища",
+    "steam.error.no_user": "На този компютър все още няма вписан акаунт за Steam. Впишете се в Steam поне веднъж, а след това отворете този прозорец отново.",
     "steam.error.no_launcher": "Стартиращата програма на Итч не може да бъде намерена, за да се насочи към нея прекият път",
     "steam.error.no_target": "Не може да бъде намерен изпълним файл, за да се насочи към него прекият път",
     "steam.error.running": "Първо затворете Steam и след това опитайте отново",
@@ -650,5 +650,17 @@
     "collection.edit.title_label": "Заглавие",
     "collection.edit.private_hint": "Скрита от всички останали.",
     "collection.edit.delete": "Изтриване",
-    "collection.edit.save_failed": "Колекцията не може да бъде запазена: {message}"
+    "collection.edit.save_failed": "Колекцията не може да бъде запазена: {message}",
+    "steam.dialog.account": "Акаунт за Steam",
+    "steam.dialog.account_unknown": "Неизвестен акаунт",
+    "collection.menu.order": "Редактиране на поръчката…",
+    "collection.order.title": "Редактиране на поръчката",
+    "collection.order.intro": "Пренаредете проектите в реда, който искате, и запазете. Можете да използвате и стрелките, докато фокусът е върху хватката за влачене.",
+    "collection.order.remove": "Премахване от колекцията",
+    "collection.order.undo": "Отмяна",
+    "collection.order.removed_notice": "{count, plural, one {# проект} other {# проекта}} ще бъдат премахнати от тази колекция при запазването.",
+    "collection.order.truncated": "Тази колекция е твърде голяма, за да бъде пренаредена напълно. Показани са само първите {count} проекта. Запазването ще остави другите както са.",
+    "collection.order.empty": "Тази колекция е празна.",
+    "collection.order.save": "Запазване на реда",
+    "collection.order.save_failed": "Редът не може да бъде запазен: {message}"
 }
