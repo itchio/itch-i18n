@@ -401,5 +401,6 @@
     "steam.dialog.details.steam": "Steam",
     "steam.dialog.details.running": "in esecuzione",
     "steam.dialog.details.not_running": "non in esecuzione",
-    "steam.dialog.details.modified": "Modificato"
+    "steam.dialog.details.modified": "Modificato",
+    "steam.dialog.details.size": "Dimensione"
 }
