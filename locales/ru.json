@@ -584,7 +584,7 @@
     "steam.dialog.details.size": "Размер",
     "steam.dialog.details.modified": "Изменено",
     "steam.error.not_found": "Steam не найден",
-    "steam.error.no_user": "Не получилось определить, какому пользователю Steam добавить ярлыки",
+    "steam.error.no_user": "Вы ещё не входили в аккаунт Steam на этом компьютере. Войдите в Steam, и попробуйте снова.",
     "steam.error.no_launcher": "Не получилось найти лаунчер itch для ярлыка",
     "steam.error.no_target": "Не получилось найти исполняемый файл для ярлыка",
     "steam.error.running": "Сначала закройте Steam, затем попробуйте ещё раз",
@@ -650,5 +650,17 @@
     "collection.edit.title_label": "Название",
     "collection.edit.private_hint": "Скрыть от всех, кроме меня.",
     "collection.edit.delete": "Удалить",
-    "collection.edit.save_failed": "Коллекция не может быть сохранена: {message}"
+    "collection.edit.save_failed": "Коллекция не может быть сохранена: {message}",
+    "steam.dialog.account": "Аккаунт Steam",
+    "steam.dialog.account_unknown": "Неизвестный аккаунт",
+    "collection.menu.order": "Изменить порядок...",
+    "collection.order.title": "Изменить порядок",
+    "collection.order.intro": "Перетащите проекты в желаемом порядке, затем сохраните. Вы также можете использовать клавиши-стрелки, когда элементы в фокусе.",
+    "collection.order.remove": "Удалить из коллекции",
+    "collection.order.undo": "Отменить",
+    "collection.order.removed_notice": "{count, plural, one {# проект} few {# проекта} other {# проектов}} будут удалены из этой коллекции, когда вы сохраните.",
+    "collection.order.truncated": "Эта коллекция слишком большая, чтобы отобразить её всю. Показаны только {count, plural, one {первый проект} few {первые # проекта} other {первые # проектов}}; остальные проекты останутся в прежнем порядке.",
+    "collection.order.empty": "Эта коллекция пуста.",
+    "collection.order.save": "Сохранить порядок",
+    "collection.order.save_failed": "Не получилось сохранить порядок: {message}"
 }
