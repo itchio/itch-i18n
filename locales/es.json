@@ -419,5 +419,21 @@
     "upload.preview.deleted": "eliminado",
     "upload.preview.same": "sin cambios",
     "upload.push_new_build": "Subir nueva compilación",
-    "game.install.folder_disappeared.message": "La carpeta donde <strong>{title}</strong> fue instalado ya no existe."
+    "game.install.folder_disappeared.message": "La carpeta donde <strong>{title}</strong> fue instalado ya no existe.",
+    "game.install.folder_disappeared.detail": "Eso significa que no podemos abrirlo.",
+    "grid.item.steam_shortcuts": "Accesos directos a Steam...",
+    "steam.dialog.title": "Accesos directos a Steam",
+    "steam.dialog.steam_running": "Cierra Steam para guardar los cambios. Las modificaciones realizadas mientras Steam esté abierto se perderán cuando Steam se cierre.",
+    "steam.dialog.add_installed": "Añadir Instalados",
+    "steam.dialog.add_installed_hint": "Seleccionar todos los juegos instalados",
+    "steam.dialog.remove_missing": "Eliminar faltantes",
+    "steam.dialog.remove_missing_hint": "Deseleccionar juegos que ya no están instalados",
+    "steam.dialog.remove_all_hint": "Deseleccionar todos los juegos",
+    "steam.dialog.empty": "No hay juegos instalados ni accesos directos de itch en Steam.",
+    "steam.dialog.in_steam": "En Steam",
+    "steam.dialog.will_add": "Será añadido",
+    "steam.dialog.will_remove": "Será Eliminado",
+    "steam.dialog.will_update": "Será actualizado",
+    "steam.dialog.summary_update": "{count} por actualizar",
+    "steam.dialog.mode_direct": "directo"
 }
