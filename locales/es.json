@@ -436,5 +436,9 @@
     "steam.dialog.will_update": "Será actualizado",
     "steam.dialog.summary_update": "{count} por actualizar",
     "steam.dialog.mode_direct": "directo",
-    "grid.item.collections": "Añadir o editar colecciones..."
+    "grid.item.collections": "Añadir o editar colecciones...",
+    "steam.dialog.intro": "Esta herramienta te permite crear entradas en Steam para los juegos que tienes instalados en la aplicación de itch. Selecciona los proyectos que quieras que aparezcan en Steam.",
+    "steam.dialog.parse_error": "No se pudo leer el archivo de atajos:",
+    "steam.dialog.list_header": "Atajos",
+    "steam.dialog.remove_all": "Eliminar todo"
 }
