@@ -410,5 +410,9 @@
     "steam.dialog.mode_direct_hint": "Startet die ausführbare Datei des Spiels direkt und umgeht dabei die Laufzeitkonfiguration von itch. Klicke hier, um es stattdessen über itch zu starten.",
     "preferences.security.sandbox.type.auto": "Automatisch",
     "preferences.security.sandbox.no_network.title": "Netzwerkzugriff in der Sandbox deaktivieren",
-    "preferences.security.sandbox.save_warning": "Änderungen der Sandbox-Einstellungen können den Zugriff auf bestehende Spielstände beeinträchtigen."
+    "preferences.security.sandbox.save_warning": "Änderungen der Sandbox-Einstellungen können den Zugriff auf bestehende Spielstände beeinträchtigen.",
+    "steam.dialog.not_installed": "Nicht installiert",
+    "steam.dialog.no_changes": "Noch keine Änderungen",
+    "steam.dialog.details.size": "Größe",
+    "steam.dialog.details.steam_root": "Steam Ordner"
 }
