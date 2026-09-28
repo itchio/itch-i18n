@@ -379,5 +379,6 @@
     "plan_install.disk_space_available": "Speicherplatz verfügbar",
     "empty_state.nothing_to_see_here": "Hier gibt es nichts zu sehen",
     "butlerd.codes.5000": "Es wurde nichts gefunden, was gestartet werden kann.",
-    "filter_by.games.classification.physical_game": "Physische Spiele"
+    "filter_by.games.classification.physical_game": "Physische Spiele",
+    "bundle.info.acquired": "Erworben"
 }
