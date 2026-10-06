@@ -12,3 +12,10 @@ Strings use [ICU MessageFormat](https://unicode-org.github.io/icu/userguide/form
   with the plural categories for your language.
 - A literal apostrophe directly before `{` or `}` must be doubled: `''{title}'`
   displays as `'Title'`.
+
+## Checking strings
+
+`npm install && npm run check` validates every locale file: each string has to
+parse as ICU MessageFormat, use only placeholders that appear in the English
+string, and use only the `<strong>`, `<em>` and `<code>` tags. The same check
+runs in GitHub Actions on every push.

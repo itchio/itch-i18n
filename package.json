@@ -1,0 +1,12 @@
+{
+  "name": "itch-i18n",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node check.mjs"
+  },
+  "devDependencies": {
+    "@formatjs/icu-messageformat-parser": "3.5.17",
+    "intl-messageformat-parser": "6.3.1"
+  }
+}
