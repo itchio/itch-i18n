@@ -644,7 +644,7 @@
     "collection.edit.title": "모음집 수정",
     "collection.edit.new_title": "새로운 모음집",
     "collection.edit.title_label": "제목",
-    "collection.dialog.create": "모음집 “{title}”을 생성",
+    "collection.dialog.create": "모음집 “{title}”을(를) 생성",
     "collection.dialog.new": "새로운 모음집",
     "collection.dialog.save_failed": "일부 변경 사항을 저장할 수 없습니다: {message}",
     "collection.edit.delete": "삭제",
@@ -652,7 +652,7 @@
     "collection.order.save": "순서 저장",
     "collection.order.save_failed": "순서를 저장할 수 없습니다: {message}",
     "new_tab.jams": "잼",
-    "notification.download_verified": "{title}이 검증되었습니다. 복구가 필요하지 않습니다!",
+    "notification.download_verified": "{title}이(가) 검증되었습니다. 복구가 필요하지 않습니다!",
     "prompt.delete_collection.message": "정말로 {title}을(를) 삭제하시겠어요? 콘텐츠는 영향을 받지 않습니다.",
     "prompt.self_update_ready.message_elevated": "이 앱은 사용자 계정으로 쓰기 권한이 없는 폴더에 설치되어 있습니다. 업데이트를 다운로드하고 적용하려면 \"{restart}\"을(를) 선택해주세요. Windows에서 관리자 승인을 요청할 것입니다.",
     "collection.menu.edit": "모음집 수정...",
@@ -661,6 +661,6 @@
     "collection.dialog.summary_remove": "{count, plural, one {#개 제거} other {#개 제거}}",
     "collection.dialog.summary_create": "{count, plural, one {새 모음집 1개} other {새 모음집 #개}}",
     "collection.order.intro": "원하는 순서로 프로젝트를 드래그한 다음 저장하세요. 드래그 핸들에 초점이 맞춰진 상태에서 화살표 키를 사용할 수도 있습니다.",
-    "collection.order.removed_notice": "저장하면 {count, plural, one {#개 프로젝트} other {#개 프로젝트}}가 이 컬렉션에서 삭제됩니다.",
+    "collection.order.removed_notice": "저장하면 {count, plural, one {#개 프로젝트} other {#개 프로젝트}}가 이 모음집에서 삭제됩니다.",
     "collection.order.truncated": "이 모음집은 전체 순서를 다시 정하기에는 규모가 너무 큽니다. 처음 {count}개의 프로젝트만 표시되며, 저장 시 나머지 프로젝트는 현재 위치가 유지됩니다."
 }

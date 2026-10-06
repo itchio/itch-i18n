@@ -384,14 +384,14 @@
     "game.install.folder_disappeared.message": "Der Ordner, in dem <strong>{title}</strong> installiert wurde, existiert nicht mehr.",
     "game.install.folder_disappeared.detail": "Das bedeutet, dass wir es nicht öffnen können.",
     "grid.item.steam_shortcuts": "Steam-Verknüpfungen...",
-    "grid.item.collections": "Kollektionen hinzufügen oder bearbeiten...",
+    "grid.item.collections": "Sammlungen hinzufügen oder bearbeiten...",
     "preferences.advanced.steam_shortcuts": "Steam-Verknüpfungen verwalten...",
     "steam.dialog.title": "Steam-Verknüpfungen",
     "steam.dialog.intro": "Dieses Tool erlaubt dir, in Steam Einträge für Spiele zu erstellen, die du über die itch-App installiert hast. Wähle die Projekte aus, die in Steam angezeigt werden sollen.",
-    "steam.dialog.steam_running": "Beende Steam, um die Änderungen zu speichern. Vorgenommene Änderungen während Steam läuft gehen beim Beenden verloren.",
+    "steam.dialog.steam_running": "Beende Steam, um die Änderungen zu speichern. Änderungen, die vorgenommen werden, während Steam läuft, gehen beim Beenden verloren.",
     "steam.dialog.parse_error": "Diese Verknüpfungsdatei konnte nicht gelesen werden:",
     "steam.dialog.list_header": "Verknüpfungen",
-    "steam.dialog.add_installed": "Installation hinzufügen",
+    "steam.dialog.add_installed": "Installierte hinzufügen",
     "steam.dialog.add_installed_hint": "Wählt alle installierten Spiele aus",
     "steam.dialog.remove_missing": "Fehlende entfernen",
     "steam.dialog.remove_missing_hint": "Hebt die Auswahl von Spielen auf, die nicht mehr installiert sind",
@@ -401,7 +401,7 @@
     "steam.dialog.in_steam": "Auf Steam",
     "steam.dialog.will_add": "Wird hinzugefügt",
     "steam.dialog.will_remove": "Wird entfernt",
-    "steam.dialog.direct_warning": "Direkte Verknüpfungen starten die ausführbare Datei des Spiels unverändert und überspringt dabei die Laufzeitkonfiguration sowie das Sandboxing der itch-App.",
+    "steam.dialog.direct_warning": "Direkte Verknüpfungen starten die ausführbare Datei des Spiels unverändert und überspringen dabei die Laufzeitkonfiguration sowie das Sandboxing der itch-App.",
     "steam.dialog.will_update": "Wird aktualisiert",
     "steam.dialog.summary_update": "{count} ausstehende Aktualisierungen",
     "steam.dialog.mode_itch": "über itch",
@@ -414,5 +414,5 @@
     "steam.dialog.not_installed": "Nicht installiert",
     "steam.dialog.no_changes": "Noch keine Änderungen",
     "steam.dialog.details.size": "Größe",
-    "steam.dialog.details.steam_root": "Steam Ordner"
+    "steam.dialog.details.steam_root": "Steam-Ordner"
 }
