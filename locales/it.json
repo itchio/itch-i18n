@@ -402,5 +402,7 @@
     "steam.dialog.details.running": "in esecuzione",
     "steam.dialog.details.not_running": "non in esecuzione",
     "steam.dialog.details.modified": "Modificato",
-    "steam.dialog.details.size": "Dimensione"
+    "steam.dialog.details.size": "Dimensione",
+    "steam.dialog.account_unknown": "Account sconosciuto",
+    "game.install.folder_disappeared.message": "La cartella dove era installato <strong>{title}</strong> non è più esistente."
 }
