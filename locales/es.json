@@ -440,5 +440,6 @@
     "steam.dialog.intro": "Esta herramienta te permite crear entradas en Steam para los juegos que tienes instalados en la aplicación de itch. Selecciona los proyectos que quieras que aparezcan en Steam.",
     "steam.dialog.parse_error": "No se pudo leer el archivo de accesos directos:",
     "steam.dialog.list_header": "Accesos directos",
-    "steam.dialog.remove_all": "Eliminar todo"
+    "steam.dialog.remove_all": "Eliminar todo",
+    "steam.dialog.account_unknown": "Cuenta desconocida"
 }
