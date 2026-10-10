@@ -661,6 +661,5 @@
     "collection.dialog.summary_remove": "{count, plural, one {#개 제거} other {#개 제거}}",
     "collection.dialog.summary_create": "{count, plural, one {새 모음집 1개} other {새 모음집 #개}}",
     "collection.order.intro": "원하는 순서로 프로젝트를 드래그한 다음 저장하세요. 드래그 핸들에 초점이 맞춰진 상태에서 화살표 키를 사용할 수도 있습니다.",
-    "collection.order.removed_notice": "저장하면 {count, plural, one {#개 프로젝트} other {#개 프로젝트}}가 이 모음집에서 삭제됩니다.",
     "collection.order.truncated": "이 모음집은 전체 순서를 다시 정하기에는 규모가 너무 큽니다. 처음 {count}개의 프로젝트만 표시되며, 저장 시 나머지 프로젝트는 현재 위치가 유지됩니다."
 }
