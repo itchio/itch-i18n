@@ -661,5 +661,6 @@
     "collection.order.truncated": "Эта коллекция слишком большая, чтобы полностью изменить её порядок. Показаны только {count, plural, one {первый проект} few {первые # проекта} other {первые # проектов}}; остальные проекты останутся на своих местах.",
     "collection.order.empty": "Эта коллекция пуста.",
     "collection.order.save": "Сохранить порядок",
-    "collection.order.save_failed": "Не получилось сохранить порядок: {message}"
+    "collection.order.save_failed": "Не получилось сохранить порядок: {message}",
+    "upload.empty_filtered": "Нет сборок, соответствующих текущим фильтрам."
 }
