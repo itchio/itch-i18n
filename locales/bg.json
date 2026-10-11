@@ -661,5 +661,6 @@
     "collection.order.truncated": "Тази колекция е твърде голяма, за да бъде пренаредена напълно. Показани са само първите {count} проекта. Запазването ще остави другите както са.",
     "collection.order.empty": "Тази колекция е празна.",
     "collection.order.save": "Запазване на реда",
-    "collection.order.save_failed": "Редът не може да бъде запазен: {message}"
+    "collection.order.save_failed": "Редът не може да бъде запазен: {message}",
+    "upload.empty_filtered": "Няма компилации отговарящи на текущите филтри."
 }
