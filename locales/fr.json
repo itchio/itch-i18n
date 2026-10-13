@@ -277,7 +277,7 @@
     "preferences.install_location.free_of_total": "{freeSize} disponible sur {totalSize}",
     "preferences.scan_install_locations": "Chercher des jeux déjà installés",
     "preferences.scan_install_locations.looking_for_games": "En recherche de jeux...",
-    "preferences.scan_install_locations.message": "Les éléments suivants ne peuvent être importé :",
+    "preferences.scan_install_locations.message": "Les éléments suivants peuvent être importés :",
     "preferences.scan_install_locations.no_items_found": "Aucun élément supplémentaire n'a été trouvé",
     "preferences.scan_install_locations.title": "En recherche...",
     "preferences.behavior.enable_tabs": "Activer les onglets",
