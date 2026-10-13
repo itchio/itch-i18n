@@ -379,7 +379,7 @@
     "prompt.sla.accept": "Accepter les conditions d'utilisation",
     "prompt.sla.message": "Pour utiliser ce logiciel, vous devez accepter la licence suivante :",
     "plan_install.computing_space_requirements": "Calcul de l'espace nécessaire",
-    "filter_by.games.classification.physical_game": "Jeux physiques",
+    "filter_by.games.classification.physical_game": "Jeu de plateau",
     "preferences.security.sandbox.type.auto": "Auto",
     "bundle.info.acquired": "Acquis",
     "game.install.folder_disappeared.message": "Le dossier où <strong>{title}</strong> a été installé n'existe plus.",
