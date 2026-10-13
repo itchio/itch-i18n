@@ -243,8 +243,8 @@
     "status.downloads.find_games_button": "Téléchargez des trucs !",
     "duration.seconds": "{x, plural, one {# seconde} many {# secondes} other {# secondes}}",
     "bundle.item_count": "{itemCount, plural, one {# jeu} many {# jeux} other {# jeux}}",
-    "duration.precise.hours_minutes": "{hours, plural, one {# heure} many {# heures} other {# heures}} {minutes, plural, one {# minute} many {# minutes} other {# minutes}}",
-    "duration.precise.hours_only": "{hours, plural, one {# heure} many {# heures} other {# heures}}",
+    "duration.precise.hours_minutes": "{{hours}} heures {{minutes}} minutes",
+    "duration.precise.hours_only": "{{hours}} heures",
     "duration.precise.minutes_only": "{minutes, plural, one {# minute} many {# minutes} other {# minutes}}",
     "duration.precise.seconds_only": "{seconds, plural, one {# seconde} many {# secondes} other {# secondes}}",
     "upload.preview.files_to_upload": "{count, plural, one {# fichier sera téléversé} many {# fichiers seront téléversés} other {# fichiers seront téléversés}} ({size}).",
@@ -433,5 +433,8 @@
     "prompt.delete_collection.message": "Êtes vous sûr de vouloir supprimer {title}? Son contenu ne seras pas affecté.",
     "prompt.delete_collection.confirm": "Supprimer",
     "prompt.delete_collection.understand": "Je comprend que cet action est irréversible.",
-    "game.manage": "Gestion du jeu"
+    "game.manage": "Gestion du jeu",
+    "prompt.uninstall.title": "Confirmer la désinstallation",
+    "plan_install.no_available_downloads": "Aucun téléchargement compatible n'a été trouvé",
+    "browser.stop": "Arrêter le chargement"
 }
