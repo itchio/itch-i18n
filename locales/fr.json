@@ -176,7 +176,7 @@
     "login.two_factor.title": "Authentification à deux-facteurs",
     "login.two_factor.as_user": "Connexion en tant que {username}",
     "login.two_factor.enter_code": "Entrez le code de vérification pour poursuivre la connexion.",
-    "login.two_factor.learn_more": "À propos de l'authentification forte",
+    "login.two_factor.learn_more": "À propos de la double authentification",
     "notification.download_reverted": "{title} maintenant à la version {version} !",
     "notification.download_healed": "{title} a été vérifié avec succès !",
     "preferences.behavior.open_at_login": "Lancer itch au démarrage de l'ordinateur",
@@ -436,5 +436,13 @@
     "game.manage": "Gestion du jeu",
     "prompt.uninstall.title": "Confirmer la désinstallation",
     "plan_install.no_available_downloads": "Aucun téléchargement compatible n'a été trouvé",
-    "browser.stop": "Arrêter le chargement"
+    "browser.stop": "Arrêter le chargement",
+    "steam.dialog.mode_itch": "via itch",
+    "plan_install.show_all_downloads": "Afficher tout les téléchargements",
+    "plan_install.other_downloads": "Autres téléchargements",
+    "plan_install.more_actions": "Plus",
+    "adopt_install.choose_folder": "Choisir un dossier...",
+    "adopt_install.open_location": "Ouvrir",
+    "adopt_install.change_folder": "Changer...",
+    "adopt_install.browse_location": "Ouvrir le dossier d'installation"
 }
