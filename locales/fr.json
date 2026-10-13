@@ -416,5 +416,22 @@
     "steam.dialog.details.running": "en cours d’exécution",
     "steam.dialog.details.size": "Taille",
     "steam.error.running": "Quittez Steam en premier, réessayez ensuite",
-    "steam.error.generic": "Erreur d’intégration Steam: {message}"
+    "steam.error.generic": "Erreur d’intégration Steam: {message}",
+    "login.captcha_unsupported.title": "Captcha requis",
+    "login.captcha_unsupported.message": "itch.io demande la complétion d'un captcha pour continuer la connexion, chose que l'application ne supporte pas.",
+    "login.captcha_unsupported.detail": "S'il vous plait, utilisez le bouton <strong>Connexion avec itch.io</strong> pour vous connecter au travers de votre navigateur à la place.",
+    "notification.download_verified": "{title} vérifié, aucune réparations requises!",
+    "notification.download_reinstalled": "{title} à été réinstallé!",
+    "notification.push_processing": "{title}: {channel} transmis, le serveur traite la construction",
+    "preferences.security.sandbox.type.label": "Type de bac à sable",
+    "preferences.security.sandbox.no_network.title": "Désactiver l’accès réseaux en mode bac à sable",
+    "preferences.security.sandbox.allow_env.label": "Noms de variables d'environnements permis (sépares par des virgules ou espaces)",
+    "preferences.security.sandbox.save_warning": "Changer les paramètres du bac à sable pourrait affecter l’accès aux sauvegardes de jeux existants.",
+    "pick_update_upload.buttons.select_update": "Sélectionner la version...",
+    "prompt.action.save": "Sauvegarder",
+    "prompt.delete_collection.title": "Supprimer la collection",
+    "prompt.delete_collection.message": "Êtes vous sûr de vouloir supprimer {title}? Son contenu ne seras pas affecté.",
+    "prompt.delete_collection.confirm": "Supprimer",
+    "prompt.delete_collection.understand": "Je comprend que cet action est irréversible.",
+    "game.manage": "Gestion du jeu"
 }
