@@ -165,7 +165,7 @@
     "preferences.behavior.close_to_tray": "Maintenir l'application en tâche de fond à la fermeture de la fenêtre",
     "download.started": "Démarré",
     "download.reason.install": "pour installer",
-    "download.reason.update": "pour mettre à jour vers la dernière version",
+    "download.reason.update": "pour mettre à jour à la dernière version",
     "preferences.proxy_server_address": "Proxy HTTPS",
     "preferences.proxy_server_source.direct": "Direct (sans proxy)",
     "notification.download_installed": "{title} est installé !",
