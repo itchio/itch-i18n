@@ -163,7 +163,7 @@
     "outlinks.manage_collections": "Gérer mes collections",
     "preferences.behavior": "Comportement",
     "preferences.behavior.close_to_tray": "Maintenir l'application en tâche de fond à la fermeture de la fenêtre",
-    "download.started": "Commencé",
+    "download.started": "Démarré",
     "download.reason.install": "pour installer",
     "download.reason.update": "pour mettre à jour vers la dernière version",
     "preferences.proxy_server_address": "Proxy HTTPS",
