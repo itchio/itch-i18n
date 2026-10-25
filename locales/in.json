@@ -274,5 +274,6 @@
     "prompt.action.quit_and_close_all": "Keluar dan tutup semua",
     "prompt.confirm_quit.message": "Semua game dan aplikasi yang berjalan akan ditutup.",
     "prompt.action.back": "Kembali",
-    "bundle.info.acquired": "Didapatkan"
+    "bundle.info.acquired": "Didapatkan",
+    "grid.item.queueing": "Mengantri…"
 }
