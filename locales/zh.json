@@ -400,5 +400,7 @@
     "steam.dialog.details.none": "无",
     "steam.dialog.details.steam": "Steam",
     "prompt.manage_game.install_other": "安装其他文件",
-    "manage_cave.launch_settings.use_default": "默认"
+    "manage_cave.launch_settings.use_default": "默认",
+    "manage_cave.launch_settings.sandbox.enabled": "已启用",
+    "manage_cave.launch_settings.network.allowed": "允许"
 }
