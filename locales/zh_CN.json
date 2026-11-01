@@ -11,5 +11,6 @@
     "collection.item_count": "{itemCount}个物品",
     "action.name.forums": "论坛",
     "grid.item.installing": "正在安装…",
-    "grid.item.uninstalling": "正在卸载中…"
+    "grid.item.uninstalling": "正在卸载中…",
+    "grid.item.running": "正在运行…"
 }
