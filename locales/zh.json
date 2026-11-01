@@ -398,5 +398,7 @@
     "steam.dialog.save": "保存",
     "steam.dialog.saving": "保存中…",
     "steam.dialog.details.none": "无",
-    "steam.dialog.details.steam": "Steam"
+    "steam.dialog.details.steam": "Steam",
+    "prompt.manage_game.install_other": "安装其他文件",
+    "manage_cave.launch_settings.use_default": "默认"
 }
