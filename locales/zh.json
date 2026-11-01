@@ -389,5 +389,14 @@
     "preferences.security.sandbox.save_warning": "更改沙盒设置可能会影响对现有游戏存档文件的访问。",
     "prompt.uninstall.title": "确认卸载",
     "manage_cave.launch_settings": "启动设置",
-    "manage_cave.launch_settings.sandbox": "沙盒"
+    "manage_cave.launch_settings.sandbox": "沙盒",
+    "steam.dialog.account_unknown": "未知账户",
+    "steam.dialog.remove_all": "全部移除",
+    "steam.dialog.not_installed": "未安装",
+    "steam.dialog.not_installed_hint": "未安装",
+    "steam.dialog.no_changes": "暂无更改",
+    "steam.dialog.save": "保存",
+    "steam.dialog.saving": "保存中…",
+    "steam.dialog.details.none": "无",
+    "steam.dialog.details.steam": "Steam"
 }
