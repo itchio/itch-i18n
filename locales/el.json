@@ -257,5 +257,6 @@
     "prompt.show_error.generic_message": "Κάτι πήγε στραβά",
     "prompt.confirm_quit.message": "Όλα τα τρεχούμενα παιχνίδια και εφαρμογές θα κλείσουν.",
     "game.install.could_not_launch.detail": "Στέλνοντας μας μια αναφορά είναι ο καλύτερος τρόπος για να σιγουρευτούμε ότι αυτό θα διορθωθεί!",
-    "empty_state.nothing_to_see_here": "Δεν υπάρχει τίποτα να δείτε εδώ"
+    "empty_state.nothing_to_see_here": "Δεν υπάρχει τίποτα να δείτε εδώ",
+    "filter_by.games.classification.tools": "Εργαλεία"
 }
