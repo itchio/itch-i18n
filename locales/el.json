@@ -312,5 +312,9 @@
     "log.level.info": "Πληροφορίες",
     "log.level.warning": "Προειδοποίηση",
     "log.level.error": "Σφάλμα",
-    "install_locations.manage": "Διαχείριση τοποθεσιών εγκατάστασης"
+    "install_locations.manage": "Διαχείριση τοποθεσιών εγκατάστασης",
+    "butlerd.codes.3000": "Αυτός ο τίτλος είναι συσκευασμένος με τρόπο που δεν είναι συμβατός με την εφαρμογή itch.io.",
+    "sort_by.collections.updated_at": "Ενημερωμένα",
+    "log.level": "Επίπεδο",
+    "collection.info.updated": "Ενημερωμένα"
 }
