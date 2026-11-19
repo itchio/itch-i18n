@@ -403,5 +403,6 @@
     "steam.dialog.remove_missing": "Usuń brakujące",
     "steam.dialog.remove_all": "Usuń wszystko",
     "steam.dialog.remove_all_hint": "Odznacz wszystkie gry",
-    "steam.dialog.add_installed": "Dodaj zainstalowane"
+    "steam.dialog.add_installed": "Dodaj zainstalowane",
+    "steam.dialog.in_steam": "Na Steamie"
 }
