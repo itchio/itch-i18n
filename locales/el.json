@@ -267,5 +267,15 @@
     "table.column.installed": "Εγκατεστημένο",
     "table.column.powered_by": "Υποστηρίζεται από",
     "login.action.hide_password": "Απόκρυψη κωδικού πρόσβασης",
-    "preferences.behavior.enable_tabs": "Ενεργοποίηση καρτελών"
+    "preferences.behavior.enable_tabs": "Ενεργοποίηση καρτελών",
+    "pick_update_upload.buttons.skip_update": "Παράλειψη ενημέρωσης",
+    "prompt.show_error.details_for_nerds.event_log": "Ημερολόγιο συμβάντων",
+    "prompt.show_error.details_for_nerds.stack_trace": "Παρακολούθηση στοίβας",
+    "prompt.clear_browsing_data.retrieving_cache_size": "Ανάκτηση μεγέθους κρυφής μνήμης...",
+    "prompt.clear_browsing_data.category.cookies": "Μπισκότα",
+    "prompt.clear_browsing_data.cookies_info": "Αυτό θα σας αποσυνδέσει από όλους τους ιστότοπους στους οποίους έχετε συνδεθεί από την εφαρμογή itch.",
+    "prompt.forget_session.action": "Ξεχάστε τη συνεδρία",
+    "prompt.sla.title": "Συμφωνία άδειας χρήσης λογισμικού",
+    "prompt.sla.message": "Για να χρησιμοποιήσετε αυτό το λογισμικό, πρέπει να αποδεχτείτε τους όρους αυτής της συμφωνίας άδειας χρήσης:",
+    "prompt.logout_detail": "Οι λήψεις που βρίσκονται σε εξέλιξη θα διακοπούν μέχρι να συνδεθείτε ξανά."
 }
