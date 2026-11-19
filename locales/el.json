@@ -280,5 +280,7 @@
     "prompt.logout_detail": "Οι λήψεις που βρίσκονται σε εξέλιξη θα διακοπούν μέχρι να συνδεθείτε ξανά.",
     "prompt.action.back": "Πίσω",
     "prompt.sla.accept": "Αποδοχή όρων",
-    "prompt.revert.no_other_version": "Δεν υπάρχει άλλη διαθέσιμη έκδοση."
+    "prompt.revert.no_other_version": "Δεν υπάρχει άλλη διαθέσιμη έκδοση.",
+    "sidebar.explore": "Εξερεύνηση",
+    "sidebar.library": "Βιβλιοθήκη"
 }
