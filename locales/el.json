@@ -282,5 +282,7 @@
     "prompt.sla.accept": "Αποδοχή όρων",
     "prompt.revert.no_other_version": "Δεν υπάρχει άλλη διαθέσιμη έκδοση.",
     "sidebar.explore": "Εξερεύνηση",
-    "sidebar.library": "Βιβλιοθήκη"
+    "sidebar.library": "Βιβλιοθήκη",
+    "status.installing_game.cancelled": "Η εγκατάσταση για το {{title}} ακυρώθηκε!",
+    "usage_stats.description.bought_time_ago": "Αποκτήθηκε {{time_ago}}"
 }
