@@ -266,5 +266,6 @@
     "preferences.install_location.navigate": "Προβολή των περιεχομένων αυτής της τοποθεσίας",
     "table.column.installed": "Εγκατεστημένο",
     "table.column.powered_by": "Υποστηρίζεται από",
-    "login.action.hide_password": "Απόκρυψη κωδικού πρόσβασης"
+    "login.action.hide_password": "Απόκρυψη κωδικού πρόσβασης",
+    "preferences.behavior.enable_tabs": "Ενεργοποίηση καρτελών"
 }
