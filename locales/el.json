@@ -316,5 +316,10 @@
     "butlerd.codes.3000": "Αυτός ο τίτλος είναι συσκευασμένος με τρόπο που δεν είναι συμβατός με την εφαρμογή itch.io.",
     "sort_by.collections.updated_at": "Ενημερωμένα",
     "log.level": "Επίπεδο",
-    "collection.info.updated": "Ενημερωμένα"
+    "collection.info.updated": "Ενημερωμένα",
+    "send_feedback.describe_issue": "Παρακαλώ περιγράψτε τι προσπαθούσατε να κάνετε όταν προέκυψε το πρόβλημα:",
+    "send_feedback.reminders.header": "Μερικές υπενθυμίσεις:",
+    "send_feedback.reminders.we_are_humans": "Οτιδήποτε γράψετε θα διαβαστεί από ανθρώπους.",
+    "send_feedback.reminders.be_precise": "Να είστε όσο πιο ακριβείς μπορείτε. Θέλουμε να αντιμετωπίσουμε το πρόβλημα όσο κι εσείς!",
+    "send_feedback.questions.where_does_report_go": "Που πηγαίνει η αναφορά μου;"
 }
