@@ -339,5 +339,8 @@
     "plan_install.select_upload": "Εγκατάσταση",
     "plan_install.select_install_location": "Στην τοποθεσία",
     "plan_install.disk_space_required": "Απαιτούμενος χώρος στο δίσκο",
-    "plan_install.disk_space_available": "Διαθέσιμος χώρος στο δίσκο"
+    "plan_install.disk_space_available": "Διαθέσιμος χώρος στο δίσκο",
+    "send_feedback.final_thanks": "Σας ευχαριστούμε που στείλατε μια αναφορά, μας βοηθάει όλους!",
+    "send_feedback.success.view_report": "Προβολή αναφοράς",
+    "send_feedback.error.intro": "Λυπούμαστε, δεν μπορέσαμε να στείλουμε την αναφορά σας."
 }
