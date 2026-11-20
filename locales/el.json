@@ -321,5 +321,9 @@
     "send_feedback.reminders.header": "Μερικές υπενθυμίσεις:",
     "send_feedback.reminders.we_are_humans": "Οτιδήποτε γράψετε θα διαβαστεί από ανθρώπους.",
     "send_feedback.reminders.be_precise": "Να είστε όσο πιο ακριβείς μπορείτε. Θέλουμε να αντιμετωπίσουμε το πρόβλημα όσο κι εσείς!",
-    "send_feedback.questions.where_does_report_go": "Που πηγαίνει η αναφορά μου;"
+    "send_feedback.questions.where_does_report_go": "Που πηγαίνει η αναφορά μου;",
+    "send_feedback.reminders.include_reproduce_steps": "Συμπεριλάβετε βήματα για την αναπαραγωγή του προβλήματος, αν μπορείτε.",
+    "send_feedback.reminders.mention_itchio_account": "Αναφέρετε το όνομα του λογαριασμού σας στο itch.io ή/και τη σελίδα που σας δημιούργησε το πρόβλημα, αν είναι σχετικό.",
+    "send_feedback.consent.please_review": "Ελέγξτε τις παρακάτω πληροφορίες για να βεβαιωθείτε ότι αισθάνεστε άνετα με την αποστολή τους:",
+    "send_feedback.consent.include_in_report": "Συμπεριλάβετε αυτές τις πληροφορίες στην αναφορά"
 }
