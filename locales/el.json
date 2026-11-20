@@ -325,5 +325,19 @@
     "send_feedback.reminders.include_reproduce_steps": "Συμπεριλάβετε βήματα για την αναπαραγωγή του προβλήματος, αν μπορείτε.",
     "send_feedback.reminders.mention_itchio_account": "Αναφέρετε το όνομα του λογαριασμού σας στο itch.io ή/και τη σελίδα που σας δημιούργησε το πρόβλημα, αν είναι σχετικό.",
     "send_feedback.consent.please_review": "Ελέγξτε τις παρακάτω πληροφορίες για να βεβαιωθείτε ότι αισθάνεστε άνετα με την αποστολή τους:",
-    "send_feedback.consent.include_in_report": "Συμπεριλάβετε αυτές τις πληροφορίες στην αναφορά"
+    "send_feedback.consent.include_in_report": "Συμπεριλάβετε αυτές τις πληροφορίες στην αναφορά",
+    "send_feedback.send.do_send": "Αποστολή αναφοράς",
+    "send_feedback.send.sending": "Αποστολή...",
+    "send_feedback.success.intro": "Η αναφορά σας εστάλη επιτυχώς!",
+    "send_feedback.success.view_report.delete": "(Μπορείτε να την διαγράψετε από αυτήν τη σελίδα)",
+    "send_feedback.nav.previous": "Προηγούμενο",
+    "send_feedback.nav.next": "Επόμενο",
+    "send_feedback.nav.close": "Κλείσιμο",
+    "send_feedback.steps.your_message": "Το μήνυμά σας",
+    "send_feedback.steps.system_info": "Πληροφορίες συστήματος",
+    "send_feedback.steps.send": "Αποστολή αναφοράς",
+    "plan_install.select_upload": "Εγκατάσταση",
+    "plan_install.select_install_location": "Στην τοποθεσία",
+    "plan_install.disk_space_required": "Απαιτούμενος χώρος στο δίσκο",
+    "plan_install.disk_space_available": "Διαθέσιμος χώρος στο δίσκο"
 }
