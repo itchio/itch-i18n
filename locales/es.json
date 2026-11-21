@@ -445,5 +445,19 @@
     "preferences.advanced.steam_shortcuts": "Administrar accesos directos de Steam...",
     "upload.empty": "Todavía no hay compilaciones. Sube tu primera compilación para empezar.",
     "upload.expanded.build_id": "ID de la compilación",
-    "upload.expanded.by_user": "por"
+    "upload.expanded.by_user": "por",
+    "upload.expanded.files": "Archivos",
+    "upload.file_type.archive": "Archivo",
+    "upload.file_type.patch": "Parche",
+    "upload.file_type.unpacked": "Descomprimido",
+    "upload.status.processing": "Procesando",
+    "upload.status.pushing": "Subiendo",
+    "upload.status.cancelled": "Cancelado",
+    "upload.menu.view_project": "Ver página del proyecto",
+    "upload.recent_folders": "Carpetas recientes",
+    "upload.recent_folders.clear": "Vaciar carpetas recientes",
+    "upload.pick_game": "Proyecto:",
+    "upload.pick_channel": "Canal",
+    "upload.cancel": "Cancelar",
+    "upload.preview.running": "Previsualizando cambios…"
 }
