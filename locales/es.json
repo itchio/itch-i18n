@@ -442,5 +442,8 @@
     "steam.dialog.list_header": "Accesos directos",
     "steam.dialog.remove_all": "Eliminar todo",
     "steam.dialog.account_unknown": "Cuenta desconocida",
-    "preferences.advanced.steam_shortcuts": "Administrar accesos directos de Steam..."
+    "preferences.advanced.steam_shortcuts": "Administrar accesos directos de Steam...",
+    "upload.empty": "Todavía no hay compilaciones. Sube tu primera compilación para empezar.",
+    "upload.expanded.build_id": "ID de la compilación",
+    "upload.expanded.by_user": "por"
 }
