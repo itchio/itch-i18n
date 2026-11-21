@@ -441,5 +441,6 @@
     "steam.dialog.parse_error": "No se pudo leer el archivo de accesos directos:",
     "steam.dialog.list_header": "Accesos directos",
     "steam.dialog.remove_all": "Eliminar todo",
-    "steam.dialog.account_unknown": "Cuenta desconocida"
+    "steam.dialog.account_unknown": "Cuenta desconocida",
+    "preferences.advanced.steam_shortcuts": "Administrar accesos directos de Steam..."
 }
