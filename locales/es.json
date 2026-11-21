@@ -460,5 +460,7 @@
     "upload.pick_channel": "Canal",
     "upload.cancel": "Cancelar",
     "upload.preview.running": "Previsualizando cambios…",
-    "steam.dialog.account": "Cuenta de Steam"
+    "steam.dialog.account": "Cuenta de Steam",
+    "steam.dialog.save": "Guardar",
+    "steam.dialog.saving": "Guardando…"
 }
